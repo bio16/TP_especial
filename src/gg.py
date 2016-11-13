@@ -1,5 +1,11 @@
 #!/usr/bin/env ipython
 # -*- coding: utf-8 -*-
+"""
+script para explorar umbrales inferiores del peso
+de los enlaces. La idea el calcular el nro de comunas
+q se detectan (con los diferentes algoritmos) y llegar 
+a detectar MAS de DOS comunas.
+"""
 import igraph, os
 import numpy as np
 import funcs as ff
@@ -27,7 +33,7 @@ alist = ('greedy', 'infomap', 'louvain')
 orig_w = [e['weight'] for e in graph.es]
 #--- threshold weights
 #thrs_w = (0.2, 0.3, 0.6, 0.8)
-perc = np.arange(start=10., stop=100., step=5.) # last==stop-step
+perc = np.arange(start=45., stop=100., step=3.) # last==stop-step
 thrs_w = np.percentile(a=orig_w, q=perc)
 
 mod = {}
