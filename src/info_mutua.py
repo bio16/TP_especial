@@ -36,7 +36,7 @@ print('Grafo Pesado? ', graph.is_weighted())
 #--- list of algorithms to try
 alist = (('greedy', 'infomap'),
          ('greedy', 'louvain'),
-         ('infomap', 'louvain'),)
+         ('infomap', 'louvain'))
 #--- list of original weights
 orig_w = [e['weight'] for e in graph.es]
 #--- threshold weights
@@ -73,5 +73,9 @@ for aname1, aname2 in alist:
         np.array(list(set(memb1))), 'memb1', 
         np.array(list(set(memb2))), 'memb2'
     )
-    
+    #--- mutual info
+    I, Inorm  = ff.information(fp['conj'], fp['memb1'], fp['memb2'])
+    print(' Inorm (%s,%s): '%(aname1,aname2), Inorm)
+
+
 #EOF

@@ -1,0 +1,9 @@
+De correr ./info_mutua.py, obtengo estos valores de 
+informacion mutua normalizada:
+-----
+ Inorm (greedy,infomap):  0.662271337621
+ Inorm (greedy,louvain):  0.705812801923
+ Inorm (infomap,louvain):  0.724965327637
+-----
+
+Para el algoritmo de "betweeness", demora demasiado (al menos >30min).

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import igraph
 import numpy as np
+from numpy import dot, log, nan
 from pylab import figure, close, hist
 
 # Definicion de silhouette
