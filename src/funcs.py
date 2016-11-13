@@ -34,24 +34,37 @@ def silhouette(g, membership):
     return np.mean(silhouette_per_vertex)
 
 
-def comm_and_membership(g, aname):
+def comm_and_membership(g, aname, weighted=True):
     """
     community detection
     """
+    #--- build list of weights
+    if weighted:
+        lw = []
+        for e in g.es:
+            lw += [ e['weight'] ]
+    else:
+        lw = [1 for i in range(len(g.es))] # set all links to weight=1
+    #---
     if aname=='greedy':
-        comm    = g.community_fastgreedy()
+        comm    = g.community_fastgreedy(weights=lw)
         cluster = comm.as_clustering()
-        member  = cluster.membership
+        member  = cluster.membership # da 2 comunas!
     elif aname=='betweenness':
-        comm    = g.community_edge_betweenness(directed = False)
+        # clusters: the number of clusters we would like to see (i.e. the
+        # level where we cut the dendogram)
+        comm    = g.community_edge_betweenness(clusters=None, directed=False, weights=lw) # takes very long...
         cluster = comm.as_clustering()
         member  = cluster.membership
     elif aname=='infomap':
-        comm    = g.community_infomap()
-        member  = comm.membership
+        # trials: number of attempts to partition the network
+        comm    = g.community_infomap(edge_weights=lw, vertex_weights=None, trials=10)
+        member  = comm.membership # gives full zeros
     elif aname=='louvain':
-        comm    = g.community_multilevel()
-        member  = comm.membership
+        # return_levels:  if C{True}, the communities at each level are
+        # returned in a list.
+        comm    = g.community_multilevel(weights=lw, return_levels=False)
+        member  = comm.membership # da 2 comunas!
     else:
         raise SystemExit(' algorithm not recognized!')
 
