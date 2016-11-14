@@ -16,7 +16,7 @@ print('Numero de enlaces: ', len(graph.es))
 print('Grafo dirigido? ', graph.is_directed())
 print('Grafo Pesado? ', graph.is_weighted())
 
-"""
+
 size_max_component = []
 for threshold in np.linspace(0.50, 1.00, 41):
 
@@ -41,8 +41,8 @@ plt.plot(np.linspace(0.50, 1.00, 41), size_max_component, '.-')
 plt.xlabel('Umbral')
 plt.ylabel('Componente mas grande')
 plt.grid('on')
-plt.show()
-"""
+plt.savefig('Componente_mas_grande.png')
+
 
 
 adjacency_matrix = deepcopy(corr_matrix)
@@ -80,5 +80,5 @@ plt.ylabel('Modularidad')
 plt.xlabel('Numero de comunas')
 plt.title('Optimo: 147 comunas')
 plt.grid('on')
-plt.show()
+plt.savefig('Modularidad_umbral08.png')
 
