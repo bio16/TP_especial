@@ -50,16 +50,17 @@ threshold = 0.80
 
 for i in range(adjacency_matrix.shape[0]):
     for j in range(adjacency_matrix.shape[1]):
-        if adjacency_matrix[i][j] > threshold:
-            adjacency_matrix[i][j] = 1
-        else:
+        if adjacency_matrix[i][j] < threshold:
             adjacency_matrix[i][j] = 0
 
 # Cargo el grafo, pesado y no dirigido
-graph = igraph.Graph.Adjacency(list(adjacency_matrix), mode = igraph.ADJ_MAX)
+graph = igraph.Graph.Weighted_Adjacency(list(adjacency_matrix), mode = igraph.ADJ_MAX, loops = False)
+
+weights = [es['weight'] for es in graph.es]
 
 random.seed(123457)
-com = graph.community_fastgreedy()
+com = graph.community_fastgreedy(weights)
+clust = com.as_clustering()
 
 modularity = []
 nrange = []
@@ -80,9 +81,12 @@ plt.ylabel('Modularidad')
 plt.xlabel('Numero de comunas')
 plt.title('Optimo: 147 comunas')
 plt.grid('on')
+plt.show()
+
+"""
 plt.savefig('Modularidad_umbral08.png')
-
-
+"""
+# Analizo comunas
 clustering = com.as_clustering()
 membership = clustering.membership
 
@@ -91,3 +95,4 @@ print graph.modularity(membership)
 for i in range(len(membership)):
     if membership[i] == 1:
         print i,
+
