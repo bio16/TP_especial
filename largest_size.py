@@ -36,7 +36,7 @@ for threshold in np.linspace(0.50, 1.00, 41):
     size_max_component.append(max(graph_aux.sizes()))
     
 
-
+plt.figure(1)
 plt.plot(np.linspace(0.50, 1.00, 41), size_max_component, '.-')
 plt.xlabel('Umbral')
 plt.ylabel('Componente mas grande')
@@ -74,7 +74,7 @@ for n in range(1, 1191):
     except: 
         pass
 
-
+plt.figure(2)
 plt.plot(nrange, modularity,'.-')
 plt.ylabel('Modularidad')
 plt.xlabel('Numero de comunas')
@@ -82,3 +82,12 @@ plt.title('Optimo: 147 comunas')
 plt.grid('on')
 plt.savefig('Modularidad_umbral08.png')
 
+
+clustering = com.as_clustering()
+membership = clustering.membership
+
+print graph.modularity(membership)
+
+for i in range(len(membership)):
+    if membership[i] == 1:
+        print i,
