@@ -1,9 +1,9 @@
 *.pyc
-*.png
 *.eps
-
 *.txt
 
+*.swp
+*.out
 
 #--- jimmy
 biblio/
