@@ -26,9 +26,17 @@ res = igraph.power_law_fit(hist)
 subplot.plot(centers,hist, 'o')
 #subplot.plot(centers, res.alpha*centers )
 
+sns.distplot(grados,kde=False, ax=subplot, norm_hist=True, bins=bins)
+
+subplot.set_xlabel('grado')
+subplot.set_ylabel('densidad')
+
 subplot.set_xscale('log')
 subplot.set_yscale('log')
 
+
+filename = args.file.split('/')[-1]
+plt.savefig('degree_distribution/'+filename+'.png')
 plt.show()
 
 
