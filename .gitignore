@@ -1,5 +1,13 @@
 *.pyc
 *.eps
 *.txt
+
 *.swp
 *.out
+
+#--- jimmy
+biblio/
+figs/anim_cutoff
+.~*
+
+#EOF
