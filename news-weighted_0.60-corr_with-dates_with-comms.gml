@@ -7,6 +7,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.85c35bbfc081fp+1, 0x1.9749d11c7c4f4p+0"
+      pos_sfdp_mcmc "-0x1.63578d4df3e5fp-1, -0x1.9072a7b50bcf8p+1"
    ]
    node [
       id 1
@@ -14,6 +16,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.4ffd7b2a2136bp+1, 0x1.97b1c04903423p+0"
+      pos_sfdp_mcmc "-0x1.71f6bf29f5009p-1, -0x1.69e4c95cbe6afp+1"
    ]
    node [
       id 2
@@ -21,6 +25,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.420a88cc8d27p+1, 0x1.dbb1df501b302p-1"
+      pos_sfdp_mcmc "0x1.66b022c31d406p-4, -0x1.d28131066b6b7p+1"
    ]
    node [
       id 3
@@ -28,6 +34,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.600a0a098195ep+1, 0x1.e76baed512dd4p-1"
+      pos_sfdp_mcmc "-0x1.42523cd2682b3p-4, -0x1.7ddfeb45a91e7p+1"
    ]
    node [
       id 4
@@ -35,6 +43,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.141f4355c0ca4p+1, 0x1.5083bf4ced1f5p-1"
+      pos_sfdp_mcmc "0x1.c7e3df07c8e5bp-3, -0x1.76e108b4e4d4ap+1"
    ]
    node [
       id 5
@@ -42,6 +52,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.3c766ccc0a844p+2, 0x1.4d1aa463b4321p+0"
+      pos_sfdp_mcmc "0x1.57a221826bfc7p-4, -0x1.95d1aaa32376ep+2"
    ]
    node [
       id 6
@@ -49,6 +61,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.d4b9379c3829ep+1, 0x1.12a3272dffd7p-2"
+      pos_sfdp_mcmc "-0x1.20cebfcf9768bp-3, -0x1.2e8c81b01d26fp+2"
    ]
    node [
       id 7
@@ -56,6 +70,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.c3e7c86141996p+1, 0x1.2748dd869fae9p-1"
+      pos_sfdp_mcmc "0x1.daada88ef2f11p-2, -0x1.32604c93f153bp+2"
    ]
    node [
       id 8
@@ -63,6 +79,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.5f7c311c6a3e8p+2, 0x1.92a1b57c44e2cp+0"
+      pos_sfdp_mcmc "0x1.f0b9ba58ff6b4p-2, -0x1.a41ead0eb1457p+2"
    ]
    node [
       id 9
@@ -70,6 +88,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.7bff2bf524a3bp-3, 0x1.09d9b8bc9429p+0"
+      pos_sfdp_mcmc "-0x1.4b0b2703fa6a8p+1, -0x1.0ffc37eeaf8d4p+2"
    ]
    node [
       id 10
@@ -77,6 +97,8 @@ graph [
       comm_infomap 1
       comm_mcmc 5
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.20e9a6739109ep+1, -0x1.c66ec288fd243p-2"
+      pos_sfdp_mcmc "0x1.6e398847cf5aep+0, -0x1.7fa4108b73a6ep+1"
    ]
    node [
       id 11
@@ -84,6 +106,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.8874c3dd57da4p-1, -0x1.cd4b0cdeeb595p-4"
+      pos_sfdp_mcmc "-0x1.eb7964e973458p-6, -0x1.78138e3129188p+0"
    ]
    node [
       id 12
@@ -91,6 +115,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.43aec3b0c1946p+2, -0x1.3f2cd000ff9dbp+0"
+      pos_sfdp_mcmc "0x1.7bac39c3df554p+1, -0x1.5835927a4ba37p+2"
    ]
    node [
       id 13
@@ -98,6 +124,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.6f9b52335b9d3p+0, 0x1.1575fe7118b5p+1"
+      pos_sfdp_mcmc "-0x1.73da3870c79dcp+0, -0x1.a50a22d26ccd1p+2"
    ]
    node [
       id 14
@@ -105,6 +133,8 @@ graph [
       comm_infomap 1
       comm_mcmc 5
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.432647bfae225p+1, -0x1.ae6697be2fd3p-1"
+      pos_sfdp_mcmc "0x1.81a488c55e43fp+0, -0x1.fdea510a965fep+1"
    ]
    node [
       id 15
@@ -112,6 +142,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.894b05694dd7dp+2, -0x1.9d4841e90ec56p-2"
+      pos_sfdp_mcmc "0x1.b91e19df47366p+1, 0x1.ab2a6846bae66p-2"
    ]
    node [
       id 16
@@ -119,6 +151,8 @@ graph [
       comm_infomap 25
       comm_mcmc 9
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.0bab0d041b9c9p+2, -0x1.1cf1add53409dp-1"
+      pos_sfdp_mcmc "0x1.4fd7f032cdbf2p+1, -0x1.56b35fb00b2ccp+0"
    ]
    node [
       id 17
@@ -126,6 +160,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.bf84881b51d6ap+1, -0x1.946ee09320a33p-3"
+      pos_sfdp_mcmc "0x1.493a6c22fd9dcp+1, -0x1.e7ad941b7aba8p+1"
    ]
    node [
       id 18
@@ -133,6 +169,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.806ea7569d764p+2, 0x1.c038d565db8a5p+0"
+      pos_sfdp_mcmc "0x1.2c87353dfa8c8p+2, -0x1.d51e0bd0cb4e8p+2"
    ]
    node [
       id 19
@@ -140,6 +178,8 @@ graph [
       comm_infomap 12
       comm_mcmc 9
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.4d86e6b31a25bp-2, 0x1.d39bf3fb4e7bep+0"
+      pos_sfdp_mcmc "0x1.f2e150af42a5ep+1, -0x1.6b431c780e63ep+0"
    ]
    node [
       id 20
@@ -147,6 +187,8 @@ graph [
       comm_infomap 12
       comm_mcmc 9
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.7b13832aa522ep-2, 0x1.8cd22def2b8c1p+0"
+      pos_sfdp_mcmc "0x1.c238551c0d846p+1, -0x1.d675713b86739p-1"
    ]
    node [
       id 21
@@ -154,6 +196,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.902437b949934p+1, 0x1.5f7cc6e074ea7p+0"
+      pos_sfdp_mcmc "-0x1.b26a1bdbc4e53p-1, -0x1.b14ecf5c389d7p+1"
    ]
    node [
       id 22
@@ -161,6 +205,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.4125fb87f1c56p+1, 0x1.7514213cd87ccp-1"
+      pos_sfdp_mcmc "0x1.e2940bf28d01dp-3, -0x1.ae69cae3c53fp+1"
    ]
    node [
       id 23
@@ -168,6 +214,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.580b4a428478bp+1, 0x1.e140ba9e2f4e3p-3"
+      pos_sfdp_mcmc "0x1.3c186ee59b561p-1, -0x1.d85ffd35f38d8p+1"
    ]
    node [
       id 24
@@ -175,6 +223,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.367d3e7bbff48p+1, 0x1.9eff1691d60e1p-2"
+      pos_sfdp_mcmc "0x1.1a8e524346dd3p+0, -0x1.ba688b500ed36p+1"
    ]
    node [
       id 25
@@ -182,6 +232,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.8f35cbbb0da3fp+1, 0x1.80b3e0681b586p-7"
+      pos_sfdp_mcmc "0x1.3b1a113679462p+0, -0x1.02a271371aecap+2"
    ]
    node [
       id 26
@@ -189,6 +241,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.54033ab3cc83dp+1, 0x1.9326c8c17f0b2p-1"
+      pos_sfdp_mcmc "0x1.84f11d15437aap-4, -0x1.937eea5d05136p+1"
    ]
    node [
       id 27
@@ -196,6 +250,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.44a657f2142f1p+1, 0x1.3929910df2f3fp-2"
+      pos_sfdp_mcmc "0x1.ddd8fd6832113p-1, -0x1.9f68d25055458p+1"
    ]
    node [
       id 28
@@ -203,6 +259,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.0cab725685855p+3, 0x1.ebc0905c2f816p+2"
+      pos_sfdp_mcmc "0x1.37e1baba27bdfp+2, -0x1.9d31a23b38c4fp+3"
    ]
    node [
       id 29
@@ -210,6 +268,8 @@ graph [
       comm_infomap 31
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.e6524bddc11c8p+1, 0x1.f0f4a2426c9fdp-1"
+      pos_sfdp_mcmc "0x1.00c385abef953p-1, -0x1.4ca46e2c10cf7p+2"
    ]
    node [
       id 30
@@ -217,6 +277,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.765a15775fdfep+1, 0x1.c6a74d166f463p-2"
+      pos_sfdp_mcmc "0x1.012ea1c6affacp-1, -0x1.efc864ffd9d78p+1"
    ]
    node [
       id 31
@@ -224,6 +286,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.394b3323be1f7p+1, 0x1.18d9b375bfd0bp-3"
+      pos_sfdp_mcmc "0x1.2619bb7f63938p-1, -0x1.0391a9dc7ba1cp+2"
    ]
    node [
       id 32
@@ -231,6 +295,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.1aad2624a1eep+2, 0x1.939c79c2c3752p-4"
+      pos_sfdp_mcmc "0x1.cfe6f89a5a235p+1, -0x1.b4a8ab7657cf6p+0"
    ]
    node [
       id 33
@@ -238,6 +304,8 @@ graph [
       comm_infomap 183
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.edb60a78bed46p+3, 0x1.5927697cbf02bp+3"
+      pos_sfdp_mcmc "-0x1.57b7adf4a6c6dp+3, -0x1.bc81dda3a2d9bp+4"
    ]
    node [
       id 34
@@ -245,6 +313,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.776c951970e97p-2, 0x1.d928ada77d475p+1"
+      pos_sfdp_mcmc "0x1.54e8c3de7aa03p+2, -0x1.777ef61e9a831p+1"
    ]
    node [
       id 35
@@ -252,6 +322,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.854f3a7af6706p+2, 0x1.6889ad80b537p+0"
+      pos_sfdp_mcmc "0x1.133614d2aa6c6p+2, -0x1.da2cc06cfc5dbp+2"
    ]
    node [
       id 36
@@ -259,6 +331,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.a545c64778d1fp+2, 0x1.034a85653a677p+1"
+      pos_sfdp_mcmc "0x1.ffecebe6c18e7p-2, -0x1.230322b4cb94fp+3"
    ]
    node [
       id 37
@@ -266,6 +340,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.3fec3a2401261p+0, -0x1.2158b7024307fp+1"
+      pos_sfdp_mcmc "0x1.56413a097ea01p-1, -0x1.e06598752c588p-2"
    ]
    node [
       id 38
@@ -273,6 +349,8 @@ graph [
       comm_infomap 88
       comm_mcmc 14
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.49ab0cbebeef6p+2, -0x1.d969eb5628c9cp-2"
+      pos_sfdp_mcmc "0x1.ab7dd22f9011p+0, 0x1.76948a2babbd1p-7"
    ]
    node [
       id 39
@@ -280,6 +358,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.1f41c0717da27p+0, -0x1.8f21ac65ccd5fp-3"
+      pos_sfdp_mcmc "0x1.e36b1a8023efep+0, -0x1.1674f0e350cecp+1"
    ]
    node [
       id 40
@@ -287,6 +367,8 @@ graph [
       comm_infomap 57
       comm_mcmc 15
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.35b4d875d1f72p+0, -0x1.086117e500501p+2"
+      pos_sfdp_mcmc "-0x1.07582db68de1bp-2, 0x1.8f2c6e0aa84c9p+0"
    ]
    node [
       id 41
@@ -294,6 +376,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.2c44a3b875cb4p+1, -0x1.16d5418d8c8c2p-2"
+      pos_sfdp_mcmc "0x1.93461800f827cp-1, -0x1.7c4d06b8449a9p+1"
    ]
    node [
       id 42
@@ -301,6 +385,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.05a6c8f4c4492p+2, 0x1.2f7b2de8999ffp+3"
+      pos_sfdp_mcmc "0x1.8eecfcff36224p+2, -0x1.55e0cd63c9907p+3"
    ]
    node [
       id 43
@@ -308,6 +394,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.2e7ad6beac94ep+1, 0x1.f16e037f61942p-1"
+      pos_sfdp_mcmc "-0x1.ef640495c547cp-4, -0x1.c5db0968e65a9p+1"
    ]
    node [
       id 44
@@ -315,6 +403,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.70a4a3e78a63p-2, -0x1.5fde4d4ce448ap+0"
+      pos_sfdp_mcmc "0x1.8ba04d2a175dcp+0, -0x1.7af5f17876565p+2"
    ]
    node [
       id 45
@@ -322,6 +412,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.161c3c213dc38p+0, -0x1.ad5b8e7c6c6d9p-1"
+      pos_sfdp_mcmc "0x1.55a9a5de0f845p+0, -0x1.e30179b678d27p+0"
    ]
    node [
       id 46
@@ -329,6 +421,8 @@ graph [
       comm_infomap 100
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.0c5e520754ca8p+3, 0x1.90504043045cep+4"
+      pos_sfdp_mcmc "-0x1.49b9a0974d532p+4, 0x1.9b4bf3ed0e9cp+0"
    ]
    node [
       id 47
@@ -336,6 +430,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.317d21b498b37p+1, 0x1.36dcedff86946p+1"
+      pos_sfdp_mcmc "-0x1.0932e5971473ap+1, -0x1.da8cb79a675a2p+2"
    ]
    node [
       id 48
@@ -343,6 +439,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.7775197ebe996p+1, -0x1.53ee06dad16c6p-3"
+      pos_sfdp_mcmc "0x1.efce7ba89bd19p-1, -0x1.1f2da7b2c9d8bp+2"
    ]
    node [
       id 49
@@ -350,6 +448,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.fabd6efebb49cp-1, 0x1.434f5b7e52215p-4"
+      pos_sfdp_mcmc "0x1.57fd9d949259ep-3, -0x1.b5e3a3c3dd947p+0"
    ]
    node [
       id 50
@@ -357,6 +457,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.c26347c1dd324p+1, 0x1.9bc68e529e44bp-1"
+      pos_sfdp_mcmc "0x1.ae7b397913238p-3, -0x1.44216c1d98a69p+2"
    ]
    node [
       id 51
@@ -364,6 +466,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.98f7127c448b5p+2, 0x1.345d14f33b237p+0"
+      pos_sfdp_mcmc "0x1.377c9ab7fc856p+2, 0x1.ffbd1ae79f9b7p+0"
    ]
    node [
       id 52
@@ -371,6 +475,8 @@ graph [
       comm_infomap 185
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.17df17a59d6e3p+4, -0x1.a7adb86ef9038p+1"
+      pos_sfdp_mcmc "-0x1.e63ce1077493p+2, 0x1.28c076e93f9f5p+4"
    ]
    node [
       id 53
@@ -378,6 +484,8 @@ graph [
       comm_infomap 88
       comm_mcmc 14
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.54875b86f3eaap+2, 0x1.d06621523b165p-1"
+      pos_sfdp_mcmc "0x1.7bc54b618e338p+1, -0x1.f738931541a51p-1"
    ]
    node [
       id 54
@@ -385,6 +493,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.70308edc9e6c2p+1, 0x1.1c911ed28eabfp-2"
+      pos_sfdp_mcmc "0x1.7195f519463b7p+0, -0x1.9fe875e232586p+1"
    ]
    node [
       id 55
@@ -392,6 +502,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.9d163338addf2p+1, 0x1.86c2c8cbf715ap-1"
+      pos_sfdp_mcmc "0x1.9ac54a449927bp+0, -0x1.67162d67d0959p+1"
    ]
    node [
       id 56
@@ -399,6 +511,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.4225d1ac38cb7p+2, 0x1.96a07d368dc8ap+0"
+      pos_sfdp_mcmc "0x1.f393ffb7a6d77p+1, 0x1.229770d71cefdp-1"
    ]
    node [
       id 57
@@ -406,6 +520,8 @@ graph [
       comm_infomap 57
       comm_mcmc 15
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.6c2fece18bee8p+0, -0x1.c1f5132e80666p+1"
+      pos_sfdp_mcmc "0x1.8150add09dfa5p-7, 0x1.eb75f12118525p-1"
    ]
    node [
       id 58
@@ -413,6 +529,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.189ec9cbaab32p+1, 0x1.b1929729633dcp-1"
+      pos_sfdp_mcmc "0x1.11a0b608d2ebap-4, -0x1.b8bd5fa2713bfp+1"
    ]
    node [
       id 59
@@ -420,6 +538,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.b302d231af913p+0, 0x1.6c0b0ddcbc6cfp+1"
+      pos_sfdp_mcmc "-0x1.268d3f81350f3p+1, -0x1.49bf8d0a2714cp+2"
    ]
    node [
       id 60
@@ -427,6 +547,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.179fa9d3a3cfp+1, 0x1.37e61f665b21p-2"
+      pos_sfdp_mcmc "0x1.66889e9a20e9cp-1, -0x1.b4a8690326d01p+1"
    ]
    node [
       id 61
@@ -434,6 +556,8 @@ graph [
       comm_infomap 184
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.c9df45401e487p+3, 0x1.44cca3c7cbb63p+4"
+      pos_sfdp_mcmc "0x1.abd9b33dd1eddp+2, 0x1.78e6541591e2ap+4"
    ]
    node [
       id 62
@@ -441,6 +565,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.a5baee9585398p+2, 0x1.a8d7fe0650549p+0"
+      pos_sfdp_mcmc "0x1.f387e2376bf75p+1, -0x1.f26d9c8d3b3bap+2"
    ]
    node [
       id 63
@@ -448,6 +574,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.2bc69fad57c0dp+1, -0x1.ab642bf90929ep-7"
+      pos_sfdp_mcmc "0x1.88149089ed71fp-1, -0x1.c78a922ffe4f1p+1"
    ]
    node [
       id 64
@@ -455,6 +583,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.f362211e82d6cp+0, -0x1.dca1753cb6a9fp-3"
+      pos_sfdp_mcmc "0x1.fed0b53514dd6p-1, -0x1.7265fdbc4d628p+1"
    ]
    node [
       id 65
@@ -462,6 +592,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.0a249d18f2e0fp+1, 0x1.8a5894b411d6p-3"
+      pos_sfdp_mcmc "0x1.00928fb4ba773p+0, -0x1.cfe5972730aa4p+1"
    ]
    node [
       id 66
@@ -469,6 +601,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.0c8f33ef86b31p+1, 0x1.73cd93a7c950ap+0"
+      pos_sfdp_mcmc "-0x1.1c140f99db93cp+0, -0x1.b48350e29012cp+1"
    ]
    node [
       id 67
@@ -476,6 +610,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.6cce554a307f1p+1, 0x1.2bc59a844d2cdp+0"
+      pos_sfdp_mcmc "-0x1.03ce1e8bcb53p-1, -0x1.b7d6b7b3eb67p+1"
    ]
    node [
       id 68
@@ -483,6 +619,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.49b9230c2c1b2p+1, 0x1.3cc8c0564b966p+1"
+      pos_sfdp_mcmc "0x1.44f449b9fb404p+1, -0x1.41c508dde127fp+2"
    ]
    node [
       id 69
@@ -490,6 +628,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.e5cf8fde92f6cp+0, 0x1.35547343304a6p+1"
+      pos_sfdp_mcmc "-0x1.7a76706c5c643p+0, -0x1.36e0d9e536d38p+2"
    ]
    node [
       id 70
@@ -497,6 +637,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.163b1dd5f27ap+1, 0x1.f908160c1262fp+0"
+      pos_sfdp_mcmc "-0x1.2f3dd3ddc1c28p+0, -0x1.0e382d779f58ep+2"
    ]
    node [
       id 71
@@ -504,6 +646,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.cc45dcfa491c6p+0, 0x1.89a1ef3b0a56bp-1"
+      pos_sfdp_mcmc "0x1.55c2c5e69dd98p-3, -0x1.59d22827a95f2p+1"
    ]
    node [
       id 72
@@ -511,6 +655,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.17f1f908e78cdp+1, 0x1.49d65a1d8b5e4p-5"
+      pos_sfdp_mcmc "0x1.219cdc6926c77p+0, -0x1.996e00835490bp+1"
    ]
    node [
       id 73
@@ -518,6 +664,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.5e6b663f25032p+2, 0x1.2bbbfef501da6p+0"
+      pos_sfdp_mcmc "-0x1.cf0e05c1a122dp-2, -0x1.a44cd8ee7654fp+2"
    ]
    node [
       id 74
@@ -525,6 +673,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.c2d4fee703377p+0, 0x1.1592feed7841p-8"
+      pos_sfdp_mcmc "0x1.05b2156198343p-1, -0x1.1d965cae7e76fp+2"
    ]
    node [
       id 75
@@ -532,6 +682,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.2152506c3635bp+2, 0x1.0fe6babde1632p+0"
+      pos_sfdp_mcmc "0x1.17f7d6b825b49p+2, -0x1.613aac25be38ep+1"
    ]
    node [
       id 76
@@ -539,6 +691,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.e5b383848df09p+1, 0x1.8b657500afbd4p-7"
+      pos_sfdp_mcmc "0x1.72fd5a2004ea2p+1, -0x1.4fa3c33d49779p+1"
    ]
    node [
       id 77
@@ -546,6 +700,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.011254d252a93p+2, 0x1.510f783fbf01ap-1"
+      pos_sfdp_mcmc "0x1.9c983092164e9p+1, -0x1.3788e54b14657p+1"
    ]
    node [
       id 78
@@ -553,6 +709,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.691057c12f5bfp+0, 0x1.61904e86a1d0dp+0"
+      pos_sfdp_mcmc "0x1.d44b4f773db9ep+1, -0x1.b80655c82db4p+1"
    ]
    node [
       id 79
@@ -560,6 +718,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.2f8a05eb786cbp+2, -0x1.3e1a8f9ad25a8p+1"
+      pos_sfdp_mcmc "-0x1.c52c38e46eb7p-3, -0x1.755f0fe852657p+2"
    ]
    node [
       id 80
@@ -567,6 +727,8 @@ graph [
       comm_infomap 97
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.c3e1230592881p+1, -0x1.2e6affe88d81fp+1"
+      pos_sfdp_mcmc "-0x1.213286a6d8522p+1, -0x1.ecab85842cf7ap+0"
    ]
    node [
       id 81
@@ -574,6 +736,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.18f0c847fc9a4p+2, -0x1.65bb83fefab5dp+0"
+      pos_sfdp_mcmc "-0x1.4926e88e7c1e6p-1, -0x1.3de403a30c9c5p+2"
    ]
    node [
       id 82
@@ -581,6 +745,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.25e81ee1a1c2ap+1, 0x1.f48c2ebffe41fp-2"
+      pos_sfdp_mcmc "0x1.5824df036206fp+0, -0x1.c4687d9c18786p+1"
    ]
    node [
       id 83
@@ -588,6 +754,8 @@ graph [
       comm_infomap 88
       comm_mcmc 14
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.c18c0125e0894p+2, -0x1.c75d557cdad41p+0"
+      pos_sfdp_mcmc "0x1.f7c983a3f80a4p-1, 0x1.51262ab53b12cp+1"
    ]
    node [
       id 84
@@ -595,6 +763,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.19cfb5f831c1ep+0, 0x1.3bc25b5a76299p+0"
+      pos_sfdp_mcmc "0x1.0be600927b57p+1, -0x1.92bfbf57b86f4p-2"
    ]
    node [
       id 85
@@ -602,6 +772,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.4c7212cf417c8p-1, 0x1.11d8c7c471f89p-2"
+      pos_sfdp_mcmc "0x1.0de850044c769p+0, -0x1.1652650921f8bp+0"
    ]
    node [
       id 86
@@ -609,6 +781,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.ccdfb2d636abap-3, 0x1.60c8177468cc1p-1"
+      pos_sfdp_mcmc "0x1.4418cbe00729ap-1, -0x1.a989c5fa7b069p-1"
    ]
    node [
       id 87
@@ -616,6 +790,8 @@ graph [
       comm_infomap 1
       comm_mcmc 19
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.9475a031f5bfcp+1, -0x1.af11885b374f4p-3"
+      pos_sfdp_mcmc "0x1.d8eac55779c8ep+0, -0x1.5a17a32e9e32cp+1"
    ]
    node [
       id 88
@@ -623,6 +799,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.8cf9eb62796f7p+0, 0x1.e304269353fe4p-1"
+      pos_sfdp_mcmc "0x1.049b888bb186p+1, -0x1.3315071c96c33p+1"
    ]
    node [
       id 89
@@ -630,6 +808,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.0231f7e58a479p+2, 0x1.1e2c4c49b566cp+0"
+      pos_sfdp_mcmc "0x1.f3148da78dc38p+1, -0x1.e9565e919bc8bp+0"
    ]
    node [
       id 90
@@ -637,6 +817,8 @@ graph [
       comm_infomap 187
       comm_mcmc 6
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.09e79ada41111p+3, -0x1.11969fd7dfbcbp+4"
+      pos_sfdp_mcmc "-0x1.29f555e93a208p+3, 0x1.42ad10051ebaep+4"
    ]
    node [
       id 91
@@ -644,6 +826,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
+      pos_sfdp_infomap "0x1.470898a79cab7p-3, 0x1.a04bddcecbea7p-3"
+      pos_sfdp_mcmc "-0x1.a91fa8b4f77e1p+0, -0x1.03939858518ccp+2"
    ]
    node [
       id 92
@@ -651,6 +835,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "5-8-2016"
+      pos_sfdp_infomap "-0x1.0f91e6de4a225p+3, 0x1.502192af34dd2p+0"
+      pos_sfdp_mcmc "-0x1.45922a2a19e16p+0, -0x1.2a4f7df8a516ep+3"
    ]
    node [
       id 93
@@ -658,6 +844,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.b8a17dff70333p+1, 0x1.866acdb402532p+0"
+      pos_sfdp_mcmc "0x1.02e47a0f200a1p+0, -0x1.4b70d0d0e4339p+2"
    ]
    node [
       id 94
@@ -665,6 +853,8 @@ graph [
       comm_infomap 97
       comm_mcmc 4
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.69ee90d7bdfedp+1, -0x1.d07289e93d411p+0"
+      pos_sfdp_mcmc "-0x1.a84c30e7dae33p+0, -0x1.04209075cf808p+1"
    ]
    node [
       id 95
@@ -672,6 +862,8 @@ graph [
       comm_infomap 21
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.a08c69d386f87p-2, 0x1.14feec10dbd4ep-3"
+      pos_sfdp_mcmc "-0x1.06d104f6b0979p+0, -0x1.22874084b7f25p+2"
    ]
    node [
       id 96
@@ -679,6 +871,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.849525f1aa8a4p+2, 0x1.28d84ace22ff8p+1"
+      pos_sfdp_mcmc "0x1.a6aa857976b3cp-1, -0x1.ef4fbfe5d62fbp+2"
    ]
    node [
       id 97
@@ -686,6 +880,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.14846c78a5c2ap+1, 0x1.315cf1c73b4dcp+0"
+      pos_sfdp_mcmc "-0x1.0b6e0bb20da3p+2, -0x1.363fc72fad1f8p+2"
    ]
    node [
       id 98
@@ -693,6 +889,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.6ec6cd3437eep+2, -0x1.11dc8b50e8c6ep+2"
+      pos_sfdp_mcmc "-0x1.3d6456766a0dap+1, -0x1.bc1af935c1ef8p+2"
    ]
    node [
       id 99
@@ -700,6 +898,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.9d6406f3b0c45p+1, -0x1.a2e948f5ef00bp+0"
+      pos_sfdp_mcmc "-0x1.37e20b0028e7fp+0, -0x1.ee582e2394932p+1"
    ]
    node [
       id 100
@@ -707,6 +907,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.8034dc243f0ecp+0, 0x1.455167064b8fep+1"
+      pos_sfdp_mcmc "-0x1.1e1c3fa9d3722p+0, -0x1.ba1646e7352b4p+2"
    ]
    node [
       id 101
@@ -714,6 +916,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.452487ca673e6p+1, 0x1.1f86e9a87c681p-1"
+      pos_sfdp_mcmc "0x1.d4c8cd9193e21p-2, -0x1.c389b752ba17ep+1"
    ]
    node [
       id 102
@@ -721,6 +925,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.49fbce3439fddp-1, -0x1.36381370a2f84p+0"
+      pos_sfdp_mcmc "0x1.870b09ad97c4bp-1, -0x1.c6a80637d2d5cp+0"
    ]
    node [
       id 103
@@ -728,6 +934,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.1bf54e6895a34p+0, -0x1.05aa0e5f1d29dp-1"
+      pos_sfdp_mcmc "0x1.941d683584595p-1, -0x1.2a2bf527123a3p+1"
    ]
    node [
       id 104
@@ -735,6 +943,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.fac27962ffa02p+0, -0x1.096ca978bd653p-6"
+      pos_sfdp_mcmc "0x1.2e451da3e10dap+0, -0x1.dc2a2f9974bd4p+1"
    ]
    node [
       id 105
@@ -742,6 +952,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.4794bd3336c2ap-4, -0x1.1ae70b742fc31p+1"
+      pos_sfdp_mcmc "0x1.c915e4cde0cddp-1, -0x1.6cf7ce2fe08bbp+2"
    ]
    node [
       id 106
@@ -749,6 +961,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.fa6ded98915abp+1, -0x1.67e8d768ec504p+1"
+      pos_sfdp_mcmc "-0x1.32fa2af13e535p+1, -0x1.e169252dbdd2cp+1"
    ]
    node [
       id 107
@@ -756,6 +970,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.852fbe298fbffp+1, 0x1.ca02fc242ebc1p-3"
+      pos_sfdp_mcmc "0x1.c6443318367a4p-1, -0x1.06700bf057ae9p+2"
    ]
    node [
       id 108
@@ -763,6 +979,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.f996a6014566fp+0, 0x1.d00bda9afcccep-1"
+      pos_sfdp_mcmc "0x1.377694474c1b4p+0, -0x1.7a1f0d50e121fp+1"
    ]
    node [
       id 109
@@ -770,6 +988,8 @@ graph [
       comm_infomap 186
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.7277d09372f0ep+3, -0x1.6aa57cd5f67fap+3"
+      pos_sfdp_mcmc "0x1.e457342dcebadp+3, 0x1.5b3df35d9121dp+4"
    ]
    node [
       id 110
@@ -777,6 +997,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.2e531ecf6b9acp+1, 0x1.5f42b1cd95317p-1"
+      pos_sfdp_mcmc "0x1.43902d3818c9bp-2, -0x1.d28fcc2682a35p+1"
    ]
    node [
       id 111
@@ -784,6 +1006,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.dcd56c2e58197p+0, 0x1.30efa1870df3dp+0"
+      pos_sfdp_mcmc "-0x1.7ca5347523b73p-2, -0x1.1a79920a4603fp+2"
    ]
    node [
       id 112
@@ -791,6 +1015,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.9fc51b012cfd8p+3, 0x1.0133025a6e6ccp+2"
+      pos_sfdp_mcmc "0x1.7a817dcf259ebp-2, -0x1.d6642e34e6bfap+3"
    ]
    node [
       id 113
@@ -798,6 +1024,8 @@ graph [
       comm_infomap 88
       comm_mcmc 14
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.e1f0e77bfe67ep+2, -0x1.0583e5448182ep-6"
+      pos_sfdp_mcmc "0x1.68283a0de7bep+1, 0x1.91fe2516923eep+0"
    ]
    node [
       id 114
@@ -805,6 +1033,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.463ae976875bp+1, -0x1.2ef4c1d1b3defp-2"
+      pos_sfdp_mcmc "0x1.a6559bd4beffcp+0, -0x1.e69b9bcfe4323p+1"
    ]
    node [
       id 115
@@ -812,6 +1042,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.041d2be19ffc4p+2, -0x1.ad0dcf888e2c5p-1"
+      pos_sfdp_mcmc "0x1.201c83e6f2249p+1, -0x1.1fe76a456691cp+2"
    ]
    node [
       id 116
@@ -819,6 +1051,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.d44b9b66bc806p+0, -0x1.dfd5940bcaec8p-2"
+      pos_sfdp_mcmc "0x1.7d44f78f9e56ap+0, -0x1.d4f5d75fa09a5p+1"
    ]
    node [
       id 117
@@ -826,6 +1060,8 @@ graph [
       comm_infomap 56
       comm_mcmc 14
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.623a48d5487cbp+0, -0x1.6b838fe5ccf7dp+1"
+      pos_sfdp_mcmc "-0x1.3421f7e5b697bp+0, 0x1.6e8259e544c92p-3"
    ]
    node [
       id 118
@@ -833,6 +1069,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.b4e0e23a2f99ep+0, -0x1.33f27bbe0ef82p+0"
+      pos_sfdp_mcmc "0x1.ce3600b4f449cp-2, -0x1.d04a5365313f5p+0"
    ]
    node [
       id 119
@@ -840,6 +1078,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.320ad6142fd2fp+2, 0x1.9d28477a131d5p+3"
+      pos_sfdp_mcmc "0x1.f1ca6e2849f4ap+3, -0x1.f7deb4cfb9139p+2"
    ]
    node [
       id 120
@@ -847,6 +1087,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.549fd6732a33bp-2, -0x1.68e016bf8059bp-1"
+      pos_sfdp_mcmc "0x1.35876da97a5f8p+1, -0x1.966fa2822820dp-2"
    ]
    node [
       id 121
@@ -854,6 +1096,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.4088da90f19ebp+1, -0x1.311ddfd5c1fffp-5"
+      pos_sfdp_mcmc "0x1.0311aee254accp-1, -0x1.a7d88628b4811p+1"
    ]
    node [
       id 122
@@ -861,6 +1105,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.0644333a56ecfp+0, 0x1.2e929269b12cbp+1"
+      pos_sfdp_mcmc "0x1.ad676aaf99668p+1, -0x1.b58c39cdfe111p+0"
    ]
    node [
       id 123
@@ -868,6 +1114,8 @@ graph [
       comm_infomap 101
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.05b57fd89a704p+4, 0x1.0c762866c2d7dp+4"
+      pos_sfdp_mcmc "-0x1.6d8ae5572971dp+4, 0x1.165d5bf2b260cp+1"
    ]
    node [
       id 124
@@ -875,6 +1123,8 @@ graph [
       comm_infomap 1
       comm_mcmc 19
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.62dfa8df2ff82p+1, 0x1.26a287ac1a1dp-1"
+      pos_sfdp_mcmc "0x1.6a3c1c9802164p+0, -0x1.64fb172109b03p+1"
    ]
    node [
       id 125
@@ -882,6 +1132,8 @@ graph [
       comm_infomap 1
       comm_mcmc 19
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.5d00dc2ab3622p+1, 0x1.b190d2959e7fbp-2"
+      pos_sfdp_mcmc "0x1.a9a217acbc65dp+0, -0x1.87d628fd6e526p+1"
    ]
    node [
       id 126
@@ -889,6 +1141,8 @@ graph [
       comm_infomap 29
       comm_mcmc 5
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.cee58bc45c32ap-1, -0x1.0c831c04f01b3p+0"
+      pos_sfdp_mcmc "0x1.572bad07d6a0dp+0, -0x1.3ff0099015437p+2"
    ]
    node [
       id 127
@@ -896,6 +1150,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.e5202cf4f737p-8, -0x1.5424196a7f87ap+1"
+      pos_sfdp_mcmc "0x1.b63ca90234735p-1, -0x1.81b955e54c994p+2"
    ]
    node [
       id 128
@@ -903,6 +1159,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.23b1470ee41f1p-1, -0x1.f6ca7199fd525p-1"
+      pos_sfdp_mcmc "0x1.429fdf20ad67p+0, -0x1.9678d1ca77f89p+0"
    ]
    node [
       id 129
@@ -910,6 +1168,8 @@ graph [
       comm_infomap 1
       comm_mcmc 5
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.5f6574cda153dp+0, -0x1.6dbfab0a87effp-1"
+      pos_sfdp_mcmc "0x1.643a4a0fa137dp+0, -0x1.0d14dbb4cb23dp+2"
    ]
    node [
       id 130
@@ -917,6 +1177,8 @@ graph [
       comm_infomap 46
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.518e14c93734cp+1, -0x1.22c4dd93ba51dp+0"
+      pos_sfdp_mcmc "-0x1.3173ae919f2e4p-2, -0x1.49c90cae7eaacp+1"
    ]
    node [
       id 131
@@ -924,6 +1186,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.003ac44a2c12p+1, -0x1.3819f11145ee3p-1"
+      pos_sfdp_mcmc "0x1.e214c1548bf03p-2, -0x1.3fb224a4c1baap+1"
    ]
    node [
       id 132
@@ -931,6 +1195,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.5c0dc8a67c7bcp+0, -0x1.e4ad575a24b4p-5"
+      pos_sfdp_mcmc "0x1.8210b7a5b9268p-2, -0x1.0b628fd6d4c21p+1"
    ]
    node [
       id 133
@@ -938,6 +1204,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.041db6bc68c7dp+1, 0x1.3235f2a3d9e7fp-1"
+      pos_sfdp_mcmc "-0x1.bdc3c172470a2p+1, -0x1.57fbf67b094a7p+2"
    ]
    node [
       id 134
@@ -945,6 +1213,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.7658a2abdd50dp+0, 0x1.9f58e029d7216p-3"
+      pos_sfdp_mcmc "-0x1.189db15f85e16p-2, -0x1.fac11afff83e3p+1"
    ]
    node [
       id 135
@@ -952,6 +1222,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.54d6f711258b8p+2, 0x1.04928c9b77251p+1"
+      pos_sfdp_mcmc "0x1.0f66a50236fabp-1, -0x1.b9ae81d311fadp+2"
    ]
    node [
       id 136
@@ -959,6 +1231,8 @@ graph [
       comm_infomap 182
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.94f33b186c5ccp+2, 0x1.907a13080d5e6p+4"
+      pos_sfdp_mcmc "-0x1.71337c6e130fcp+4, -0x1.64618a0e194f1p+3"
    ]
    node [
       id 137
@@ -966,6 +1240,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.3429abd5b06d4p+1, 0x1.982a08117edadp+0"
+      pos_sfdp_mcmc "-0x1.044b21731fc92p+0, -0x1.605ce246bef75p+1"
    ]
    node [
       id 138
@@ -973,6 +1249,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.6d0b72f7ae9p+1, -0x1.db06429941954p-2"
+      pos_sfdp_mcmc "0x1.57429cc0e8b21p+0, -0x1.eed6bd573fccbp+1"
    ]
    node [
       id 139
@@ -980,6 +1258,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.51d69069bfddcp+0, 0x1.80ef4503a422bp+1"
+      pos_sfdp_mcmc "0x1.178dc8a1bed31p+2, -0x1.fae0faa5cdf29p+0"
    ]
    node [
       id 140
@@ -987,6 +1267,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.f9c7078b84f79p+0, 0x1.55d2d0532e968p-1"
+      pos_sfdp_mcmc "0x1.d5e80e6b58c89p+0, -0x1.9f133212421c4p+1"
    ]
    node [
       id 141
@@ -994,6 +1276,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.e99ec64a58908p+0, 0x1.d059bbdb3d587p+0"
+      pos_sfdp_mcmc "0x1.dadbf84d0e51ep+0, -0x1.24d883931409cp+2"
    ]
    node [
       id 142
@@ -1001,6 +1285,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.27722dd6a51adp+0, 0x1.f19ca5df065dcp-2"
+      pos_sfdp_mcmc "-0x1.6e363eaec3ddbp+1, -0x1.47b2e53b29a0bp+2"
    ]
    node [
       id 143
@@ -1008,6 +1294,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.d6f012dcd0e8p-4, -0x1.efeddce0e2042p+0"
+      pos_sfdp_mcmc "0x1.77d08d1999b5p+0, -0x1.69ab147af02bbp+2"
    ]
    node [
       id 144
@@ -1015,6 +1303,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.95b047714c374p+2, 0x1.78ddce7faf807p+0"
+      pos_sfdp_mcmc "0x1.b80643da2fba2p+0, -0x1.f0c3ad68e354cp+2"
    ]
    node [
       id 145
@@ -1022,6 +1312,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.864e57fb140e7p+0, -0x1.0a2cff74c0cc6p-1"
+      pos_sfdp_mcmc "0x1.e4a5eac7bcdap+0, -0x1.7f48d524cedd5p+2"
    ]
    node [
       id 146
@@ -1029,6 +1321,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.92659d8ac4bfcp+1, -0x1.ffb7c8538d9ffp+0"
+      pos_sfdp_mcmc "0x1.59bde8d97bdf2p+1, -0x1.8b16fc716af12p+2"
    ]
    node [
       id 147
@@ -1036,6 +1330,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.6ee93f06aef48p+1, 0x1.7eb5b34d50e77p-1"
+      pos_sfdp_mcmc "0x1.12619ca847a95p-1, -0x1.8061aa4e75688p+1"
    ]
    node [
       id 148
@@ -1043,6 +1339,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.928920aa9c057p-2, -0x1.5e06db724b78ep+1"
+      pos_sfdp_mcmc "0x1.222fbe8c9a04ep+0, -0x1.58edac654eb22p+2"
    ]
    node [
       id 149
@@ -1050,6 +1348,8 @@ graph [
       comm_infomap 181
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.e84702131df41p+3, 0x1.5f479b6dadc76p+4"
+      pos_sfdp_mcmc "-0x1.746c31b288288p+4, -0x1.c784a92683b6p-1"
    ]
    node [
       id 150
@@ -1057,6 +1357,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.ea945b084e6f5p+2, 0x1.3718dbdf3e8bcp+1"
+      pos_sfdp_mcmc "0x1.8d2eabf0462dap-2, -0x1.2f70eba79288cp+3"
    ]
    node [
       id 151
@@ -1064,6 +1366,8 @@ graph [
       comm_infomap 1
       comm_mcmc 19
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.17471de111c85p+1, -0x1.9cf1454ecdb05p-1"
+      pos_sfdp_mcmc "0x1.fc6d2f0b2ba85p-1, -0x1.b2ca88b998eddp+0"
    ]
    node [
       id 152
@@ -1071,6 +1375,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.e785fa2babeb6p-1, 0x1.c3eec72dd0c9fp+0"
+      pos_sfdp_mcmc "-0x1.18a3102532071p+0, -0x1.60c40950de0d8p+2"
    ]
    node [
       id 153
@@ -1078,6 +1384,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.80c5f6a881e1fp+0, 0x1.11f50b0e80ceep-1"
+      pos_sfdp_mcmc "-0x1.9a383ba02beb9p+1, -0x1.2e0103b92c3a8p+2"
    ]
    node [
       id 154
@@ -1085,6 +1393,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.cb4c1bc9151abp+2, 0x1.6be4d6db19788p+3"
+      pos_sfdp_mcmc "0x1.ed866026b05a7p+3, -0x1.63ad0c3e2d8bep+2"
    ]
    node [
       id 155
@@ -1092,6 +1402,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.cee7ff770e71fp+0, -0x1.9d8d7d41d7a1cp-3"
+      pos_sfdp_mcmc "-0x1.225d873b6b0afp+1, 0x1.59278774571dbp-3"
    ]
    node [
       id 156
@@ -1099,6 +1411,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.11b011089e8cdp+1, 0x1.23709345ecb67p+0"
+      pos_sfdp_mcmc "0x1.8972d6cd7fbd4p-3, -0x1.1354fb7575b28p+2"
    ]
    node [
       id 157
@@ -1106,6 +1420,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.28cdf25dd7a03p+1, 0x1.d6e2657cea9aep-3"
+      pos_sfdp_mcmc "0x1.d14e12c3b50a4p-1, -0x1.b799752c6a96fp+1"
    ]
    node [
       id 158
@@ -1113,6 +1429,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.98d1db415c06ap+0, -0x1.80bbbd44197bbp+2"
+      pos_sfdp_mcmc "-0x1.16cff3f7cc8bcp+1, 0x1.d99892f1de60ep+1"
    ]
    node [
       id 159
@@ -1120,6 +1438,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.bbebc185a4f41p+1, 0x1.dc8fab1951bffp+3"
+      pos_sfdp_mcmc "0x1.0691ec78deba6p+3, -0x1.fffc7aa1afbacp+3"
    ]
    node [
       id 160
@@ -1127,6 +1447,8 @@ graph [
       comm_infomap 58
       comm_mcmc 14
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.14d4d551e6256p+2, -0x1.467c0937c1858p+1"
+      pos_sfdp_mcmc "0x1.98c2eda67dd8ap+0, 0x1.070a9cb167064p+1"
    ]
    node [
       id 161
@@ -1134,6 +1456,8 @@ graph [
       comm_infomap 25
       comm_mcmc 9
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.3b9a85cf8585ep+2, -0x1.fff2f8d63465bp+0"
+      pos_sfdp_mcmc "0x1.0162c9777cd17p+2, -0x1.8b703b30606b5p+1"
    ]
    node [
       id 162
@@ -1141,6 +1465,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.a899b0929c00cp+0, 0x1.3003f629bc4a7p+0"
+      pos_sfdp_mcmc "0x1.1fe8b6372d336p+1, -0x1.d32e5c7281d2p+1"
    ]
    node [
       id 163
@@ -1148,6 +1474,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.01dda8914f1e9p-2, -0x1.8d73fb8bda7cap+1"
+      pos_sfdp_mcmc "0x1.a5b155e7664a2p-2, -0x1.61c49e702f33cp+2"
    ]
    node [
       id 164
@@ -1155,6 +1483,8 @@ graph [
       comm_infomap 2
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.f400489e1ea43p-1, -0x1.480885f9d51d8p+0"
+      pos_sfdp_mcmc "0x1.b1567fcb791fcp+0, -0x1.52b4dd8189a97p+2"
    ]
    node [
       id 165
@@ -1162,6 +1492,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.061888d233c54p+1, 0x1.cdf1ec57807ddp-2"
+      pos_sfdp_mcmc "0x1.c62959a8c60ccp-1, -0x1.e25531ce6a4e8p+1"
    ]
    node [
       id 166
@@ -1169,6 +1501,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.414c20808c0bfp+1, -0x1.18c57292c45c8p-1"
+      pos_sfdp_mcmc "0x1.d9aaba3ff8855p+0, -0x1.ca27ea42db6efp+1"
    ]
    node [
       id 167
@@ -1176,6 +1510,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.d0caf9937d64fp+1, -0x1.edd95a5058f9bp-2"
+      pos_sfdp_mcmc "0x1.4b41380f0870fp-3, -0x1.2d9486c55f262p+2"
    ]
    node [
       id 168
@@ -1183,6 +1519,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.806dbb4d64a6cp+1, -0x1.260534c961ebap+1"
+      pos_sfdp_mcmc "0x1.491c64b44fe93p+1, -0x1.a25968d6b7aa2p+2"
    ]
    node [
       id 169
@@ -1190,6 +1528,8 @@ graph [
       comm_infomap 70
       comm_mcmc 9
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.4e37187910971p+1, -0x1.823f7cba65a09p+1"
+      pos_sfdp_mcmc "-0x1.bf6b261516b23p+0, -0x1.4ef3ff52295dfp+2"
    ]
    node [
       id 170
@@ -1197,6 +1537,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.14af082de3423p+1, -0x1.88c83a0b82ap-3"
+      pos_sfdp_mcmc "0x1.6ca9bad694fecp-1, -0x1.9695f786d024bp+1"
    ]
    node [
       id 171
@@ -1204,6 +1546,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.e47024eac510dp-2, 0x1.3b709ba67920bp+0"
+      pos_sfdp_mcmc "0x1.700453bbcaba3p+0, -0x1.477d840a20352p-1"
    ]
    node [
       id 172
@@ -1211,6 +1555,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.06cd23588fa4ap+1, -0x1.b3f89ebb32467p-2"
+      pos_sfdp_mcmc "0x1.dbcd23c03c614p-2, -0x1.5ce139fdee2b8p+1"
    ]
    node [
       id 173
@@ -1218,6 +1564,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.8518c117da51cp+0, 0x1.a74a75c2a7aa7p+0"
+      pos_sfdp_mcmc "0x1.61eb2421cc3eap+1, -0x1.9b3bf972856e5p+1"
    ]
    node [
       id 174
@@ -1225,6 +1573,8 @@ graph [
       comm_infomap 6
       comm_mcmc 21
       date "6-8-2016"
+      pos_sfdp_infomap "-0x1.5f5b5bf1e27efp-1, -0x1.c7a42df188368p+0"
+      pos_sfdp_mcmc "0x1.d0d6ee61620dfp+0, -0x1.06ebca213f64dp+2"
    ]
    node [
       id 175
@@ -1232,6 +1582,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "6-8-2016"
+      pos_sfdp_infomap "0x1.3ea0933bc1ab2p+1, 0x1.769f3ee035826p+1"
+      pos_sfdp_mcmc "-0x1.910e03aeca6e9p+0, -0x1.d7ffb9210c555p+2"
    ]
    node [
       id 176
@@ -1239,6 +1591,8 @@ graph [
       comm_infomap 1
       comm_mcmc 17
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.d228136f6f44bp+0, 0x1.2b3acdd284d91p-1"
+      pos_sfdp_mcmc "0x1.7ff639af05e45p-1, -0x1.f9d34ce0ddd6fp+1"
    ]
    node [
       id 177
@@ -1246,6 +1600,8 @@ graph [
       comm_infomap 180
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.25101c48955eap+4, -0x1.b62addeedaf4ep+3"
+      pos_sfdp_mcmc "-0x1.0c91871ec7b6ep-1, 0x1.67b19091c12dap+4"
    ]
    node [
       id 178
@@ -1253,6 +1609,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.0954adf9ba0a6p+2, -0x1.6cd8d3e448b83p-3"
+      pos_sfdp_mcmc "0x1.7f2e6b64a931bp+1, -0x1.90eb5fca35b57p+0"
    ]
    node [
       id 179
@@ -1260,6 +1618,8 @@ graph [
       comm_infomap 58
       comm_mcmc 14
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.d154c5e6abe8p+1, -0x1.b1a52bda7aa83p+0"
+      pos_sfdp_mcmc "0x1.36b885393d34ep+0, 0x1.75f0dd2b220aap-4"
    ]
    node [
       id 180
@@ -1267,6 +1627,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.9ee17662f147ap+2, 0x1.05aeda8e8457p+2"
+      pos_sfdp_mcmc "0x1.be42548d9e3dep+2, -0x1.408bae6093f59p+0"
    ]
    node [
       id 181
@@ -1274,6 +1636,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.1462c336e425dp+1, 0x1.ac92e01fd315ap+0"
+      pos_sfdp_mcmc "0x1.9dd3c144e1ddap+0, -0x1.0e2aef0edf0cdp+1"
    ]
    node [
       id 182
@@ -1281,6 +1645,8 @@ graph [
       comm_infomap 91
       comm_mcmc 9
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.298e40e2b2592p+1, -0x1.068116e92e226p+1"
+      pos_sfdp_mcmc "-0x1.98eeeb088c4d4p+0, -0x1.8a0fc6a7f38afp+1"
    ]
    node [
       id 183
@@ -1288,6 +1654,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.67c268e1d78ecp-3, 0x1.24949a5b0ac41p+1"
+      pos_sfdp_mcmc "0x1.1f9f9099c386ap+2, -0x1.f920bad7ecfc3p+1"
    ]
    node [
       id 184
@@ -1295,6 +1663,8 @@ graph [
       comm_infomap 1
       comm_mcmc 24
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.2b858800ac28fp+0, 0x1.79e4d0b66de8ep+0"
+      pos_sfdp_mcmc "0x1.9aaa3604233c4p+0, 0x1.b1b1732c25092p-1"
    ]
    node [
       id 185
@@ -1302,6 +1672,8 @@ graph [
       comm_infomap 1
       comm_mcmc 19
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.e2510a008d1aap+0, 0x1.9afa77fba6a59p-2"
+      pos_sfdp_mcmc "0x1.6760ed1c5ffedp-2, -0x1.93c690fcd8c6fp+1"
    ]
    node [
       id 186
@@ -1309,6 +1681,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.6a252fde89371p+2, 0x1.dd1d71652dd95p+0"
+      pos_sfdp_mcmc "0x1.b3755d6d8ccc9p-2, -0x1.cbe58e5e78fd1p+2"
    ]
    node [
       id 187
@@ -1316,6 +1690,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.886166c3c479p-1, -0x1.88ffd76a4abdap+0"
+      pos_sfdp_mcmc "0x1.e1fbc99e0e153p-1, -0x1.6899172a5ab7ap+0"
    ]
    node [
       id 188
@@ -1323,6 +1699,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.bddd4db55058bp-3, -0x1.4d88f25e1319ep+0"
+      pos_sfdp_mcmc "0x1.0ef481d117f7bp+0, -0x1.9c962e257f252p+2"
    ]
    node [
       id 189
@@ -1330,6 +1708,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.1cf7711411955p+0, -0x1.20afe6b0ae66p+0"
+      pos_sfdp_mcmc "0x1.81bd0f0a26084p+0, -0x1.ba803ce78d15dp+2"
    ]
    node [
       id 190
@@ -1337,6 +1717,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.8e30b71b7486bp-3, 0x1.79c42c0c7d532p+3"
+      pos_sfdp_mcmc "0x1.6e40dffa85e8ep+2, -0x1.3aea513ef4a83p+3"
    ]
    node [
       id 191
@@ -1344,6 +1726,8 @@ graph [
       comm_infomap 179
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.6f2b08dedff3bp+4, -0x1.19ba9fd8768fdp+3"
+      pos_sfdp_mcmc "0x1.bf47639cf71aep+4, 0x1.0ea7c51a9508fp+3"
    ]
    node [
       id 192
@@ -1351,6 +1735,8 @@ graph [
       comm_infomap 1
       comm_mcmc 19
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.548f10efc0328p+1, -0x1.8b2f078b461a7p-4"
+      pos_sfdp_mcmc "0x1.022e9f64f4d0bp+0, -0x1.f437fa3c4f962p+1"
    ]
    node [
       id 193
@@ -1358,6 +1744,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.e6b511598b85dp+2, -0x1.230e7f9303c98p+0"
+      pos_sfdp_mcmc "0x1.54959acb0ac02p+1, 0x1.10788d9a217a3p+1"
    ]
    node [
       id 194
@@ -1365,6 +1753,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.e33967dda6cecp+2, -0x1.9a3ea22fe645dp-1"
+      pos_sfdp_mcmc "0x1.8abfc6e43790ap+1, 0x1.09e1c21e6749cp+1"
    ]
    node [
       id 195
@@ -1372,6 +1762,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.beabaac54f7d8p+2, 0x1.2088d5985452p+1"
+      pos_sfdp_mcmc "0x1.53ec6017d264p+2, -0x1.14909ed02a8dep+3"
    ]
    node [
       id 196
@@ -1379,6 +1771,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.47f6a29c84379p+2, 0x1.8f5ad59d21ae7p-1"
+      pos_sfdp_mcmc "-0x1.1b4655941c503p+0, -0x1.8e3c9684760bbp+2"
    ]
    node [
       id 197
@@ -1386,6 +1780,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.03870234fcb39p+2, 0x1.6ca3752fc064bp+0"
+      pos_sfdp_mcmc "-0x1.48908cc14d2ffp-1, -0x1.6f3269ef803b5p+2"
    ]
    node [
       id 198
@@ -1393,6 +1789,8 @@ graph [
       comm_infomap 55
       comm_mcmc 12
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.8ede555036159p-2, 0x1.8d3405edab9e8p+1"
+      pos_sfdp_mcmc "0x1.2e2a2f4961486p+1, 0x1.d54423f0a5c5p-2"
    ]
    node [
       id 199
@@ -1400,6 +1798,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.b9580248b0f0ap-2, -0x1.1152483d6be08p+1"
+      pos_sfdp_mcmc "0x1.64a465b6b3e46p-2, -0x1.5e0f4227f10dap+0"
    ]
    node [
       id 200
@@ -1407,6 +1807,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.b7d05f7ac173fp-1, -0x1.029db3b925d4dp-1"
+      pos_sfdp_mcmc "0x1.293ecd5e932b9p+0, -0x1.0b18e5540a9bp+1"
    ]
    node [
       id 201
@@ -1414,6 +1816,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.554f524694da3p-1, -0x1.12d94b76e136p+1"
+      pos_sfdp_mcmc "0x1.760bf3310fa02p-3, -0x1.7c0a513bd2d89p-1"
    ]
    node [
       id 202
@@ -1421,6 +1825,8 @@ graph [
       comm_infomap 1
       comm_mcmc 5
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.9b93001493c12p+0, -0x1.6088235548dfcp-1"
+      pos_sfdp_mcmc "0x1.728796516dep-1, -0x1.537f31f56fec7p+1"
    ]
    node [
       id 203
@@ -1428,6 +1834,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.0a479e22fd44dp+0, -0x1.d185acfa141cep+0"
+      pos_sfdp_mcmc "0x1.7829386744b0dp+0, -0x1.3529415479919p+1"
    ]
    node [
       id 204
@@ -1435,6 +1843,8 @@ graph [
       comm_infomap 1
       comm_mcmc 5
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.e42595e095c27p+0, -0x1.b87220c570bdp-1"
+      pos_sfdp_mcmc "0x1.e234121aec989p-1, -0x1.5202a0267ef6ep+1"
    ]
    node [
       id 205
@@ -1442,6 +1852,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.4bff1b4507ee8p+1, 0x1.1d2826fa8bfd7p+0"
+      pos_sfdp_mcmc "-0x1.877fdf02fdc5bp-3, -0x1.9f496918ccf2dp+1"
    ]
    node [
       id 206
@@ -1449,6 +1861,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.66444302c5e61p+2, -0x1.14ad6493fdd24p+0"
+      pos_sfdp_mcmc "0x1.cb7c7714df617p+1, -0x1.60ff9ca367e1ap+2"
    ]
    node [
       id 207
@@ -1456,6 +1870,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.5ef561c609d0dp+1, -0x1.3030f85a783dap-2"
+      pos_sfdp_mcmc "0x1.a0a92e6d2f38dp+0, -0x1.bb8c808a78eebp+1"
    ]
    node [
       id 208
@@ -1463,6 +1879,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.9bf57b752f24bp+1, 0x1.00b3296150f2bp-2"
+      pos_sfdp_mcmc "0x1.1087de0a82777p+0, -0x1.0ded56293a7c3p+2"
    ]
    node [
       id 209
@@ -1470,6 +1888,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.02d21ec1e4f23p+3, 0x1.57605e6ba78e3p+3"
+      pos_sfdp_mcmc "0x1.eb91c073efb39p+2, -0x1.be58c3f6b51aap+3"
    ]
    node [
       id 210
@@ -1477,6 +1897,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.fc463a4b22ee7p+2, 0x1.6f1d94fc39a32p+3"
+      pos_sfdp_mcmc "0x1.115b9f3e320f6p+3, -0x1.d03b2a4991306p+3"
    ]
    node [
       id 211
@@ -1484,6 +1906,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.00b715eb8805ap+3, 0x1.3f127ff0b1861p+3"
+      pos_sfdp_mcmc "0x1.c0e5246319567p+2, -0x1.b33493fec02f4p+3"
    ]
    node [
       id 212
@@ -1491,6 +1915,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.87d470a4ec2a2p+0, 0x1.d3b51dbdd8b6ep-1"
+      pos_sfdp_mcmc "-0x1.c8ae38a6da925p+1, -0x1.2ea201f181861p+2"
    ]
    node [
       id 213
@@ -1498,6 +1924,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.92e2dd6a4e4d4p+1, -0x1.e95d0ad5c1315p+1"
+      pos_sfdp_mcmc "0x1.bf36eaa1229e3p+1, -0x1.df38345ac6d33p+2"
    ]
    node [
       id 214
@@ -1505,6 +1933,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.05b728ec8f22ep+2, 0x1.6aa50d041d037p-2"
+      pos_sfdp_mcmc "0x1.c221c72294033p+1, -0x1.45edffba40a1ap+1"
    ]
    node [
       id 215
@@ -1512,6 +1942,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.1de89f015cce6p-3, -0x1.cf1b40135fea1p-2"
+      pos_sfdp_mcmc "0x1.006a34c10ce3ep-4, -0x1.9f06474b137fap-4"
    ]
    node [
       id 216
@@ -1519,6 +1951,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.5deddafe68636p+1, -0x1.768645f3d7decp-1"
+      pos_sfdp_mcmc "0x1.1f503c5418e76p-4, -0x1.f8ee4bb4a104p+1"
    ]
    node [
       id 217
@@ -1526,6 +1960,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.ba063cf5ac15dp-2, -0x1.24cb1990de29fp+1"
+      pos_sfdp_mcmc "0x1.353e895eaf7a9p+0, -0x1.7c14ad7c376e5p+2"
    ]
    node [
       id 218
@@ -1533,6 +1969,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.39305b97741b1p+0, -0x1.8cba5bdb787p+0"
+      pos_sfdp_mcmc "0x1.64949a67260eep+0, -0x1.f20bcb6739d1fp+2"
    ]
    node [
       id 219
@@ -1540,6 +1978,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.9bfc7d263b34bp+0, -0x1.b22a13092004dp-3"
+      pos_sfdp_mcmc "0x1.0cde3fb007392p+0, -0x1.354a5465071a5p+2"
    ]
    node [
       id 220
@@ -1547,6 +1987,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.ca8dc23212e0fp-1, -0x1.671d778669543p+0"
+      pos_sfdp_mcmc "0x1.51ebc4ec8cfefp+0, -0x1.cca57bc8b10fcp+2"
    ]
    node [
       id 221
@@ -1554,6 +1996,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.b15e19a076147p+0, -0x1.7fde2a231f05ep+0"
+      pos_sfdp_mcmc "0x1.4969ce44c3e4dp+0, -0x1.03e85d943f6f5p+3"
    ]
    node [
       id 222
@@ -1561,6 +2005,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.e3da987738d8bp+0, 0x1.ac8177de4f064p-3"
+      pos_sfdp_mcmc "0x1.3244c9696b55dp+0, -0x1.210be6f29f94bp+2"
    ]
    node [
       id 223
@@ -1568,6 +2014,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.74a09975f1737p+0, -0x1.3321c85d12cd3p-2"
+      pos_sfdp_mcmc "0x1.552c22042dc61p+1, -0x1.0758fa0ecdea9p+3"
    ]
    node [
       id 224
@@ -1575,6 +2023,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.2a92f0c229b11p+0, -0x1.7acd95ca4082ep+0"
+      pos_sfdp_mcmc "0x1.2b07b3d9f467ep+0, -0x1.3c96b1e41e169p+1"
    ]
    node [
       id 225
@@ -1582,6 +2032,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.ca8cc8b1efcc6p+1, -0x1.c6a3510de4f16p+1"
+      pos_sfdp_mcmc "0x1.aec4403fc5f15p+1, -0x1.03b762ec0af2fp+3"
    ]
    node [
       id 226
@@ -1589,6 +2041,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.763c7fd047705p+1, -0x1.6104748c97507p+1"
+      pos_sfdp_mcmc "0x1.87a52f1ad36ep+1, -0x1.acf66c5de3133p+2"
    ]
    node [
       id 227
@@ -1596,6 +2050,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.95583413e9f4cp+3, 0x1.dea074c788dfap+2"
+      pos_sfdp_mcmc "0x1.eaefa7b527c1bp+1, -0x1.ddc4600a49cc9p+3"
    ]
    node [
       id 228
@@ -1603,6 +2059,8 @@ graph [
       comm_infomap 82
       comm_mcmc 14
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.33359d85033e6p+4, 0x1.702d802df573p+2"
+      pos_sfdp_mcmc "0x1.612bc72d76d78p+4, 0x1.830e5fd09db2p+3"
    ]
    node [
       id 229
@@ -1610,6 +2068,8 @@ graph [
       comm_infomap 56
       comm_mcmc 14
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.368f29f7047acp+1, -0x1.0766841fde488p+2"
+      pos_sfdp_mcmc "-0x1.d2f6e4502b65cp+0, 0x1.c0efb6140dff1p-1"
    ]
    node [
       id 230
@@ -1617,6 +2077,8 @@ graph [
       comm_infomap 178
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.0a2489058f515p+4, -0x1.de53e0fd66172p+3"
+      pos_sfdp_mcmc "0x1.3cca761344f9bp+3, 0x1.78ef29a7933ap+4"
    ]
    node [
       id 231
@@ -1624,6 +2086,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.03ffd30ff9ce9p+0, 0x1.7ed58a7ecd88dp-2"
+      pos_sfdp_mcmc "0x1.473e20cede754p-1, -0x1.6a17183ef2fe3p+0"
    ]
    node [
       id 232
@@ -1631,6 +2095,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.5ce100e009da5p+0, 0x1.674e8ddc3a5e7p-1"
+      pos_sfdp_mcmc "0x1.da372292a80edp-1, -0x1.09adc2df8d79cp+1"
    ]
    node [
       id 233
@@ -1638,6 +2104,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.56223b42d0234p+1, 0x1.0f6ddee511a5fp-4"
+      pos_sfdp_mcmc "0x1.42799273fdbd9p+0, -0x1.ac4b8fd379b5ep+1"
    ]
    node [
       id 234
@@ -1645,6 +2113,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.883881435b9ap+1, 0x1.467e17d3b4cdfp-1"
+      pos_sfdp_mcmc "0x1.a18458f11b74fp-1, -0x1.1448b07c8e8efp+2"
    ]
    node [
       id 235
@@ -1652,6 +2122,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.1c0d533b584edp-1, -0x1.fced67aea7359p+0"
+      pos_sfdp_mcmc "0x1.140a349619e35p+0, -0x1.c07f62398f3e1p+2"
    ]
    node [
       id 236
@@ -1659,6 +2131,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.6f168a3e12ec3p+0, -0x1.55df63519db0ap+0"
+      pos_sfdp_mcmc "0x1.ebf0a94a83c33p+0, -0x1.e64f2d38e4837p+2"
    ]
    node [
       id 237
@@ -1666,6 +2140,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.31d7d9f691056p-1, -0x1.56fb63f248cc7p+0"
+      pos_sfdp_mcmc "0x1.9d76b07d16f3p+0, -0x1.ccce273f9551p+2"
    ]
    node [
       id 238
@@ -1673,6 +2149,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.b90cde268c9cp+0, -0x1.b251b443d05fcp-1"
+      pos_sfdp_mcmc "0x1.1cb0457e5170cp+1, -0x1.00f3ff71cb824p+3"
    ]
    node [
       id 239
@@ -1680,6 +2158,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.739d763cf4033p+0, -0x1.d396e17595e55p-1"
+      pos_sfdp_mcmc "0x1.22b2cd1bb3d13p+1, -0x1.e9c551443716dp+2"
    ]
    node [
       id 240
@@ -1687,6 +2167,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.27102364adcfap+0, -0x1.992aa32956f74p-1"
+      pos_sfdp_mcmc "0x1.0d37b17b70f64p+1, -0x1.d0269c0f94ec6p+2"
    ]
    node [
       id 241
@@ -1694,6 +2176,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.58dea359bf77cp-3, -0x1.ca52967aea735p-1"
+      pos_sfdp_mcmc "0x1.8b38fa12b5a97p+0, -0x1.8f4339dbc65a3p+2"
    ]
    node [
       id 242
@@ -1701,6 +2185,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.f8c8a2fa1a7bdp-2, -0x1.41d3a82b70325p-1"
+      pos_sfdp_mcmc "0x1.d58792face896p-1, -0x1.ae147031b98b3p+2"
    ]
    node [
       id 243
@@ -1708,6 +2194,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.2249982e110efp+1, -0x1.7bb681c369e15p+1"
+      pos_sfdp_mcmc "0x1.84ef78640c344p+1, -0x1.ca3153fbb2319p+2"
    ]
    node [
       id 244
@@ -1715,6 +2203,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.148d9bd6fbff5p+1, 0x1.71cda86abc7cp+1"
+      pos_sfdp_mcmc "-0x1.6ad41687f2e05p+0, -0x1.ed42589bbf84p+2"
    ]
    node [
       id 245
@@ -1722,6 +2212,8 @@ graph [
       comm_infomap 63
       comm_mcmc 7
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.3d14a2c3b7909p+4, 0x1.29fad2f4dd6b2p+4"
+      pos_sfdp_mcmc "-0x1.5cf408e9efdb2p+3, -0x1.85c746ce26dd9p+4"
    ]
    node [
       id 246
@@ -1729,6 +2221,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.4ca4ac363983dp+1, 0x1.cd0896abc4276p+3"
+      pos_sfdp_mcmc "0x1.fa740d9cb28f3p+3, -0x1.47b9cd02bc152p+3"
    ]
    node [
       id 247
@@ -1736,6 +2230,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.e21d25c8dea16p-2, 0x1.018e0c009eaeap-1"
+      pos_sfdp_mcmc "0x1.9e9331e9861eap+0, -0x1.8609bb7d772f6p+0"
    ]
    node [
       id 248
@@ -1743,6 +2239,8 @@ graph [
       comm_infomap 56
       comm_mcmc 14
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.44baf52722d35p+1, -0x1.2b55ae4d19343p+1"
+      pos_sfdp_mcmc "-0x1.fa928b5a8a6fcp-2, -0x1.faa6f57a30decp-1"
    ]
    node [
       id 249
@@ -1750,6 +2248,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.93bb740819d22p+1, 0x1.037b6eef6f156p-1"
+      pos_sfdp_mcmc "0x1.1231017a92baap-1, -0x1.10e00a911229ep+2"
    ]
    node [
       id 250
@@ -1757,6 +2257,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.456c0607f75cdp+2, -0x1.d3e1b6c2f4e7dp-1"
+      pos_sfdp_mcmc "0x1.9edaae2dde31p+1, -0x1.46e1fd8a9f37ep+2"
    ]
    node [
       id 251
@@ -1764,6 +2266,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.13190a4265277p-1, -0x1.374be70c3dbe4p+1"
+      pos_sfdp_mcmc "0x1.9f4be18242e4cp+0, -0x1.3507d6a9e92e1p+2"
    ]
    node [
       id 252
@@ -1771,6 +2275,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.05fe937f48047p-1, -0x1.917e1068f2982p+0"
+      pos_sfdp_mcmc "0x1.ee4204d16820ap+0, -0x1.a37de28bae355p+2"
    ]
    node [
       id 253
@@ -1778,6 +2284,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.8a1ab39eb3095p-1, -0x1.ab9f0c51a5759p+0"
+      pos_sfdp_mcmc "0x1.00d2462523d66p+1, -0x1.ba3bd25b04dffp+2"
    ]
    node [
       id 254
@@ -1785,6 +2293,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.01e21aa5f5fafp-3, -0x1.8a83937a65d68p+1"
+      pos_sfdp_mcmc "0x1.fa0d53cb85358p-2, -0x1.840e318f293e7p+2"
    ]
    node [
       id 255
@@ -1792,6 +2302,8 @@ graph [
       comm_infomap 13
       comm_mcmc 21
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.3679b37fe5b8dp+1, -0x1.29323d49ddbd1p+0"
+      pos_sfdp_mcmc "0x1.78905b8bcc124p+1, -0x1.030ee68e18b0dp+2"
    ]
    node [
       id 256
@@ -1799,6 +2311,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.2609824422bcdp-4, -0x1.a175382ac6e08p+0"
+      pos_sfdp_mcmc "0x1.9164dbc1ea697p+0, -0x1.a0f0a15277de5p+2"
    ]
    node [
       id 257
@@ -1806,6 +2320,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.c883cfb5d2f32p+2, -0x1.7bf774912027dp+1"
+      pos_sfdp_mcmc "-0x1.3cf383ddbb69fp+2, -0x1.94a53cfa3ebdp+1"
    ]
    node [
       id 258
@@ -1813,6 +2329,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
+      pos_sfdp_infomap "0x1.bf44916d3166dp+0, -0x1.37c4fdb7c36fbp+0"
+      pos_sfdp_mcmc "0x1.e0bb4ce8bab7ap+0, -0x1.016d5dd06a6bbp+3"
    ]
    node [
       id 259
@@ -1820,6 +2338,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "7-8-2016"
+      pos_sfdp_infomap "-0x1.422b91d5a0107p-2, -0x1.e6f3aaf21d17ep+0"
+      pos_sfdp_mcmc "0x1.7e05765de3aacp-3, -0x1.7045d4bd8185bp+2"
    ]
    node [
       id 260
@@ -1827,6 +2347,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.0e4cfeabe70ep+1, -0x1.922d74ea6e7e5p+0"
+      pos_sfdp_mcmc "0x1.e977ad8bf5d2ap+0, -0x1.13274796191fep+3"
    ]
    node [
       id 261
@@ -1834,6 +2356,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.9e0ac73ba8e98p+0, -0x1.c8f7947225588p+0"
+      pos_sfdp_mcmc "0x1.9f8d5f800390bp+0, -0x1.07c0fc0ae1e5dp+3"
    ]
    node [
       id 262
@@ -1841,6 +2365,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.0e7f1fa409862p-2, -0x1.f788193463cafp-1"
+      pos_sfdp_mcmc "0x1.f4ea2739ca7dp-1, -0x1.8a6892cc43528p-1"
    ]
    node [
       id 263
@@ -1848,6 +2374,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.895573065ff25p+1, 0x1.312fe28ac437p+0"
+      pos_sfdp_mcmc "-0x1.32ac93caf2f36p+2, -0x1.81b1a6593190fp+2"
    ]
    node [
       id 264
@@ -1855,6 +2383,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.1aae5be32d5adp+2, 0x1.765738535263bp-1"
+      pos_sfdp_mcmc "0x1.ea54a6036203fp+1, -0x1.4bbb878644dcbp+1"
    ]
    node [
       id 265
@@ -1862,6 +2392,8 @@ graph [
       comm_infomap 58
       comm_mcmc 14
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.27e28fef3278ap+2, -0x1.0a0bfb1b32d9ep+0"
+      pos_sfdp_mcmc "0x1.5213224dd0a31p+1, 0x1.f7fd00299e961p-4"
    ]
    node [
       id 266
@@ -1869,6 +2401,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.7b97ec2b2ead7p+1, -0x1.fb4c4baf84764p+0"
+      pos_sfdp_mcmc "0x1.c64bb3c33a3cap+1, 0x1.dfb783b198d11p+1"
    ]
    node [
       id 267
@@ -1876,6 +2410,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.256dd5306d84cp+2, -0x1.cfebed4d26404p+0"
+      pos_sfdp_mcmc "-0x1.0233df2e776acp+1, -0x1.a1f57ea4bef1ap+1"
    ]
    node [
       id 268
@@ -1883,6 +2419,8 @@ graph [
       comm_infomap 177
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.81a09087c7c34p+4, 0x1.c7fb31d90b4cfp+2"
+      pos_sfdp_mcmc "-0x1.bfdc26177b8b2p+2, -0x1.e1cba68d43b8fp+4"
    ]
    node [
       id 269
@@ -1890,6 +2428,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.0b58aa5a6f5afp+2, 0x1.7d9e1dc89920cp+3"
+      pos_sfdp_mcmc "0x1.f55e2eb371873p+2, -0x1.94423c1574513p+3"
    ]
    node [
       id 270
@@ -1897,6 +2437,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.23872f4be499ep+2, -0x1.2c030e9be8d75p-1"
+      pos_sfdp_mcmc "0x1.aa0b468912192p+1, -0x1.5548ed6728f89p+0"
    ]
    node [
       id 271
@@ -1904,6 +2446,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.1e6efdd4b8ec6p-1, -0x1.187e25f1c44b7p+0"
+      pos_sfdp_mcmc "0x1.c6c7c2bd80cdap+0, -0x1.b2540054d826p+2"
    ]
    node [
       id 272
@@ -1911,6 +2455,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.c4704323e46cbp-1, -0x1.575aef5bc5ee6p+1"
+      pos_sfdp_mcmc "0x1.24932266490a4p+1, -0x1.6e8fb8aa3de92p+2"
    ]
    node [
       id 273
@@ -1918,6 +2464,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.7ec8fec275f35p-1, -0x1.a55dc04170d5bp-1"
+      pos_sfdp_mcmc "0x1.3ac456db6be9ep-1, -0x1.dc36aebbb60eep+2"
    ]
    node [
       id 274
@@ -1925,6 +2473,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.af100cf1200abp+2, -0x1.850c11cbecc6bp+1"
+      pos_sfdp_mcmc "-0x1.1754ed6cc7a13p+2, -0x1.7a7dd4cf3b316p+1"
    ]
    node [
       id 275
@@ -1932,6 +2482,8 @@ graph [
       comm_infomap 176
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.8e6a669397288p+2, -0x1.13ef9dbd17493p+4"
+      pos_sfdp_mcmc "-0x1.abb6ca36fe859p+2, 0x1.5237c6b6e21a2p+4"
    ]
    node [
       id 276
@@ -1939,6 +2491,8 @@ graph [
       comm_infomap 57
       comm_mcmc 15
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.b373b628c97fap-1, -0x1.978dfc3530165p+2"
+      pos_sfdp_mcmc "-0x1.3b50814db3cd3p-1, 0x1.09a9005cb7c05p+2"
    ]
    node [
       id 277
@@ -1946,6 +2500,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.057bc298ae1fp-7, 0x1.5cb84ea3a81acp+1"
+      pos_sfdp_mcmc "0x1.2e76e1b39c169p+2, -0x1.0ce3f0a818dd5p+0"
    ]
    node [
       id 278
@@ -1953,6 +2509,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.17d26e8488c62p+0, 0x1.baeeb5593464bp-1"
+      pos_sfdp_mcmc "0x1.2b0557dbf717ep+1, -0x1.73ff4432888cep+1"
    ]
    node [
       id 279
@@ -1960,6 +2518,8 @@ graph [
       comm_infomap 12
       comm_mcmc 9
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.488248fb137d7p-1, 0x1.79dd01512ad32p+0"
+      pos_sfdp_mcmc "0x1.82374d18e2c37p+1, -0x1.ec7735473baf2p+0"
    ]
    node [
       id 280
@@ -1967,6 +2527,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.4b413af58503cp+0, 0x1.bb8ff6aee0b0ap-2"
+      pos_sfdp_mcmc "0x1.0f05dadc1dcc4p+1, -0x1.512f176ea408fp+1"
    ]
    node [
       id 281
@@ -1974,6 +2536,8 @@ graph [
       comm_infomap 56
       comm_mcmc 14
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.97a4a731ae09cp+1, -0x1.8f82593d30dbdp+1"
+      pos_sfdp_mcmc "-0x1.12f68bfb50917p-3, 0x1.1da43a9647f59p-1"
    ]
    node [
       id 282
@@ -1981,6 +2545,8 @@ graph [
       comm_infomap 58
       comm_mcmc 14
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.0203f9e52108ap+2, -0x1.89bf36538f6d4p+0"
+      pos_sfdp_mcmc "0x1.d085071215e67p+0, -0x1.8220fed93cce3p-2"
    ]
    node [
       id 283
@@ -1988,6 +2554,8 @@ graph [
       comm_infomap 56
       comm_mcmc 14
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.be02401372b4ep+0, -0x1.2be4d14e1e502p+2"
+      pos_sfdp_mcmc "-0x1.49e2acbd5c84ep+1, 0x1.2299b47fcbf54p+0"
    ]
    node [
       id 284
@@ -1995,6 +2563,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.e52cc78910d52p-1, 0x1.28c554a9c17f9p+0"
+      pos_sfdp_mcmc "0x1.0b83c7302d895p+1, 0x1.9c44bdb17ebd8p-1"
    ]
    node [
       id 285
@@ -2002,6 +2572,8 @@ graph [
       comm_infomap 55
       comm_mcmc 12
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.cabb7668fc21fp-1, 0x1.17047e3153002p+2"
+      pos_sfdp_mcmc "0x1.d5d7dd935197fp+1, 0x1.e5f83345b2d6cp-1"
    ]
    node [
       id 286
@@ -2009,6 +2581,8 @@ graph [
       comm_infomap 92
       comm_mcmc 2
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.1be6c822a5bc7p+3, -0x1.ceae92f1a3575p+2"
+      pos_sfdp_mcmc "-0x1.2cc570b49beaep+3, -0x1.165cb19fb261ap+0"
    ]
    node [
       id 287
@@ -2016,6 +2590,8 @@ graph [
       comm_infomap 55
       comm_mcmc 12
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.a8f8d7c2746a9p-1, 0x1.63841786307e4p+1"
+      pos_sfdp_mcmc "0x1.299d1fe1427bbp+0, 0x1.a761a95a3cf87p-1"
    ]
    node [
       id 288
@@ -2023,6 +2599,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.4f93138a78982p+0, -0x1.3104c8528fb1fp+0"
+      pos_sfdp_mcmc "-0x1.2d0021d773c91p-1, -0x1.01967a33abd77p-2"
    ]
    node [
       id 289
@@ -2030,6 +2608,8 @@ graph [
       comm_infomap 175
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.338d0a13a9f97p+4, 0x1.06bc786881543p+3"
+      pos_sfdp_mcmc "0x1.bbb8bffa1e853p+2, 0x1.4249b8fdc0301p+4"
    ]
    node [
       id 290
@@ -2037,6 +2617,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.5f62d1083ab8bp+3, -0x1.56001125521aap-6"
+      pos_sfdp_mcmc "-0x1.eb93b4f0b2bfap+1, -0x1.6f25651b8e1fbp+3"
    ]
    node [
       id 291
@@ -2044,6 +2626,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.c6cbbf2168e5fp+2, 0x1.4a50c73c8a8eap+2"
+      pos_sfdp_mcmc "0x1.b157861dbb6bp+1, -0x1.49c4b046ba4e9p+3"
    ]
    node [
       id 292
@@ -2051,6 +2635,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.a17c54bdf2e45p+2, 0x1.6a55fe1f7e46ep+3"
+      pos_sfdp_mcmc "0x1.173f78d175c11p+3, -0x1.9905ca1c61885p+3"
    ]
    node [
       id 293
@@ -2058,6 +2644,8 @@ graph [
       comm_infomap 174
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.00a7085cbd50cp+4, 0x1.2b5a9c5ba3466p+4"
+      pos_sfdp_mcmc "0x1.e534d342706fbp+3, -0x1.e0ff92971b814p+4"
    ]
    node [
       id 294
@@ -2065,6 +2653,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.960e0aa9e9354p+2, 0x1.f9d3e3b059c6bp-3"
+      pos_sfdp_mcmc "0x1.3e8b9c3c9e44fp+2, -0x1.a2ad70a0295e4p+2"
    ]
    node [
       id 295
@@ -2072,6 +2662,8 @@ graph [
       comm_infomap 173
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.253fcfc21cee8p+1, 0x1.b51bf3e503625p+4"
+      pos_sfdp_mcmc "0x1.097e0f4e2604bp+3, 0x1.5ef016b306e2cp+4"
    ]
    node [
       id 296
@@ -2079,6 +2671,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.39bfd412974fep+1, 0x1.cb3e185186615p+1"
+      pos_sfdp_mcmc "-0x1.95247f3bc9e7cp-1, -0x1.024d3de12a97ap+3"
    ]
    node [
       id 297
@@ -2086,6 +2680,8 @@ graph [
       comm_infomap 95
       comm_mcmc 23
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.0fb62a87f2dbbp+1, 0x1.b798950429cf8p+3"
+      pos_sfdp_mcmc "0x1.0e6e6786b69f5p+4, -0x1.5c111a7057d91p+2"
    ]
    node [
       id 298
@@ -2093,6 +2689,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.305c602407d15p-2, 0x1.0184355bc5d88p+2"
+      pos_sfdp_mcmc "0x1.95438457c3029p+2, -0x1.3aaa4efd1cf4fp-1"
    ]
    node [
       id 299
@@ -2100,6 +2698,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.48ce0cb72bba5p-7, 0x1.ac77242a0130bp+0"
+      pos_sfdp_mcmc "0x1.f478d98346fd2p+1, -0x1.45b8630a9d337p-1"
    ]
    node [
       id 300
@@ -2107,6 +2707,8 @@ graph [
       comm_infomap 12
       comm_mcmc 9
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.cd26129c14fffp-1, 0x1.2d51bbbca6d0ep-1"
+      pos_sfdp_mcmc "0x1.490230740f5b8p+1, -0x1.46aef97448e02p+1"
    ]
    node [
       id 301
@@ -2114,6 +2716,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.a1dc6c94ae012p-3, -0x1.9632fa2c768f6p+0"
+      pos_sfdp_mcmc "0x1.352057a9594d7p+0, -0x1.aa5812be49728p+2"
    ]
    node [
       id 302
@@ -2121,6 +2725,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.53df8178437f6p+3, 0x1.0aabe37c8f989p-1"
+      pos_sfdp_mcmc "-0x1.9ec6f5124c7a7p+1, -0x1.60db3992f5be1p+3"
    ]
    node [
       id 303
@@ -2128,6 +2734,8 @@ graph [
       comm_infomap 172
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.156376d90c6d9p+3, 0x1.b19698c74d4bap+4"
+      pos_sfdp_mcmc "-0x1.190a6d8a01761p+2, 0x1.52907d16a817cp+4"
    ]
    node [
       id 304
@@ -2135,6 +2743,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.c5077f380d661p+2, -0x1.9ae105727ec9ep+1"
+      pos_sfdp_mcmc "-0x1.2683cd68d19b8p+2, -0x1.9af94dfb3ae7fp+1"
    ]
    node [
       id 305
@@ -2142,6 +2752,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.24cd8e4a7ce9cp+2, -0x1.8a17a6b2dd3cbp+1"
+      pos_sfdp_mcmc "0x1.10ff994a0dd9p+2, -0x1.2a804dd1d9307p+3"
    ]
    node [
       id 306
@@ -2149,6 +2761,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.7158ec2dfc96bp+2, -0x1.ef538d8984629p+0"
+      pos_sfdp_mcmc "0x1.0f551a8a10cc1p+2, -0x1.40fb564c2d925p+2"
    ]
    node [
       id 307
@@ -2156,6 +2770,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.0df28c6980d44p-1, 0x1.a0013d303936ap-1"
+      pos_sfdp_mcmc "0x1.efab06966374cp-3, -0x1.0e6fe315727ep+0"
    ]
    node [
       id 308
@@ -2163,6 +2779,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.1ccb254ea2232p+2, 0x1.6da03078c11bep-2"
+      pos_sfdp_mcmc "0x1.ac4741565b416p+1, -0x1.7d20ab8758163p+1"
    ]
    node [
       id 309
@@ -2170,6 +2788,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.88335dc91bc94p+2, 0x1.a18f5f47d20cap-1"
+      pos_sfdp_mcmc "0x1.1db97afa65be8p+2, -0x1.b5930e4608c3ap+2"
    ]
    node [
       id 310
@@ -2177,6 +2797,8 @@ graph [
       comm_infomap 53
       comm_mcmc 7
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.d01f1bdfcc601p+3, 0x1.8b0a73a8b8e9p+2"
+      pos_sfdp_mcmc "0x1.39617e5427192p+3, 0x1.2c6dad5f1bddap+2"
    ]
    node [
       id 311
@@ -2184,6 +2806,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.af182b45ca4f5p+2, -0x1.35cbdca217a3fp+2"
+      pos_sfdp_mcmc "-0x1.64fe129d338f2p+2, -0x1.b58a8ffd8a859p+0"
    ]
    node [
       id 312
@@ -2191,6 +2815,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.fbbc55ba10826p+1, -0x1.db6188d7c7fcbp+1"
+      pos_sfdp_mcmc "0x1.da63c0f88d51ap+1, -0x1.10f350af77458p+3"
    ]
    node [
       id 313
@@ -2198,6 +2824,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.21e03f794b1fep+2, -0x1.bb400916af5f5p+1"
+      pos_sfdp_mcmc "0x1.f395e7f61704dp+1, -0x1.329e8ed2019abp+3"
    ]
    node [
       id 314
@@ -2205,6 +2833,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.b8ac341be8415p+2, -0x1.b8932aee1fadcp+1"
+      pos_sfdp_mcmc "-0x1.402d727bb89e5p+2, -0x1.412ca00073ef7p+1"
    ]
    node [
       id 315
@@ -2212,6 +2842,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.a9a840438fcdep+2, -0x1.c8daa5556e9f8p+1"
+      pos_sfdp_mcmc "-0x1.2ac48f1de34f2p+2, -0x1.4a7a8d859c951p+1"
    ]
    node [
       id 316
@@ -2219,6 +2851,8 @@ graph [
       comm_infomap 57
       comm_mcmc 15
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.de654a231daf9p-2, -0x1.7eee5e4e28709p+2"
+      pos_sfdp_mcmc "-0x1.14526397d6a19p+0, 0x1.e0c46a1df0d4dp+1"
    ]
    node [
       id 317
@@ -2226,6 +2860,8 @@ graph [
       comm_infomap 67
       comm_mcmc 27
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.0df52957949dp+4, 0x1.d06f80a519475p+1"
+      pos_sfdp_mcmc "-0x1.438577ddbdb45p+4, -0x1.027cacd8435ebp+1"
    ]
    node [
       id 318
@@ -2233,6 +2869,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.e5c6f44496f62p+2, 0x1.80faaa62ac228p+2"
+      pos_sfdp_mcmc "0x1.03a2438511915p+2, -0x1.5da7498e0ebfep+3"
    ]
    node [
       id 319
@@ -2240,6 +2878,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.bc6ea5477add5p+2, 0x1.b37e6719f9acfp+3"
+      pos_sfdp_mcmc "0x1.7f6256babc139p+3, -0x1.9230ddd37f79cp+3"
    ]
    node [
       id 320
@@ -2247,6 +2887,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.3258d5dd0a6d9p+1, 0x1.40b483fb8c26ep+0"
+      pos_sfdp_mcmc "0x1.b1e3a89ec8a14p+0, -0x1.140e6ea7f5b7bp+2"
    ]
    node [
       id 321
@@ -2254,6 +2896,8 @@ graph [
       comm_infomap 66
       comm_mcmc 2
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.805e036dbd94p+2, -0x1.e7fd2289b43d4p+3"
+      pos_sfdp_mcmc "-0x1.15143914f2fc3p+4, -0x1.0eabecf21cc35p+4"
    ]
    node [
       id 322
@@ -2261,6 +2905,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.74ea035b38402p+0, -0x1.d64840758f163p+0"
+      pos_sfdp_mcmc "0x1.7605269bde7d6p+0, -0x1.27bae49a4bf21p+0"
    ]
    node [
       id 323
@@ -2268,6 +2914,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.ad12727ccf3d8p+2, -0x1.68d473d8a9796p+0"
+      pos_sfdp_mcmc "0x1.0a5c176129338p+2, -0x1.955b48697209fp+2"
    ]
    node [
       id 324
@@ -2275,6 +2923,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.189ad490d60ap+2, 0x1.477dbd03d8e96p+0"
+      pos_sfdp_mcmc "0x1.1a7b8624d8c3dp+2, -0x1.3265597a8849p+1"
    ]
    node [
       id 325
@@ -2282,6 +2932,8 @@ graph [
       comm_infomap 85
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.8c41ad5bec99p+4, 0x1.c90e90bddf8e7p+1"
+      pos_sfdp_mcmc "-0x1.f0bf58c1e8b03p+3, 0x1.30371b97e0a88p+3"
    ]
    node [
       id 326
@@ -2289,6 +2941,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
+      pos_sfdp_infomap "0x1.ef3e6767b171p-3, -0x1.846a27fdea51dp-2"
+      pos_sfdp_mcmc "-0x1.45a7f19ccc1aap-2, -0x1.afe74a64a0b2ap+0"
    ]
    node [
       id 327
@@ -2296,6 +2950,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.7de42b29be6d5p-1, 0x1.0bb6a6aa4d17ap+0"
+      pos_sfdp_mcmc "0x1.6f18e78dad00bp+1, -0x1.6f0d4fa2b38d8p+1"
    ]
    node [
       id 328
@@ -2303,6 +2959,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.1a8b95b290e34p-1, 0x1.8bfc70569f56fp+1"
+      pos_sfdp_mcmc "0x1.1b9d273f9f3e4p+2, -0x1.b82773b31645ep+1"
    ]
    node [
       id 329
@@ -2310,6 +2968,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.e71713315cfb6p+2, 0x1.a9b5085c04646p+0"
+      pos_sfdp_mcmc "0x1.274a68a104e6ap+2, -0x1.16aa86ab77c6p+3"
    ]
    node [
       id 330
@@ -2317,6 +2977,8 @@ graph [
       comm_infomap 1
       comm_mcmc 18
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.cf7cc10f07dcap-2, -0x1.9e863aa5db27fp-3"
+      pos_sfdp_mcmc "0x1.2d14f72e24e33p+1, -0x1.a2d158c7abd8bp+1"
    ]
    node [
       id 331
@@ -2324,6 +2986,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.5a88758040795p+3, 0x1.049ab78b1d572p+3"
+      pos_sfdp_mcmc "0x1.55c73f6db8c6fp+2, -0x1.dfbbf48ab9aaap+3"
    ]
    node [
       id 332
@@ -2331,6 +2995,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.669481eee54c4p+3, 0x1.2b6111c8240ddp-1"
+      pos_sfdp_mcmc "-0x1.0608cc388d11p+2, -0x1.5c380b8a799a3p+3"
    ]
    node [
       id 333
@@ -2338,6 +3004,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.a9a73b895f819p+3, 0x1.ab80ac5eec2b9p+2"
+      pos_sfdp_mcmc "0x1.53e6d0a40fd29p+2, -0x1.1a9ae82b1138ep+4"
    ]
    node [
       id 334
@@ -2345,6 +3013,8 @@ graph [
       comm_infomap 57
       comm_mcmc 15
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.9dc97fdf5887p-1, -0x1.486a9291904c2p+2"
+      pos_sfdp_mcmc "-0x1.6d0ac4407ab0bp-2, 0x1.8ebc26d2f4847p+1"
    ]
    node [
       id 335
@@ -2352,6 +3022,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.9479d434d842bp+3, 0x1.bd7f106bf3a57p+2"
+      pos_sfdp_mcmc "0x1.0752d1c9a21eep+2, -0x1.d2c79a04712bfp+3"
    ]
    node [
       id 336
@@ -2359,6 +3031,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.496682091468cp+2, -0x1.b41c1d8ade1d8p+1"
+      pos_sfdp_mcmc "0x1.1f9cc465da64ep+2, -0x1.52e519ef26f6ap+3"
    ]
    node [
       id 337
@@ -2366,6 +3040,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
+      pos_sfdp_infomap "-0x1.c0b3e1f43d417p+2, -0x1.d94d0f522468ep+1"
+      pos_sfdp_mcmc "-0x1.30e8574db759ep+2, -0x1.bede58bca18bbp+1"
    ]
    node [
       id 338
@@ -2373,6 +3049,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.fab80caaff7f3p+0, -0x1.3c04c38f33c16p+1"
+      pos_sfdp_mcmc "0x1.561d25f4e3eb8p-1, -0x1.2be70f857ba1p-4"
    ]
    node [
       id 339
@@ -2380,6 +3058,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.cf5369e003a76p+2, 0x1.03c00e8d64bfp+1"
+      pos_sfdp_mcmc "0x1.45a6cdcef1b08p+2, -0x1.1f71476e4e5f5p+3"
    ]
    node [
       id 340
@@ -2387,6 +3067,8 @@ graph [
       comm_infomap 45
       comm_mcmc 12
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.4fecf0b7d1f16p+2, 0x1.3800e0e207c09p+0"
+      pos_sfdp_mcmc "-0x1.9375a3d722721p+2, -0x1.9d4c68466ed0bp+2"
    ]
    node [
       id 341
@@ -2394,6 +3076,8 @@ graph [
       comm_infomap 85
       comm_mcmc 30
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.8d3638b71065fp+4, 0x1.1076ef31abe3p+2"
+      pos_sfdp_mcmc "-0x1.e979af1e7c346p+3, 0x1.48bfc812990d6p+3"
    ]
    node [
       id 342
@@ -2401,6 +3085,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.02b8fb5d37089p+0, 0x1.a5ce28ddd6e6ep+1"
+      pos_sfdp_mcmc "0x1.28a9df3f7134p+2, -0x1.a51f089ae18a2p+0"
    ]
    node [
       id 343
@@ -2408,6 +3094,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.7874fa3d50d38p+3, 0x1.67fa9f2a70941p+2"
+      pos_sfdp_mcmc "0x1.6748c9b8e9a56p+3, 0x1.b06e40c7f25f7p+1"
    ]
    node [
       id 344
@@ -2415,6 +3103,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.8c8ada3360674p+2, -0x1.d5273aceb7d31p+1"
+      pos_sfdp_mcmc "-0x1.18ca5ab8eae56p+2, -0x1.0e680ce5d5759p+1"
    ]
    node [
       id 345
@@ -2422,6 +3112,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.1548bf59d173bp-1, -0x1.533a17f12bea3p+1"
+      pos_sfdp_mcmc "0x1.44526a0bd65a7p+1, -0x1.60e8abe64a378p+2"
    ]
    node [
       id 346
@@ -2429,6 +3121,8 @@ graph [
       comm_infomap 91
       comm_mcmc 9
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.fd3a31b83695cp+0, -0x1.d2216628eb0bap+0"
+      pos_sfdp_mcmc "-0x1.0d75b69983015p+0, -0x1.00f3ac71afca9p+1"
    ]
    node [
       id 347
@@ -2436,6 +3130,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.75a4ef67523cp+2, -0x1.96cda9d207f0fp+0"
+      pos_sfdp_mcmc "0x1.014dc38688805p+2, -0x1.56e3730262825p+2"
    ]
    node [
       id 348
@@ -2443,6 +3139,8 @@ graph [
       comm_infomap 171
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.89b0602b6a327p+3, 0x1.6798582715a0ep+4"
+      pos_sfdp_mcmc "0x1.d75308e4ca19dp+4, -0x1.f509131866147p+3"
    ]
    node [
       id 349
@@ -2450,6 +3148,8 @@ graph [
       comm_infomap 58
       comm_mcmc 14
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.5cf586377ba5cp+2, -0x1.484f4129c7efp+1"
+      pos_sfdp_mcmc "0x1.17bdf51e2e2c5p+0, 0x1.dcf148767a1d9p+0"
    ]
    node [
       id 350
@@ -2457,6 +3157,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.66e299f3aca47p+1, 0x1.72ca766f274c8p+0"
+      pos_sfdp_mcmc "-0x1.bdd47c15ee325p-2, -0x1.66f11b1a62202p+1"
    ]
    node [
       id 351
@@ -2464,6 +3166,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.93a1c9499534bp+1, -0x1.e13c391d4c4e5p-2"
+      pos_sfdp_mcmc "0x1.7004ef54bf52p-1, -0x1.2a41cf1dcbd9dp+2"
    ]
    node [
       id 352
@@ -2471,6 +3175,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.82388e252b4fcp+1, -0x1.2dba3dd194f12p+0"
+      pos_sfdp_mcmc "0x1.fe64313904a3ep+0, -0x1.3d83efbdb5791p+2"
    ]
    node [
       id 353
@@ -2478,6 +3184,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.1acb290ded029p+2, -0x1.4768d083f883dp+2"
+      pos_sfdp_mcmc "0x1.377f503f71a18p+2, -0x1.602ff1a9e09e4p+3"
    ]
    node [
       id 354
@@ -2485,6 +3193,8 @@ graph [
       comm_infomap 84
       comm_mcmc 11
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.7815dd305b151p+1, 0x1.955b38786d8d2p+4"
+      pos_sfdp_mcmc "0x1.1cd8f8e61931bp+1, 0x1.2b66f6d2d43b7p+4"
    ]
    node [
       id 355
@@ -2492,6 +3202,8 @@ graph [
       comm_infomap 52
       comm_mcmc 9
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.52052f4888ceap-1, 0x1.0e189b02b4df3p+1"
+      pos_sfdp_mcmc "0x1.b4c1ede7cc9ecp+1, -0x1.098972a3f9268p+1"
    ]
    node [
       id 356
@@ -2499,6 +3211,8 @@ graph [
       comm_infomap 83
       comm_mcmc 14
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.7fad22beedd87p+4, 0x1.4c178de365b09p+3"
+      pos_sfdp_mcmc "-0x1.09114d69323cfp+3, 0x1.e49c157135025p+3"
    ]
    node [
       id 357
@@ -2506,6 +3220,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.6ea541789b2efp+3, -0x1.187958c7f3702p-6"
+      pos_sfdp_mcmc "-0x1.1dc19c59d4349p+2, -0x1.6d46f228f3de9p+3"
    ]
    node [
       id 358
@@ -2513,6 +3229,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.941f08a4b3aa4p+2, -0x1.9a071a914f59p+1"
+      pos_sfdp_mcmc "-0x1.056d6a5bb6518p+2, -0x1.599fd529871b1p+1"
    ]
    node [
       id 359
@@ -2520,6 +3238,8 @@ graph [
       comm_infomap 170
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.2ce81471f3472p+4, 0x1.8f5fa7d98deabp+0"
+      pos_sfdp_mcmc "-0x1.71a2e66168e5ep+3, 0x1.f7471b573b969p+3"
    ]
    node [
       id 360
@@ -2527,6 +3247,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.4ace56413a986p+3, 0x1.e89d4059a9b83p-3"
+      pos_sfdp_mcmc "-0x1.c83e0f616d909p+1, -0x1.540ef37c6a9dfp+3"
    ]
    node [
       id 361
@@ -2534,6 +3256,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.a4790d51fa97cp+1, 0x1.075c4936850e7p+0"
+      pos_sfdp_mcmc "0x1.09850c390974bp+1, -0x1.ff944dccb844fp+1"
    ]
    node [
       id 362
@@ -2541,6 +3265,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.aba74b214a737p+2, -0x1.0db0ee415f65cp+0"
+      pos_sfdp_mcmc "0x1.22973eec99463p+2, -0x1.7f0681b2f17a2p+2"
    ]
    node [
       id 363
@@ -2548,6 +3274,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.9278f63b08d11p+2, -0x1.7b82426c60719p+0"
+      pos_sfdp_mcmc "0x1.07b7c58d07607p+2, -0x1.750cf51cdf00bp+2"
    ]
    node [
       id 364
@@ -2555,6 +3283,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.827c4c25b3a41p+2, -0x1.0494f923675e4p+0"
+      pos_sfdp_mcmc "0x1.c23e83ca7f8a9p+1, -0x1.7fb51a5ea7855p+2"
    ]
    node [
       id 365
@@ -2562,6 +3292,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.b744c39e094a1p-1, -0x1.2909c8aec2bb7p+0"
+      pos_sfdp_mcmc "0x1.0e1bce01f67f5p+0, -0x1.de5f7ceba7ffdp+2"
    ]
    node [
       id 366
@@ -2569,6 +3301,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.ec7843bd6c118p+1, 0x1.9b2c2a1514475p+3"
+      pos_sfdp_mcmc "0x1.eee939427a437p+2, -0x1.ac403cbb19d8fp+3"
    ]
    node [
       id 367
@@ -2576,6 +3310,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.4b1cb479081eap-3, 0x1.321bb884fea7ap+1"
+      pos_sfdp_mcmc "0x1.bdc67ee850af3p+1, -0x1.db64828d786a5p-2"
    ]
    node [
       id 368
@@ -2583,6 +3319,8 @@ graph [
       comm_infomap 169
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.0347ce84a1d7fp+1, 0x1.bc09008ae1846p+4"
+      pos_sfdp_mcmc "0x1.56af4b3091961p+4, 0x1.2075af6ce9cc2p+4"
    ]
    node [
       id 369
@@ -2590,6 +3328,8 @@ graph [
       comm_infomap 58
       comm_mcmc 14
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.b5b7513529b3fp+1, -0x1.4d4c6771336e5p+0"
+      pos_sfdp_mcmc "0x1.04b1046fc82e4p+1, 0x1.adcefde5065ep+0"
    ]
    node [
       id 370
@@ -2597,6 +3337,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.2f47ddab258dp+3, 0x1.d7ad07125c203p+2"
+      pos_sfdp_mcmc "0x1.56dd343e47f3ap+2, -0x1.a6d50dda5e5dp+3"
    ]
    node [
       id 371
@@ -2604,6 +3346,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.6adeb86d4c2e3p+3, 0x1.f3d1a2915e86p+2"
+      pos_sfdp_mcmc "0x1.698f3c3bbdf24p+2, -0x1.ef7ef7b60774dp+3"
    ]
    node [
       id 372
@@ -2611,6 +3355,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.28c54aed00f0ep+3, 0x1.7eac7978e9653p+2"
+      pos_sfdp_mcmc "0x1.83c314200f027p+1, -0x1.90d9879225a4p+3"
    ]
    node [
       id 373
@@ -2618,6 +3364,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.5b6784263bd2ep+1, 0x1.f068c0ce376c5p+0"
+      pos_sfdp_mcmc "-0x1.c70015fc00708p-5, -0x1.2b600b1b3df77p+1"
    ]
    node [
       id 374
@@ -2625,6 +3373,8 @@ graph [
       comm_infomap 1
       comm_mcmc 1
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.7057520395c1ap+1, 0x1.cae4ca78e0ffap-5"
+      pos_sfdp_mcmc "0x1.21b7a3c2faaccp-2, -0x1.002a3615d92afp+2"
    ]
    node [
       id 375
@@ -2632,6 +3382,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.3cf86605bc61cp+1, 0x1.d9c21a5d3e693p+0"
+      pos_sfdp_mcmc "-0x1.922e855e8baedp-1, -0x1.4119285fa57bep+1"
    ]
    node [
       id 376
@@ -2639,6 +3391,8 @@ graph [
       comm_infomap 1
       comm_mcmc 9
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.11c77a272ab2fp+1, -0x1.457b9e7b03b64p+0"
+      pos_sfdp_mcmc "-0x1.4d00006b5a6e8p-1, -0x1.ebfc0e379ebf8p+1"
    ]
    node [
       id 377
@@ -2646,6 +3400,8 @@ graph [
       comm_infomap 168
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.b110ff65b4cdbp+1, -0x1.0baf7dfd35fe3p+4"
+      pos_sfdp_mcmc "0x1.13695e5ba104ap+1, -0x1.e5ec79bd61f16p+4"
    ]
    node [
       id 378
@@ -2653,6 +3409,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.a7476b2aa3c34p+3, 0x1.b668d1525ed3dp-2"
+      pos_sfdp_mcmc "-0x1.7aedd25b69a1cp+2, -0x1.8a28ad5ea7ef7p+3"
    ]
    node [
       id 379
@@ -2660,6 +3418,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.89c863b1151bp+3, 0x1.da479624d3cb1p+2"
+      pos_sfdp_mcmc "0x1.22daefd8e6a42p+2, -0x1.dc2e152da9e6ap+3"
    ]
    node [
       id 380
@@ -2667,6 +3427,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.bbb36751fbc1ep+1, 0x1.3f030508dbcebp+1"
+      pos_sfdp_mcmc "0x1.c41ec937782adp+1, -0x1.1298a322f45c3p+2"
    ]
    node [
       id 381
@@ -2674,6 +3436,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.19f19100f42acp+2, 0x1.9e84fbca67a9p+0"
+      pos_sfdp_mcmc "0x1.331cf6129a092p+2, -0x1.5ebc08a6e7174p+1"
    ]
    node [
       id 382
@@ -2681,6 +3445,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.ed3fe8f3dac45p+1, -0x1.128c82a44d9c1p+0"
+      pos_sfdp_mcmc "0x1.48ff2ff483ef5p+1, -0x1.083015e7df082p+1"
    ]
    node [
       id 383
@@ -2688,6 +3454,8 @@ graph [
       comm_infomap 1
       comm_mcmc 3
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.7a9badb49e15fp+1, 0x1.e471c9515ac13p-1"
+      pos_sfdp_mcmc "0x1.803d896f82c14p+0, -0x1.1cbb5dec53479p+2"
    ]
    node [
       id 384
@@ -2695,6 +3463,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.4b7f312d2e335p+2, -0x1.a83d8f754969cp+0"
+      pos_sfdp_mcmc "0x1.e30e5039a66e8p+1, -0x1.328cd46c104eap+2"
    ]
    node [
       id 385
@@ -2702,6 +3472,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.ce21cb863cc0cp+2, -0x1.bb830bb12387ep+1"
+      pos_sfdp_mcmc "-0x1.342a4e65fa1ffp+2, -0x1.6f7cacf8f5a86p+1"
    ]
    node [
       id 386
@@ -2709,6 +3481,8 @@ graph [
       comm_infomap 29
       comm_mcmc 21
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.8f4faf1ab02b5p-1, -0x1.93997328bf3f7p+1"
+      pos_sfdp_mcmc "0x1.fe821adb4132p+0, -0x1.613c510c45957p+2"
    ]
    node [
       id 387
@@ -2716,6 +3490,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.0274361f0c3d9p+0, 0x1.63ef64adf7369p+1"
+      pos_sfdp_mcmc "0x1.e69670f335659p+1, -0x1.dd078e1af6258p-4"
    ]
    node [
       id 388
@@ -2723,6 +3499,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.ad20ce6b23e8bp-3, 0x1.ca40d6bf7089bp+1"
+      pos_sfdp_mcmc "0x1.73124a47bbb8p+2, -0x1.b44b6cf1acfa4p-2"
    ]
    node [
       id 389
@@ -2730,6 +3508,8 @@ graph [
       comm_infomap 91
       comm_mcmc 9
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.df8466af53f81p+0, -0x1.0c7f613a66c26p+2"
+      pos_sfdp_mcmc "-0x1.a83c299f3c72ep+1, -0x1.46b89b5bd9397p-1"
    ]
    node [
       id 390
@@ -2737,6 +3517,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.370ed104a01d4p+2, 0x1.7d0aea091204ap-1"
+      pos_sfdp_mcmc "-0x1.29dc195b453aep-2, -0x1.f1affb93ef7fap+2"
    ]
    node [
       id 391
@@ -2744,6 +3526,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.6cc93f3b5a77dp+1, 0x1.ba6dba58275fap+0"
+      pos_sfdp_mcmc "-0x1.f34eb575f016bp-1, -0x1.84e95184ba4cp+1"
    ]
    node [
       id 392
@@ -2751,6 +3535,8 @@ graph [
       comm_infomap 1
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.881509232d3b4p+0, 0x1.c0bdb5a2f4e7dp-2"
+      pos_sfdp_mcmc "0x1.fe654281feabfp-3, -0x1.2b3730c8f62a5p+1"
    ]
    node [
       id 393
@@ -2758,6 +3544,8 @@ graph [
       comm_infomap 39
       comm_mcmc 35
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.1a2bfd7bb5e38p+2, 0x1.28c7e1dffccabp+3"
+      pos_sfdp_mcmc "0x1.40a0c5afcf9ebp+1, -0x1.d9c0d4c2d56cbp+3"
    ]
    node [
       id 394
@@ -2765,6 +3553,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.3e60e281c05c9p+2, -0x1.217c4c1167894p+2"
+      pos_sfdp_mcmc "0x1.1a87638879913p+2, -0x1.65990533143cep+3"
    ]
    node [
       id 395
@@ -2772,6 +3562,8 @@ graph [
       comm_infomap 84
       comm_mcmc 11
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.9b1dc27e2874dp+1, 0x1.8b9a58e3debb6p+4"
+      pos_sfdp_mcmc "0x1.7889fbafec37fp+0, 0x1.2d11bcfde12bcp+4"
    ]
    node [
       id 396
@@ -2779,6 +3571,8 @@ graph [
       comm_infomap 80
       comm_mcmc 33
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.ef7e89fef8a5ep+1, 0x1.9601b1b379304p+4"
+      pos_sfdp_mcmc "0x1.d236b34a39efbp+4, 0x1.2efe499da20f6p+1"
    ]
    node [
       id 397
@@ -2786,6 +3580,8 @@ graph [
       comm_infomap 83
       comm_mcmc 14
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.7e8b495721ac7p+4, 0x1.61d02a912f254p+3"
+      pos_sfdp_mcmc "-0x1.15bf993fc9398p+3, 0x1.f9e3eb8e81334p+3"
    ]
    node [
       id 398
@@ -2793,6 +3589,8 @@ graph [
       comm_infomap 167
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.1c779d89efff6p+4, -0x1.e0c75782422f9p+2"
+      pos_sfdp_mcmc "-0x1.2b0971aa92bd4p+4, 0x1.4d8e0aebaf01p+3"
    ]
    node [
       id 399
@@ -2800,6 +3598,8 @@ graph [
       comm_infomap 45
       comm_mcmc 12
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.94c5c2889cad8p+1, 0x1.7f54d5dc6ba6fp-1"
+      pos_sfdp_mcmc "-0x1.0e4dd60085dd9p+2, -0x1.64e3b590f1882p+2"
    ]
    node [
       id 400
@@ -2807,6 +3607,8 @@ graph [
       comm_infomap 82
       comm_mcmc 14
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.3a397b9220a15p+4, 0x1.4daf00e597e18p+2"
+      pos_sfdp_mcmc "0x1.6558472c86a29p+4, 0x1.9a9710c65793dp+3"
    ]
    node [
       id 401
@@ -2814,6 +3616,8 @@ graph [
       comm_infomap 166
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.0f76915caa996p+4, -0x1.868b5f03a3b33p+3"
+      pos_sfdp_mcmc "-0x1.2abc1826067dp+4, 0x1.62f02fb2359dbp+2"
    ]
    node [
       id 402
@@ -2821,6 +3625,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.05d18b7853702p+1, 0x1.009082375e77ap+2"
+      pos_sfdp_mcmc "0x1.b60ef22304becp+2, -0x1.979b3cf126e4ep-1"
    ]
    node [
       id 403
@@ -2828,6 +3634,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.49b2b1d15f2eap-3, 0x1.91134eecc0c0ap-2"
+      pos_sfdp_mcmc "0x1.2079ca9ac0ddbp+1, -0x1.73962771f614bp+0"
    ]
    node [
       id 404
@@ -2835,6 +3643,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.f569591c516fcp+2, 0x1.d48557723353ap+1"
+      pos_sfdp_mcmc "0x1.a276f951bafedp+2, -0x1.3ad497b189379p+3"
    ]
    node [
       id 405
@@ -2842,6 +3652,8 @@ graph [
       comm_infomap 69
       comm_mcmc 8
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.4474d9cfeaf1bp+3, 0x1.fe8062853dfdep+1"
+      pos_sfdp_mcmc "0x1.d84aed1f1c28ap+3, 0x1.13ff4148de10ep+1"
    ]
    node [
       id 406
@@ -2849,6 +3661,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.161c3dc2d68eep+2, -0x1.18a2fff44a3d5p+2"
+      pos_sfdp_mcmc "-0x1.0d776471e8dd8p+2, -0x1.07016b12f7ac4p+2"
    ]
    node [
       id 407
@@ -2856,6 +3670,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.d376e7ccaa91p+0, 0x1.87ba81cffd4f9p+0"
+      pos_sfdp_mcmc "-0x1.fa46859cc4244p-2, -0x1.12a60c969b511p+1"
    ]
    node [
       id 408
@@ -2863,6 +3679,8 @@ graph [
       comm_infomap 55
       comm_mcmc 12
       date "9-8-2016"
+      pos_sfdp_infomap "0x1.8e4cf40cbadbfp+1, 0x1.b794da9292532p+1"
+      pos_sfdp_mcmc "-0x1.a8b3d1b9d09aep-2, 0x1.555215403ef4ep+1"
    ]
    node [
       id 409
@@ -2870,6 +3688,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.a05ee4516746fp+3, 0x1.ce1db6ec75c9dp+2"
+      pos_sfdp_mcmc "0x1.0ed8165939d87p+2, -0x1.e95e951da8c33p+3"
    ]
    node [
       id 410
@@ -2877,6 +3697,8 @@ graph [
       comm_infomap 92
       comm_mcmc 2
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.03cdde388423p+3, -0x1.810e7e2e9b896p+2"
+      pos_sfdp_mcmc "-0x1.f6d97a58de0dp+2, -0x1.ae102530376a4p+0"
    ]
    node [
       id 411
@@ -2884,6 +3706,8 @@ graph [
       comm_infomap 165
       comm_mcmc 6
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.3b9cc7237e368p+4, 0x1.539868eab1585p+4"
+      pos_sfdp_mcmc "-0x1.43ff74b114bdcp+4, -0x1.038f5605be9f9p+3"
    ]
    node [
       id 412
@@ -2891,6 +3715,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "9-8-2016"
+      pos_sfdp_infomap "-0x1.65a82084020b8p+0, 0x1.11427244bce44p+1"
+      pos_sfdp_mcmc "0x1.33829651ccc8p+1, -0x1.8d2f9c85c6d9fp+2"
    ]
    node [
       id 413
@@ -2898,6 +3724,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.6a922deb167aap+2, 0x1.9a81bb3afc424p-3"
+      pos_sfdp_mcmc "0x1.3aee1f9ae6249p+2, -0x1.626f7eaf8de6dp-1"
    ]
    node [
       id 414
@@ -2905,6 +3733,8 @@ graph [
       comm_infomap 93
       comm_mcmc 29
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.ea7c9a0f40098p-1, 0x1.ea94c17b72309p+3"
+      pos_sfdp_mcmc "0x1.1e64829d96ccp+4, -0x1.42d3511a8c3d5p+3"
    ]
    node [
       id 415
@@ -2912,6 +3742,8 @@ graph [
       comm_infomap 30
       comm_mcmc 3
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.a7fffe3b6dc61p+1, 0x1.e4ee52f8c52bfp+0"
+      pos_sfdp_mcmc "0x1.7e14947cdf9f6p+1, -0x1.daea35f1d96fbp+1"
    ]
    node [
       id 416
@@ -2919,6 +3751,8 @@ graph [
       comm_infomap 39
       comm_mcmc 25
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.6a0ef2961c09fp+0, 0x1.dcee7c948a5cap+1"
+      pos_sfdp_mcmc "0x1.653486cad15e4p+0, -0x1.4b396b466b8cap+3"
    ]
    node [
       id 417
@@ -2926,6 +3760,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.4571fceef9321p+2, -0x1.6eb16751db928p+1"
+      pos_sfdp_mcmc "-0x1.6708c3cb9b6f8p+1, -0x1.a7604c8b3df53p+1"
    ]
    node [
       id 418
@@ -2933,6 +3769,8 @@ graph [
       comm_infomap 16
       comm_mcmc 11
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.004c0fa98a36bp+2, 0x1.11da2b989e9ffp+1"
+      pos_sfdp_mcmc "0x1.148a4b881e0c1p+2, -0x1.6f789468bb74ep-1"
    ]
    node [
       id 419
@@ -2940,6 +3778,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.a8edad691e821p+3, -0x1.cc0e8553a38f9p-5"
+      pos_sfdp_mcmc "-0x1.8fb08e3bd1ddfp+2, -0x1.79e8fb7388717p+3"
    ]
    node [
       id 420
@@ -2947,6 +3787,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.1683a8c112c9dp-1, 0x1.2ef1cf1c40618p-1"
+      pos_sfdp_mcmc "0x1.08470b74a2b8ap+1, -0x1.e0948831c8cecp+0"
    ]
    node [
       id 421
@@ -2954,6 +3796,8 @@ graph [
       comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.d1e78735da7dap+0, -0x1.613e541413789p+1"
+      pos_sfdp_mcmc "-0x1.9fd402fd8bc42p+0, -0x1.3e1cce4ffee16p+0"
    ]
    node [
       id 422
@@ -2961,6 +3805,8 @@ graph [
       comm_infomap 60
       comm_mcmc 9
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.d635e98685144p-1, -0x1.0f0b88267657ap+1"
+      pos_sfdp_mcmc "0x1.9ab741620c34bp-2, 0x1.84b261bdc6b82p-2"
    ]
    node [
       id 423
@@ -2968,6 +3814,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.17a2696b1d76ap+2, -0x1.f1b4d19aa8535p+0"
+      pos_sfdp_mcmc "0x1.07814bcfa9833p+2, 0x1.3eb58807dac3cp+2"
    ]
    node [
       id 424
@@ -2975,6 +3823,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.9869e1f8c1b1ep+1, 0x1.2b593a7c1783p+1"
+      pos_sfdp_mcmc "0x1.96cac0d9a8e3cp+1, -0x1.1b61b6b6a6b65p+2"
    ]
    node [
       id 425
@@ -2982,6 +3832,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.bbf24ddfc4518p-2, 0x1.1e791d85f7e49p+2"
+      pos_sfdp_mcmc "0x1.746f512f8097ep+2, -0x1.a77745fc1b8b6p+1"
    ]
    node [
       id 426
@@ -2989,6 +3841,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.15bc05e3ebf71p+3, -0x1.683571acbaea3p+0"
+      pos_sfdp_mcmc "0x1.496ed040fd8b5p+1, 0x1.d22534663b263p+1"
    ]
    node [
       id 427
@@ -2996,6 +3850,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.dee3ef7af4142p+0, 0x1.8b6784ed0d155p-3"
+      pos_sfdp_mcmc "-0x1.8037d03adf25ep+1, -0x1.6e5e9e6b5525ep+2"
    ]
    node [
       id 428
@@ -3003,6 +3859,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.1e3ca1be8ddcdp+3, 0x1.a96c95b8bf8fap+2"
+      pos_sfdp_mcmc "0x1.132e6c870bec6p+2, -0x1.91a9bc367d153p+3"
    ]
    node [
       id 429
@@ -3010,6 +3868,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.0d2e62842ef83p-1, 0x1.6d7744d51aaf8p+3"
+      pos_sfdp_mcmc "0x1.5e3edf71887b9p+2, -0x1.2bedadc1cf793p+3"
    ]
    node [
       id 430
@@ -3017,6 +3877,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.6cc5b70f1db61p+3, 0x1.dc22131136bbap+1"
+      pos_sfdp_mcmc "0x1.b3e6ade2d4926p+0, -0x1.aec423223ea13p+3"
    ]
    node [
       id 431
@@ -3024,6 +3886,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.df195b8a423cbp-1, 0x1.2b3fe1091555dp+1"
+      pos_sfdp_mcmc "0x1.765b4f70a0a3dp+1, 0x1.cbed0014e93a6p-1"
    ]
    node [
       id 432
@@ -3031,6 +3895,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.9edac42eed605p+1, 0x1.40ec02696a706p+1"
+      pos_sfdp_mcmc "0x1.c23de44a81af7p+0, 0x1.b80a7613575fap+1"
    ]
    node [
       id 433
@@ -3038,6 +3904,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.13628867527efp+0, -0x1.f338e1d2ff319p+1"
+      pos_sfdp_mcmc "-0x1.bd1478c5e5834p-1, 0x1.d692256d141e6p+0"
    ]
    node [
       id 434
@@ -3045,6 +3913,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.70b1b0bfa9efcp+2, 0x1.3923a1b7ff39ap+1"
+      pos_sfdp_mcmc "0x1.84d5ee156c656p+2, 0x1.da00857fe157bp+0"
    ]
    node [
       id 435
@@ -3052,6 +3922,8 @@ graph [
       comm_infomap 164
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.2e77077bbaafp+4, 0x1.b1e87d1a34b56p+3"
+      pos_sfdp_mcmc "0x1.582204a2737acp+4, -0x1.90ee7e0a95cdfp+4"
    ]
    node [
       id 436
@@ -3059,6 +3931,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.2039f6bf2f7ffp+2, 0x1.817adfb5c049ep+1"
+      pos_sfdp_mcmc "0x1.72f07621b0ab5p+2, 0x1.095907685c08cp+0"
    ]
    node [
       id 437
@@ -3066,6 +3940,8 @@ graph [
       comm_infomap 52
       comm_mcmc 32
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.ef7a4d1443427p-3, 0x1.2735bb9f01971p+2"
+      pos_sfdp_mcmc "0x1.bb74f39d7127bp+2, -0x1.96a8c93db1a64p-2"
    ]
    node [
       id 438
@@ -3073,6 +3949,8 @@ graph [
       comm_infomap 87
       comm_mcmc 24
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.2f004c1fa536p+1, 0x1.7d5bef6392266p+1"
+      pos_sfdp_mcmc "0x1.05696450557c9p+1, -0x1.e1f8fa97f6ae5p-1"
    ]
    node [
       id 439
@@ -3080,6 +3958,8 @@ graph [
       comm_infomap 163
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.6795b8d5e5a74p+3, -0x1.28c461c3f8b49p+4"
+      pos_sfdp_mcmc "0x1.965dc29d713d7p+3, 0x1.6d5a26dcd13p+4"
    ]
    node [
       id 440
@@ -3087,6 +3967,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.5f807cfd8e6c5p+2, -0x1.3c83a7dfe1057p+2"
+      pos_sfdp_mcmc "0x1.28861e506e2d4p+2, -0x1.7e4f206fdc944p+3"
    ]
    node [
       id 441
@@ -3094,6 +3976,8 @@ graph [
       comm_infomap 81
       comm_mcmc 13
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.01a6b5c4f9925p+2, -0x1.22049153211acp+4"
+      pos_sfdp_mcmc "0x1.0822c1d2215d4p+2, 0x1.498d45248b658p+4"
    ]
    node [
       id 442
@@ -3101,6 +3985,8 @@ graph [
       comm_infomap 81
       comm_mcmc 13
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.aea451ffd8e57p+1, -0x1.1fa97ea9f9623p+4"
+      pos_sfdp_mcmc "0x1.331efc2c315dcp+2, 0x1.43a003de4972fp+4"
    ]
    node [
       id 443
@@ -3108,6 +3994,8 @@ graph [
       comm_infomap 1
       comm_mcmc 4
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.b7a88479cc62p+1, -0x1.ae1407e1ce4d4p-1"
+      pos_sfdp_mcmc "-0x1.eeaf43cd428a4p+0, -0x1.6435c3b068d32p+1"
    ]
    node [
       id 444
@@ -3115,6 +4003,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.ed289f6779652p+1, 0x1.377b0312a06ap-1"
+      pos_sfdp_mcmc "-0x1.7246170c5174cp+2, -0x1.4c9d60fc57cb3p+2"
    ]
    node [
       id 445
@@ -3122,6 +4012,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.b3e929d8208a4p+2, 0x1.016cfd185a077p+0"
+      pos_sfdp_mcmc "0x1.1d15dec412054p+2, 0x1.096a6b7147653p+1"
    ]
    node [
       id 446
@@ -3129,6 +4021,8 @@ graph [
       comm_infomap 39
       comm_mcmc 35
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.c41ba96158a9fp+1, 0x1.3766cbe7656e4p+3"
+      pos_sfdp_mcmc "0x1.869e8794b797ep+1, -0x1.bb6ae6eabe86ap+3"
    ]
    node [
       id 447
@@ -3136,6 +4030,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.5b0d7cba4170bp+0, 0x1.331718f68e40bp+2"
+      pos_sfdp_mcmc "0x1.f4fed7df50472p+2, -0x1.7778fab2ad1p+0"
    ]
    node [
       id 448
@@ -3143,6 +4039,8 @@ graph [
       comm_infomap 56
       comm_mcmc 14
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.8f8dc363fc0c9p+0, -0x1.b04b9fe114c0bp+2"
+      pos_sfdp_mcmc "-0x1.1274031a004dap+2, 0x1.500373bbd1c24p+1"
    ]
    node [
       id 449
@@ -3150,6 +4048,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.e6d03dc9d537dp-2, 0x1.430cd2b202ccbp+2"
+      pos_sfdp_mcmc "0x1.9288705cb9e55p+2, -0x1.8456e5ba8ea12p+1"
    ]
    node [
       id 450
@@ -3157,6 +4057,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.212ebe8ec7989p+2, -0x1.801f68f692f3cp+0"
+      pos_sfdp_mcmc "0x1.350b9a7b3f621p+2, 0x1.4f604298b800cp+2"
    ]
    node [
       id 451
@@ -3164,6 +4066,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.b839e979b3cb8p-1, -0x1.0358df7c5c378p+1"
+      pos_sfdp_mcmc "0x1.06beee1d51bf5p+0, -0x1.fa5f70f1bc16bp+2"
    ]
    node [
       id 452
@@ -3171,6 +4075,8 @@ graph [
       comm_infomap 68
       comm_mcmc 7
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.b858e0921606ap+1, -0x1.708b30aa4b9b5p-3"
+      pos_sfdp_mcmc "0x1.d10acf9dfaaep+0, -0x1.3d3568a61464p+3"
    ]
    node [
       id 453
@@ -3178,6 +4084,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.e587660d9ae7fp+0, -0x1.25654419e166bp+1"
+      pos_sfdp_mcmc "0x1.6303f9cef4718p+0, -0x1.164a5a7e6ca81p+3"
    ]
    node [
       id 454
@@ -3185,6 +4093,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.3fe94a76daa2cp+3, 0x1.c609899e3ab7ep-1"
+      pos_sfdp_mcmc "-0x1.516402c2d7cb7p+1, -0x1.562c382f8436ap+3"
    ]
    node [
       id 455
@@ -3192,6 +4102,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.319dc078da222p+2, 0x1.6a3e38b66c11cp-3"
+      pos_sfdp_mcmc "-0x1.b63e9ff5b8786p+2, -0x1.2a3d7c94279c7p+2"
    ]
    node [
       id 456
@@ -3199,6 +4111,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.d57b39a9eda0fp+1, 0x1.2085b4ad65f9cp+1"
+      pos_sfdp_mcmc "0x1.b2c8c63d53045p+1, -0x1.2f07d46456a16p+2"
    ]
    node [
       id 457
@@ -3206,6 +4120,8 @@ graph [
       comm_infomap 8
       comm_mcmc 20
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.30b0509729f4bp+3, 0x1.304c3d5241e89p+2"
+      pos_sfdp_mcmc "0x1.3253b6cdcd217p+1, -0x1.742c10ee620a1p+3"
    ]
    node [
       id 458
@@ -3213,6 +4129,8 @@ graph [
       comm_infomap 80
       comm_mcmc 33
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.ac6f3df1f9c2cp+1, 0x1.9de13dbf2b8b4p+4"
+      pos_sfdp_mcmc "0x1.d6692f5eaebfcp+4, 0x1.932bc8dd2884ep+0"
    ]
    node [
       id 459
@@ -3220,6 +4138,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.53f8844eaa29cp+2, 0x1.b0c90757db4b7p+3"
+      pos_sfdp_mcmc "0x1.08b088b60f0ccp+4, -0x1.bef4d05abbc91p+2"
    ]
    node [
       id 460
@@ -3227,6 +4147,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.d94bd021b66bdp+2, 0x1.ee89fa774624ap+1"
+      pos_sfdp_mcmc "0x1.bdb5d941836e6p+2, -0x1.3a1ef1e9d9d5p+3"
    ]
    node [
       id 461
@@ -3234,6 +4156,8 @@ graph [
       comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.e61018f6f2eb7p+0, -0x1.c0f467b1480abp+1"
+      pos_sfdp_mcmc "-0x1.1aed41e784a1ap+1, -0x1.e85ceb11cb752p-2"
    ]
    node [
       id 462
@@ -3241,6 +4165,8 @@ graph [
       comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.b9c9315287a66p+0, -0x1.0c60af76031ebp+1"
+      pos_sfdp_mcmc "-0x1.db95983532de5p-1, -0x1.287b3b54370f1p-1"
    ]
    node [
       id 463
@@ -3248,6 +4174,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.eebf1adfec83cp-2, 0x1.512c96d256d92p+1"
+      pos_sfdp_mcmc "0x1.9bee1075c4e69p+1, 0x1.ff9e80ac7cab8p-4"
    ]
    node [
       id 464
@@ -3255,6 +4183,8 @@ graph [
       comm_infomap 52
       comm_mcmc 32
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.de896fc9adfc8p-1, 0x1.c4bdcd345e9bbp+1"
+      pos_sfdp_mcmc "0x1.4c99eb80d8dc3p+2, 0x1.938348d9db6b6p-3"
    ]
    node [
       id 465
@@ -3262,6 +4192,8 @@ graph [
       comm_infomap 64
       comm_mcmc 12
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.3cfe250cf937bp+4, -0x1.387fd0a5ea236p+3"
+      pos_sfdp_mcmc "-0x1.156df9f2fca7bp+2, 0x1.1728fde539613p+4"
    ]
    node [
       id 466
@@ -3269,6 +4201,8 @@ graph [
       comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.0caf94223c614p+1, -0x1.3d25f6aa902e1p+2"
+      pos_sfdp_mcmc "-0x1.b9f84fcc765ddp+1, 0x1.793987be3d117p-1"
    ]
    node [
       id 467
@@ -3276,6 +4210,8 @@ graph [
       comm_infomap 162
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.4335816df5857p+4, -0x1.e45e5edc784f5p-1"
+      pos_sfdp_mcmc "0x1.067a68f62cf7ep+5, -0x1.01b3274a6fbep+2"
    ]
    node [
       id 468
@@ -3283,6 +4219,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.3f3d49ce1f1d1p+2, -0x1.46c7a2198003ep+2"
+      pos_sfdp_mcmc "0x1.3aa8219d58ef6p+2, -0x1.72c1951c713edp+3"
    ]
    node [
       id 469
@@ -3290,6 +4228,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.b604e6a74a716p+3, 0x1.82a1be957377cp+2"
+      pos_sfdp_mcmc "0x1.83e75791f42f8p+3, 0x1.3e09fb8b7b622p+2"
    ]
    node [
       id 470
@@ -3297,6 +4237,8 @@ graph [
       comm_infomap 87
       comm_mcmc 24
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.9b2286bfb1d4ap+1, 0x1.de6e61a4069ddp+1"
+      pos_sfdp_mcmc "0x1.e7d41912feee9p+1, -0x1.1622463a612d4p+1"
    ]
    node [
       id 471
@@ -3304,6 +4246,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.1c676d95a70eap+3, 0x1.6113d64f81f1bp+2"
+      pos_sfdp_mcmc "0x1.38ff33146df2fp+3, 0x1.4914eaa444736p-1"
    ]
    node [
       id 472
@@ -3311,6 +4255,8 @@ graph [
       comm_infomap 161
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.69b0c8ec9198p+4, 0x1.a1d4e4456785dp+3"
+      pos_sfdp_mcmc "0x1.be10d9e082375p+2, -0x1.04f2fe27ab101p+5"
    ]
    node [
       id 473
@@ -3318,6 +4264,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.0d522143f0f83p+1, 0x1.1c18536500e32p+2"
+      pos_sfdp_mcmc "0x1.0817f9f1d49b3p-2, -0x1.0c42e306966c4p+3"
    ]
    node [
       id 474
@@ -3325,6 +4273,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.e81afd00d437fp+0, 0x1.b11077fab18a1p+1"
+      pos_sfdp_mcmc "-0x1.fb07f0d3b1082p-5, -0x1.bcbc93be74b0ap+2"
    ]
    node [
       id 475
@@ -3332,6 +4282,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.038cfb7b1da8ep+0, -0x1.3e244c8cba89cp-4"
+      pos_sfdp_mcmc "-0x1.bcfea9d19f809p-3, -0x1.dc60b9ff3b5f5p-2"
    ]
    node [
       id 476
@@ -3339,6 +4291,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.3ac38dffde99ep+2, -0x1.8f4c5b6dd4988p+0"
+      pos_sfdp_mcmc "0x1.426826b69a484p+2, 0x1.6af8ca0e09341p+2"
    ]
    node [
       id 477
@@ -3346,6 +4300,8 @@ graph [
       comm_infomap 160
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.9f1caa03ad9f1p+4, 0x1.2c8446e747e45p+3"
+      pos_sfdp_mcmc "0x1.4304babd51cb2p+3, -0x1.00a92ffc93a4fp+5"
    ]
    node [
       id 478
@@ -3353,6 +4309,8 @@ graph [
       comm_infomap 45
       comm_mcmc 12
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.7079bc3a03bafp+2, 0x1.2903edf76db0ap+0"
+      pos_sfdp_mcmc "-0x1.b568456e1d6f8p+2, -0x1.7683d8aeacca5p+2"
    ]
    node [
       id 479
@@ -3360,6 +4318,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.d5cd83d051332p+2, 0x1.ace821b3e6436p+3"
+      pos_sfdp_mcmc "0x1.706ae623872d6p+3, -0x1.96aa5af0f93c2p+3"
    ]
    node [
       id 480
@@ -3367,6 +4327,8 @@ graph [
       comm_infomap 159
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.be95d9212da53p+3, 0x1.f8960d9e7e941p+3"
+      pos_sfdp_mcmc "-0x1.94de03ed49cbfp+3, 0x1.1dfcdbecd20c3p+4"
    ]
    node [
       id 481
@@ -3374,6 +4336,8 @@ graph [
       comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.22b1b5d803047p+1, -0x1.be7a53d0cd747p+2"
+      pos_sfdp_mcmc "-0x1.52cc3c31e8e6ep+2, 0x1.e5399615c335p+0"
    ]
    node [
       id 482
@@ -3381,6 +4345,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.ed641612f6cfbp-1, 0x1.be340680d24ccp+0"
+      pos_sfdp_mcmc "0x1.48d78593ac72fp+1, -0x1.5bf3d0a07ee55p-1"
    ]
    node [
       id 483
@@ -3388,6 +4354,8 @@ graph [
       comm_infomap 158
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "0x1.2b23c7299c6bdp+4, -0x1.4dd27748dfbddp+2"
+      pos_sfdp_mcmc "-0x1.18d5fb575c01fp+0, -0x1.e5c88614d1868p+4"
    ]
    node [
       id 484
@@ -3395,6 +4363,8 @@ graph [
       comm_infomap 157
       comm_mcmc 6
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.61a12042c9523p+4, -0x1.b1f912a205061p+2"
+      pos_sfdp_mcmc "-0x1.e1650c5942b8dp+1, -0x1.efc347b3a001dp+4"
    ]
    node [
       id 485
@@ -3402,6 +4372,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "10-8-2016"
+      pos_sfdp_infomap "-0x1.b24405edae976p+2, -0x1.f5d5b44f30ffep+1"
+      pos_sfdp_mcmc "-0x1.4d0cb078d0ca6p+2, -0x1.60d04eb2f7d04p+1"
    ]
    node [
       id 486
@@ -3409,6 +4381,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.52235196ed4f6p+1, 0x1.bdcd30cb7a379p-1"
+      pos_sfdp_mcmc "-0x1.2d3be04f373b6p+2, -0x1.42807db3f2bcap+2"
    ]
    node [
       id 487
@@ -3416,6 +4390,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.d84e06baaab4p+3, 0x1.10483f13a2676p+2"
+      pos_sfdp_mcmc "-0x1.00ab8b8619c14p-1, -0x1.06a908b0cd819p+4"
    ]
    node [
       id 488
@@ -3423,6 +4399,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.76ce35c186abfp+2, 0x1.275f7ff385c4fp-1"
+      pos_sfdp_mcmc "0x1.df032dd31cc82p+1, -0x1.a58304d7be46dp+2"
    ]
    node [
       id 489
@@ -3430,6 +4408,8 @@ graph [
       comm_infomap 156
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.12c385cb01a8dp+4, 0x1.49b6acddb2ecfp+4"
+      pos_sfdp_mcmc "0x1.d164036f51761p+4, -0x1.23674c8ee8bc2p+4"
    ]
    node [
       id 490
@@ -3437,6 +4417,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.5f899019a7e3cp-1, 0x1.dbc1844256b0ap+2"
+      pos_sfdp_mcmc "0x1.3fcfa1eeb654p+3, -0x1.1c16ac52b8e28p+1"
    ]
    node [
       id 491
@@ -3444,6 +4426,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.fbd679709e084p+1, -0x1.e689c3b857566p+0"
+      pos_sfdp_mcmc "0x1.1f34f6db39198p+2, 0x1.3ef388a9d5757p+2"
    ]
    node [
       id 492
@@ -3451,6 +4435,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.d4609667dbfc5p+1, -0x1.4b9b7ae7df397p+0"
+      pos_sfdp_mcmc "0x1.1c75cbc2b13edp+2, 0x1.1d7abc9bbf64bp+2"
    ]
    node [
       id 493
@@ -3458,6 +4444,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.fa355b5e79779p+1, -0x1.ac90efe6051ddp-1"
+      pos_sfdp_mcmc "0x1.4dd0858b25d56p+2, 0x1.239a83803eafep+2"
    ]
    node [
       id 494
@@ -3465,6 +4453,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.8640cea9c9f1ep-1, 0x1.d9e5273e57342p+1"
+      pos_sfdp_mcmc "0x1.448a03cf3f764p+2, -0x1.6390e3d7287e9p+0"
    ]
    node [
       id 495
@@ -3472,6 +4462,8 @@ graph [
       comm_infomap 87
       comm_mcmc 24
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.0e02478777febp+1, 0x1.b5c704d8ff15bp+1"
+      pos_sfdp_mcmc "0x1.4590e574ed114p+1, -0x1.fea71a384d088p-1"
    ]
    node [
       id 496
@@ -3479,6 +4471,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.858bf706d99d5p-1, 0x1.4487bda9effdap+2"
+      pos_sfdp_mcmc "0x1.fa39ca7502cfdp+2, 0x1.53fba44ff9f16p-1"
    ]
    node [
       id 497
@@ -3486,6 +4480,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.4fb7e345b95f2p+3, 0x1.deedeb897189fp-1"
+      pos_sfdp_mcmc "-0x1.a0ba3a70575b9p+1, -0x1.48fb3f578dcbp+3"
    ]
    node [
       id 498
@@ -3493,6 +4489,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.82c8816850c71p+1, 0x1.06181c4eb6de4p-3"
+      pos_sfdp_mcmc "-0x1.32179c2b64c08p+2, -0x1.1efdefce669efp+2"
    ]
    node [
       id 499
@@ -3500,6 +4498,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.5d72ab8637787p+2, 0x1.92e325e258fe7p+3"
+      pos_sfdp_mcmc "0x1.1d5436cd164fep+3, -0x1.81246fcded762p+3"
    ]
    node [
       id 500
@@ -3507,6 +4507,8 @@ graph [
       comm_infomap 39
       comm_mcmc 35
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.ac90ab0e1b9c4p+1, 0x1.e72c4d361182p+2"
+      pos_sfdp_mcmc "0x1.216854d1a9b9p+1, -0x1.aab65e65e9897p+3"
    ]
    node [
       id 501
@@ -3514,6 +4516,8 @@ graph [
       comm_infomap 155
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.a1d06bec4fe3ep+3, 0x1.72a3ec4f35cd6p+4"
+      pos_sfdp_mcmc "0x1.659e2e41cab92p+4, 0x1.f6a329feb3bddp+3"
    ]
    node [
       id 502
@@ -3521,6 +4525,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.501f72ac09d8cp+0, 0x1.7daa03d976958p+1"
+      pos_sfdp_mcmc "-0x1.5b79be3246454p-1, -0x1.d32feee9cca0ap+2"
    ]
    node [
       id 503
@@ -3528,6 +4534,8 @@ graph [
       comm_infomap 79
       comm_mcmc 23
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.0927eab45b512p+4, 0x1.a5ba564654cf9p+3"
+      pos_sfdp_mcmc "0x1.f3ad2bb6e6b13p+4, -0x1.2f89a58b80b0cp+3"
    ]
    node [
       id 504
@@ -3535,6 +4543,8 @@ graph [
       comm_infomap 79
       comm_mcmc 23
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.0c6d1fa453b6fp+4, 0x1.8fe4a4cae77ep+3"
+      pos_sfdp_mcmc "0x1.eb5e81747def6p+4, -0x1.436251ea53275p+3"
    ]
    node [
       id 505
@@ -3542,6 +4552,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.5439d8412937dp+2, -0x1.065ae04c2adcp+2"
+      pos_sfdp_mcmc "-0x1.08d43c181d91ep+2, -0x1.c0c8f07e0db41p+1"
    ]
    node [
       id 506
@@ -3549,6 +4561,8 @@ graph [
       comm_infomap 154
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.ef8c3956b572cp+2, 0x1.52fe3b36cdbf5p+4"
+      pos_sfdp_mcmc "0x1.f0a42066e1024p+4, 0x1.5260222be8d91p+2"
    ]
    node [
       id 507
@@ -3556,6 +4570,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.c2a07e6ca517ep+2, 0x1.7dbb9f769f85bp+3"
+      pos_sfdp_mcmc "0x1.2dc7cef7c514cp+3, -0x1.a0ad14c3fe669p+3"
    ]
    node [
       id 508
@@ -3563,6 +4579,8 @@ graph [
       comm_infomap 23
       comm_mcmc 33
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.fa015fd72d3d6p+2, 0x1.9f10795088aacp+1"
+      pos_sfdp_mcmc "0x1.0181be5d082bbp+3, 0x1.e999fd7faaf41p+0"
    ]
    node [
       id 509
@@ -3570,6 +4588,8 @@ graph [
       comm_infomap 153
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.a4c2302c7d04ap-1, 0x1.8bc285de68e1bp+4"
+      pos_sfdp_mcmc "-0x1.2d4ae73d0d941p+4, 0x1.99d3f3c849c01p+1"
    ]
    node [
       id 510
@@ -3577,6 +4597,8 @@ graph [
       comm_infomap 152
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.2ab595c42afcp+2, 0x1.7330c4bae2a1cp+4"
+      pos_sfdp_mcmc "-0x1.46bdaeb441453p+3, 0x1.1fca84f54465bp+4"
    ]
    node [
       id 511
@@ -3584,6 +4606,8 @@ graph [
       comm_infomap 151
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.37743c7536156p+2, 0x1.bde26e75b53d2p+4"
+      pos_sfdp_mcmc "0x1.d98abaf41a937p+1, -0x1.051bfe215369p+5"
    ]
    node [
       id 512
@@ -3591,6 +4615,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.02901f483bc8cp+2, -0x1.1cce5ae250316p+1"
+      pos_sfdp_mcmc "0x1.007a9efffca6ep+2, 0x1.5d64db8eab2e2p+2"
    ]
    node [
       id 513
@@ -3598,6 +4624,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.39eeb4168dcc2p+2, 0x1.2db487c2e9229p+2"
+      pos_sfdp_mcmc "0x1.ab3a210aff85cp+2, -0x1.1fba3454fb458p+2"
    ]
    node [
       id 514
@@ -3605,6 +4633,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.a38d3ee7685e2p+1, -0x1.d7d29bef7e139p+0"
+      pos_sfdp_mcmc "0x1.fd9f85297be3ep+1, 0x1.f4436ff74dc91p+1"
    ]
    node [
       id 515
@@ -3612,6 +4642,8 @@ graph [
       comm_infomap 87
       comm_mcmc 24
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.4a6309cb58b48p+0, 0x1.d990812c7e0fap+1"
+      pos_sfdp_mcmc "0x1.0c147210b226p+2, -0x1.7be07f951504p-3"
    ]
    node [
       id 516
@@ -3619,6 +4651,8 @@ graph [
       comm_infomap 93
       comm_mcmc 29
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.7db5ddd0df1e3p+0, 0x1.be64d02cb654cp+3"
+      pos_sfdp_mcmc "0x1.04f29ff472103p+4, -0x1.2de5e78067d5ap+3"
    ]
    node [
       id 517
@@ -3626,6 +4660,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.4187b4bb4722cp+2, 0x1.9f3b6bc93cd8ap+1"
+      pos_sfdp_mcmc "0x1.47db023b8f725p+2, -0x1.44c4375576e5ap+2"
    ]
    node [
       id 518
@@ -3633,6 +4669,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.f94ac06f6956p+1, -0x1.348e11c0ab13dp+0"
+      pos_sfdp_mcmc "0x1.31d28f69cecddp+2, 0x1.2097d1374692fp+2"
    ]
    node [
       id 519
@@ -3640,6 +4678,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.3a81225a5a27cp+2, -0x1.0e8a6b5491c5dp+1"
+      pos_sfdp_mcmc "0x1.252e44ee9701ep+2, 0x1.83467c41c7bf6p+2"
    ]
    node [
       id 520
@@ -3647,6 +4687,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.967eecc1f8bb7p+1, -0x1.907f3876b1a3fp+0"
+      pos_sfdp_mcmc "0x1.c9db453b3dbdbp+1, 0x1.07d1340e641cdp+2"
    ]
    node [
       id 521
@@ -3654,6 +4696,8 @@ graph [
       comm_infomap 150
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.1b177867d06dp+0, -0x1.183fa38f4d8d5p+4"
+      pos_sfdp_mcmc "-0x1.1786ba418e819p+4, 0x1.8cb427af8b592p+3"
    ]
    node [
       id 522
@@ -3661,6 +4705,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.1bbf59b86398cp+2, -0x1.2b872198d9ccp+1"
+      pos_sfdp_mcmc "0x1.d845a4ff8f0c6p+1, 0x1.40696f3437646p+2"
    ]
    node [
       id 523
@@ -3668,6 +4714,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.93d8e9bf67ca9p+3, 0x1.29311bbbc888ep+2"
+      pos_sfdp_mcmc "0x1.0d3aadd345c15p+0, -0x1.d3e775f86c83fp+3"
    ]
    node [
       id 524
@@ -3675,6 +4723,8 @@ graph [
       comm_infomap 65
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.0b3440029ea72p+4, 0x1.df3223469877p+2"
+      pos_sfdp_mcmc "0x1.31f96f5542e8p+3, 0x1.2f9c4f93e490cp+4"
    ]
    node [
       id 525
@@ -3682,6 +4732,8 @@ graph [
       comm_infomap 65
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.12600dc15fa16p+4, 0x1.ff4f9bbc366e3p+2"
+      pos_sfdp_mcmc "0x1.3d3af2a32754fp+3, 0x1.24a4f1b6294eep+4"
    ]
    node [
       id 526
@@ -3689,6 +4741,8 @@ graph [
       comm_infomap 149
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.0f22daff496b1p+4, 0x1.5677e6d141ccp-1"
+      pos_sfdp_mcmc "-0x1.5ade41dfaab82p+4, -0x1.bf4ed1e072dd3p+3"
    ]
    node [
       id 527
@@ -3696,6 +4750,8 @@ graph [
       comm_infomap 148
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.2d2170f28aa66p+3, -0x1.a6080f659a4a2p+3"
+      pos_sfdp_mcmc "0x1.b3a2dabf3f4dbp+4, 0x1.9db5b7576e713p+3"
    ]
    node [
       id 528
@@ -3703,6 +4759,8 @@ graph [
       comm_infomap 39
       comm_mcmc 35
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.4de4b408a0b84p+2, 0x1.63fb3e1ab24f4p+3"
+      pos_sfdp_mcmc "0x1.4bb93a872326ap+1, -0x1.0b3ea160cbc89p+4"
    ]
    node [
       id 529
@@ -3710,6 +4768,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.67e3c3b60d73ap+2, 0x1.38dee45b7d727p+2"
+      pos_sfdp_mcmc "0x1.dc549da04b85ep+2, -0x1.b62d91c7ae617p+1"
    ]
    node [
       id 530
@@ -3717,6 +4777,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.41695cfe32033p+2, -0x1.bcc8b003cf012p+1"
+      pos_sfdp_mcmc "0x1.c3c310ae7f07dp+1, 0x1.c26bd8258b121p+2"
    ]
    node [
       id 531
@@ -3724,6 +4786,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.01a644a21a183p+2, -0x1.4a66e31036079p+1"
+      pos_sfdp_mcmc "0x1.cb2876842985bp+1, 0x1.5d374a18d4aeap+2"
    ]
    node [
       id 532
@@ -3731,6 +4795,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.a434b2078fc5fp+0, 0x1.65e0439ad9019p+0"
+      pos_sfdp_mcmc "0x1.7285a59f8de84p+2, 0x1.855b0605102eep+0"
    ]
    node [
       id 533
@@ -3738,6 +4804,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.0bf5b9aacf6f5p+2, -0x1.aa8ff541b5c86p+0"
+      pos_sfdp_mcmc "0x1.1793494334c28p+2, 0x1.5674ede1bb5dp+2"
    ]
    node [
       id 534
@@ -3745,6 +4813,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.1019ed54d8bb9p+0, -0x1.20fc2a9c69024p+1"
+      pos_sfdp_mcmc "0x1.41308ce913d64p-1, -0x1.0334f66a5044ep+3"
    ]
    node [
       id 535
@@ -3752,6 +4822,8 @@ graph [
       comm_infomap 68
       comm_mcmc 7
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.55480496bd28ap+1, 0x1.a49d2a8102619p+0"
+      pos_sfdp_mcmc "0x1.32068af03c9e4p+2, -0x1.41979a887b2fap+3"
    ]
    node [
       id 536
@@ -3759,6 +4831,8 @@ graph [
       comm_infomap 64
       comm_mcmc 12
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.48c259497c37p+4, -0x1.35014b0d75fep+3"
+      pos_sfdp_mcmc "-0x1.1d71e4236ffbdp+2, 0x1.249253d84b6f6p+4"
    ]
    node [
       id 537
@@ -3766,6 +4840,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.597cfe857eef1p+1, -0x1.c54d3f7631ccp-2"
+      pos_sfdp_mcmc "-0x1.14da45c0e0229p-2, -0x1.3373e4ebb677cp+3"
    ]
    node [
       id 538
@@ -3773,6 +4849,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.10d517e777a7cp+3, 0x1.03a0325fa9fadp+1"
+      pos_sfdp_mcmc "0x1.3fbac3130e23fp+1, -0x1.3c950f88bfb54p+3"
    ]
    node [
       id 539
@@ -3780,6 +4858,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.728f3f41115e6p+3, 0x1.1ed41a30fdfb7p+2"
+      pos_sfdp_mcmc "0x1.4e45ac7c745f2p+0, -0x1.ab48e8048bdep+3"
    ]
    node [
       id 540
@@ -3787,6 +4867,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.11a447750fbe9p+2, 0x1.31b04cda0661p+2"
+      pos_sfdp_mcmc "0x1.87177b9495b2ap+2, -0x1.79dc2b1cad306p+2"
    ]
    node [
       id 541
@@ -3794,6 +4876,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.3e2563605e20bp+2, 0x1.9258b6c74dc3p-3"
+      pos_sfdp_mcmc "0x1.766de5c4de6b2p+2, -0x1.2d4caf8fef7dp+3"
    ]
    node [
       id 542
@@ -3801,6 +4885,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.802d31aba0e05p+2, 0x1.5ee5d78b14be6p+2"
+      pos_sfdp_mcmc "0x1.0487c07006664p+3, -0x1.188ce647ab68cp+3"
    ]
    node [
       id 543
@@ -3808,6 +4894,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.1b4cdcfe63731p+2, 0x1.d6c6757a8e731p+1"
+      pos_sfdp_mcmc "0x1.e32d9b69208afp+2, 0x1.a64d1030b5a5fp-2"
    ]
    node [
       id 544
@@ -3815,6 +4903,8 @@ graph [
       comm_infomap 147
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.4f0f627130bd7p+4, 0x1.c72de099776e7p+2"
+      pos_sfdp_mcmc "0x1.536b7d0b44528p+2, -0x1.e878b2d186deap+4"
    ]
    node [
       id 545
@@ -3822,6 +4912,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.107a77e28c5e5p+3, 0x1.71a3e05d1830ep+3"
+      pos_sfdp_mcmc "0x1.0bfa966b1d931p+3, -0x1.c5317bb8f0865p+3"
    ]
    node [
       id 546
@@ -3829,6 +4921,8 @@ graph [
       comm_infomap 67
       comm_mcmc 27
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.150fb72204bf6p+4, 0x1.09a214b3ae18p+2"
+      pos_sfdp_mcmc "-0x1.39b4cc48e3192p+4, -0x1.898bad7734fb8p+0"
    ]
    node [
       id 547
@@ -3836,6 +4930,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.297cb9d4fe76p+3, 0x1.901025d23dfd7p+3"
+      pos_sfdp_mcmc "0x1.173a0c72571cbp+3, -0x1.f1c6817ffa58dp+3"
    ]
    node [
       id 548
@@ -3843,6 +4939,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.2078f33f96f61p+1, -0x1.c8383308a2486p-2"
+      pos_sfdp_mcmc "-0x1.8e04771a27bc3p+1, -0x1.9a6336134650cp+2"
    ]
    node [
       id 549
@@ -3850,6 +4948,8 @@ graph [
       comm_infomap 67
       comm_mcmc 27
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.18a862954ac4ep+4, 0x1.c425dd142a93ep+1"
+      pos_sfdp_mcmc "-0x1.44ac61dc6bc54p+4, -0x1.3b490aa6de488p+0"
    ]
    node [
       id 550
@@ -3857,6 +4957,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.33e6355bbbed8p+3, 0x1.85a90b9436011p+3"
+      pos_sfdp_mcmc "0x1.268577eaab777p+3, -0x1.ec3cf9e2bef1bp+3"
    ]
    node [
       id 551
@@ -3864,6 +4966,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.2f91fdef9d716p+1, 0x1.fb5fd7d439fadp-5"
+      pos_sfdp_mcmc "-0x1.c4d630e92b9eep+1, -0x1.84ceeb8a18355p+2"
    ]
    node [
       id 552
@@ -3871,6 +4975,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.9902b2a5849d3p-1, -0x1.d577adcd9224ap-1"
+      pos_sfdp_mcmc "0x1.0c26ac0b63a8fp-2, -0x1.e8f9caa1e9966p+2"
    ]
    node [
       id 553
@@ -3878,6 +4984,8 @@ graph [
       comm_infomap 2
       comm_mcmc 16
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.14a1b50c80563p+0, -0x1.cdd9b901c3c52p+0"
+      pos_sfdp_mcmc "0x1.720cbd1ea1a2ap+0, -0x1.df72587694478p+2"
    ]
    node [
       id 554
@@ -3885,6 +4993,8 @@ graph [
       comm_infomap 64
       comm_mcmc 12
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.4396b348d0535p+4, -0x1.4a5df1f621258p+3"
+      pos_sfdp_mcmc "-0x1.468961d93306ep+2, 0x1.1bb85f418f301p+4"
    ]
    node [
       id 555
@@ -3892,6 +5002,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.35ab61821660cp+2, 0x1.f5e1c16481791p+0"
+      pos_sfdp_mcmc "0x1.3ced0b392443cp+2, -0x1.144740e8e2c88p+1"
    ]
    node [
       id 556
@@ -3899,6 +5011,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.4e36f9acad45ep+2, 0x1.a8df9fda77d51p-2"
+      pos_sfdp_mcmc "-0x1.c20cd0887cdcdp-2, -0x1.25c0d7c8f5be3p+3"
    ]
    node [
       id 557
@@ -3906,6 +5020,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.d8e0182b7b991p+2, 0x1.5695d27a57a2ap+2"
+      pos_sfdp_mcmc "0x1.14db883655ff8p+3, -0x1.3f5ab2911ce72p+3"
    ]
    node [
       id 558
@@ -3913,6 +5029,8 @@ graph [
       comm_infomap 146
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.412ad12f01f51p+4, -0x1.90ea0bccf2b2bp+3"
+      pos_sfdp_mcmc "-0x1.7588e9fb6ff0ep+4, -0x1.7755f6bf7d201p+2"
    ]
    node [
       id 559
@@ -3920,6 +5038,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.ce99baf73dfcbp+2, 0x1.1cc74bbb2fe9ap+0"
+      pos_sfdp_mcmc "-0x1.01b0ed41a560bp+0, -0x1.0f4086327f3ebp+3"
    ]
    node [
       id 560
@@ -3927,6 +5047,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.7ccaa69703c1ep+2, 0x1.765404e94bb23p+1"
+      pos_sfdp_mcmc "0x1.c4257deaa0e5ep+2, 0x1.10c60c7b8c7fcp+1"
    ]
    node [
       id 561
@@ -3934,6 +5056,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.9536876626941p+0, 0x1.9418ec49bad3dp+2"
+      pos_sfdp_mcmc "0x1.275dbe7c6d154p+3, 0x1.ad9f989c4b276p-1"
    ]
    node [
       id 562
@@ -3941,6 +5065,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.a8e4a3f20310ep+0, 0x1.cedf8c0e1e479p+1"
+      pos_sfdp_mcmc "0x1.5507cd525f99fp+2, -0x1.12cef97ad3a72p+0"
    ]
    node [
       id 563
@@ -3948,6 +5074,8 @@ graph [
       comm_infomap 39
       comm_mcmc 35
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.dd1ec26c4e835p+1, 0x1.2c4dd7f4c9eabp+3"
+      pos_sfdp_mcmc "0x1.bcdb9e8d9e7e8p+1, -0x1.b54e922a712ccp+3"
    ]
    node [
       id 564
@@ -3955,6 +5083,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "11-8-2016"
+      pos_sfdp_infomap "0x1.407183f29755dp-1, 0x1.02d8ca94c05e3p+0"
+      pos_sfdp_mcmc "-0x1.964219250b9a7p+0, -0x1.b492fa7120ac2p-2"
    ]
    node [
       id 565
@@ -3962,6 +5092,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.9d6278acde122p+2, 0x1.a10f770453baep+3"
+      pos_sfdp_mcmc "0x1.6c2b259c71c07p+3, -0x1.818c20f54009ep+3"
    ]
    node [
       id 566
@@ -3969,6 +5101,8 @@ graph [
       comm_infomap 53
       comm_mcmc 7
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.6b6a80a2b160ap+3, 0x1.96ce0ff74356bp+2"
+      pos_sfdp_mcmc "0x1.a8ce3a43c8e15p+2, -0x1.5d7add119d6dcp+0"
    ]
    node [
       id 567
@@ -3976,6 +5110,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
+      pos_sfdp_infomap "-0x1.1bc4eb2c2d9bcp+2, 0x1.1ef760050494fp+2"
+      pos_sfdp_mcmc "0x1.7a1d87eb8134bp+2, -0x1.3f79cfe5c4a9dp+2"
    ]
    node [
       id 568
@@ -3983,6 +5119,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.502c50958f19ep+3, 0x1.23db3d78cdadfp+3"
+      pos_sfdp_mcmc "0x1.718bd3e0d2b4dp+2, -0x1.d8e6d1322cb83p+3"
    ]
    node [
       id 569
@@ -3990,6 +5128,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.ccf3059ae6e18p+3, 0x1.1eab27800366p-1"
+      pos_sfdp_mcmc "-0x1.c78d7ebaf6548p+2, -0x1.95ecf905085d5p+3"
    ]
    node [
       id 570
@@ -3997,6 +5137,8 @@ graph [
       comm_infomap 50
       comm_mcmc 20
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.2897b4c4a8e6bp+3, 0x1.40c5341bc8fe8p+3"
+      pos_sfdp_mcmc "0x1.b1a75ddd9d373p+3, -0x1.568d8a0cab337p+3"
    ]
    node [
       id 571
@@ -4004,6 +5146,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.5b111ff2c17a3p+2, -0x1.b914b220bf586p-3"
+      pos_sfdp_mcmc "-0x1.8b90aaec52e3bp+1, -0x1.07d25c25eb785p+1"
    ]
    node [
       id 572
@@ -4011,6 +5155,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.0325d5bcf668fp+3, 0x1.2cb79a34da741p+2"
+      pos_sfdp_mcmc "0x1.03d1bf16b54c5p+3, -0x1.56b2e1c999441p+3"
    ]
    node [
       id 573
@@ -4018,6 +5164,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.cb96a96caf0fp+2, 0x1.257d0b8968abcp+2"
+      pos_sfdp_mcmc "0x1.e8b887f244753p+2, -0x1.34858e4343f8bp+3"
    ]
    node [
       id 574
@@ -4025,6 +5173,8 @@ graph [
       comm_infomap 86
       comm_mcmc 34
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.8fe94fdba57d2p+2, 0x1.828fa8d190a2bp+3"
+      pos_sfdp_mcmc "0x1.89eb81f46c565p+3, -0x1.798860c5a913ap+3"
    ]
    node [
       id 575
@@ -4032,6 +5182,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.c76f888538a1ap+2, 0x1.7ab419e71c892p+2"
+      pos_sfdp_mcmc "0x1.3f48341d6b98bp+3, -0x1.69f65199088a1p+1"
    ]
    node [
       id 576
@@ -4039,6 +5191,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.9f823913bb4f6p+2, 0x1.7956b9ebb029dp-1"
+      pos_sfdp_mcmc "-0x1.6d6b967888353p-1, -0x1.33f5bd27f0532p+3"
    ]
    node [
       id 577
@@ -4046,6 +5200,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.56436354b121ap-1, 0x1.6577370a2fdap+2"
+      pos_sfdp_mcmc "0x1.0cef257abd77dp+3, 0x1.fd810fc78b711p-4"
    ]
    node [
       id 578
@@ -4053,6 +5209,8 @@ graph [
       comm_infomap 145
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.02c6af8c841afp+4, -0x1.4441aa4cdad85p+3"
+      pos_sfdp_mcmc "-0x1.6e6c09aff1765p+4, -0x1.caf61df9d87ddp+1"
    ]
    node [
       id 579
@@ -4060,6 +5218,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.e978699b15a3ep+2, 0x1.98d66e23303d4p+2"
+      pos_sfdp_mcmc "0x1.36d52a592f59cp+3, -0x1.0fcc114dbad76p+0"
    ]
    node [
       id 580
@@ -4067,6 +5227,8 @@ graph [
       comm_infomap 6
       comm_mcmc 13
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.82f4d210c944p-2, -0x1.1b7db40c218d3p+2"
+      pos_sfdp_mcmc "-0x1.4262aa168209fp+0, 0x1.4f3909c40e133p+0"
    ]
    node [
       id 581
@@ -4074,6 +5236,8 @@ graph [
       comm_infomap 45
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.9e1b14ab2aaddp+2, 0x1.40c37a1c5fa14p+0"
+      pos_sfdp_mcmc "-0x1.e88c074e8bbf5p+2, -0x1.7e41a755157adp+2"
    ]
    node [
       id 582
@@ -4081,6 +5245,8 @@ graph [
       comm_infomap 45
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.665fab1d4309dp+2, 0x1.6b212b15bee99p-1"
+      pos_sfdp_mcmc "-0x1.b417dfbcbb209p+2, -0x1.952b882fffd19p+2"
    ]
    node [
       id 583
@@ -4088,6 +5254,8 @@ graph [
       comm_infomap 61
       comm_mcmc 27
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.7864977a2c682p+3, -0x1.0107c8754ecacp+4"
+      pos_sfdp_mcmc "0x1.2e1d7af2683a2p+4, 0x1.eaf48f18680bdp+3"
    ]
    node [
       id 584
@@ -4095,6 +5263,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.18e13cad64964p+2, 0x1.33930d733827bp+1"
+      pos_sfdp_mcmc "0x1.545e488aeda05p+2, -0x1.408477909884fp+1"
    ]
    node [
       id 585
@@ -4102,6 +5272,8 @@ graph [
       comm_infomap 144
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.5396199697b82p-3, 0x1.b36755969d3edp+4"
+      pos_sfdp_mcmc "0x1.00fbb2781c00dp+5, 0x1.2a1f35647334ep+1"
    ]
    node [
       id 586
@@ -4109,6 +5281,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.05311f1d710bep+2, 0x1.4128f855abf01p+2"
+      pos_sfdp_mcmc "0x1.8ddf3d8c0ae9ap+2, -0x1.5ad62c525e57ep+2"
    ]
    node [
       id 587
@@ -4116,6 +5290,8 @@ graph [
       comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.6070b28cf6c58p-2, -0x1.c449651d8f2d4p+2"
+      pos_sfdp_mcmc "-0x1.08a6fe63fa4dap+2, 0x1.0120e9d86e1dep+2"
    ]
    node [
       id 588
@@ -4123,6 +5299,8 @@ graph [
       comm_infomap 11
       comm_mcmc 31
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.9833f0323cbc4p+2, -0x1.9a23a303ce784p+1"
+      pos_sfdp_mcmc "0x1.33efdff7ebd4bp+2, 0x1.000628a22eb3bp+3"
    ]
    node [
       id 589
@@ -4130,6 +5308,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.156a3db6da555p+3, 0x1.34708136a1fabp+1"
+      pos_sfdp_mcmc "0x1.2677b32e9223p+1, -0x1.4a0faff6212eap+3"
    ]
    node [
       id 590
@@ -4137,6 +5317,8 @@ graph [
       comm_infomap 143
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.96ae5c5857e5dp+4, -0x1.e6dedb9871dcbp+1"
+      pos_sfdp_mcmc "0x1.a6c5a7a7669abp+0, 0x1.58ee5f0f945d2p+4"
    ]
    node [
       id 591
@@ -4144,6 +5326,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.82a3ef1d3425ep+2, 0x1.13aa97d3810e2p+2"
+      pos_sfdp_mcmc "0x1.b74209a31671ap+2, -0x1.0c4eb67bed849p+3"
    ]
    node [
       id 592
@@ -4151,6 +5335,8 @@ graph [
       comm_infomap 61
       comm_mcmc 27
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.8f8c0272d5b56p+3, -0x1.fd7e6b1a490eap+3"
+      pos_sfdp_mcmc "0x1.3ba558151c643p+4, 0x1.ea00c75e7cff5p+3"
    ]
    node [
       id 593
@@ -4158,6 +5344,8 @@ graph [
       comm_infomap 142
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.61e5821b56fe3p+4, 0x1.1cb8891e725aep+4"
+      pos_sfdp_mcmc "0x1.5f049ab44c12ep+3, 0x1.538e11796cf44p+4"
    ]
    node [
       id 594
@@ -4165,6 +5353,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.263bdaa6fb2c9p+1, 0x1.b86188653af7ep+2"
+      pos_sfdp_mcmc "0x1.5e6dc9fa5ce68p+3, -0x1.2cecb1490364cp-1"
    ]
    node [
       id 595
@@ -4172,6 +5362,8 @@ graph [
       comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.d56cb1ba43dfep-1, -0x1.c6c6a12160426p+2"
+      pos_sfdp_mcmc "-0x1.e41a32a880377p+1, 0x1.2629f99ab473dp+2"
    ]
    node [
       id 596
@@ -4179,6 +5371,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.44a809c3a4615p-2, 0x1.79d94718befb3p+2"
+      pos_sfdp_mcmc "0x1.0d6761250974cp+3, -0x1.99fa0dcd22663p-2"
    ]
    node [
       id 597
@@ -4186,6 +5380,8 @@ graph [
       comm_infomap 141
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.24d86c735944bp+4, -0x1.c3841217c9acfp-1"
+      pos_sfdp_mcmc "-0x1.f67fdfa376c27p+3, 0x1.b83a771dd1c35p+3"
    ]
    node [
       id 598
@@ -4193,6 +5389,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.d07083ff138f9p+2, 0x1.9d563db3ba8c9p+2"
+      pos_sfdp_mcmc "0x1.3cc1208d85569p+3, -0x1.a8bdd958f5989p+0"
    ]
    node [
       id 599
@@ -4200,6 +5398,8 @@ graph [
       comm_infomap 13
       comm_mcmc 11
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.246637a5081c3p+2, 0x1.112877c8d7b36p+1"
+      pos_sfdp_mcmc "0x1.5589dd16989a4p+2, -0x1.f9036b4a97f7cp+0"
    ]
    node [
       id 600
@@ -4207,6 +5407,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.6cb8fb51af3d5p+1, 0x1.23efc32a3baebp+1"
+      pos_sfdp_mcmc "-0x1.81736978d4837p+0, -0x1.344cbb03f0c0fp+1"
    ]
    node [
       id 601
@@ -4214,6 +5416,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.124c9a70f9e2fp+2, 0x1.8b9b87fc01e78p+3"
+      pos_sfdp_mcmc "0x1.ddd38b92393a6p+3, -0x1.04d4d482b552cp+3"
    ]
    node [
       id 602
@@ -4221,6 +5425,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.3c10f41a63afcp+3, 0x1.986c7eb3e1d92p+1"
+      pos_sfdp_mcmc "0x1.9b71dee315767p+0, -0x1.7297f51512b2dp+3"
    ]
    node [
       id 603
@@ -4228,6 +5434,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.3a4f3f90d5272p+3, 0x1.469eac5f9cc45p+1"
+      pos_sfdp_mcmc "0x1.0575bad20b99ap+0, -0x1.6eb20fee9b5ffp+3"
    ]
    node [
       id 604
@@ -4235,6 +5443,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.d479b4f5020b8p+2, 0x1.c2800dd91e77ep+2"
+      pos_sfdp_mcmc "0x1.6434fd0c64e21p+3, -0x1.bd6bf011ff11p+1"
    ]
    node [
       id 605
@@ -4242,6 +5452,8 @@ graph [
       comm_infomap 140
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.acdc0d92f6547p+3, 0x1.92a999dcceab8p+4"
+      pos_sfdp_mcmc "-0x1.ce33629a98e49p+3, 0x1.fa892b9dee5a1p+3"
    ]
    node [
       id 606
@@ -4249,6 +5461,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.977103a07d77ap+1, 0x1.09b813bead6ffp+2"
+      pos_sfdp_mcmc "0x1.89b4b21836826p+2, -0x1.18d251ab79c7ep+1"
    ]
    node [
       id 607
@@ -4256,6 +5470,8 @@ graph [
       comm_infomap 139
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.a5562d3ccf45p+2, 0x1.6f9c7b11638c5p+4"
+      pos_sfdp_mcmc "-0x1.d236baaed8c22p+3, -0x1.9ed88fe55f87ap+4"
    ]
    node [
       id 608
@@ -4263,6 +5479,8 @@ graph [
       comm_infomap 63
       comm_mcmc 7
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.3359f136cb5cep+4, 0x1.2f00d540981cfp+4"
+      pos_sfdp_mcmc "-0x1.50eaf02f0f93fp+3, -0x1.7afb1a09bf4b1p+4"
    ]
    node [
       id 609
@@ -4270,6 +5488,8 @@ graph [
       comm_infomap 47
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.97d95efc23293p+3, 0x1.df2149bc79216p+0"
+      pos_sfdp_mcmc "-0x1.7801257c6bfa4p+0, -0x1.7b01b6ebb7fdap+3"
    ]
    node [
       id 610
@@ -4277,6 +5497,8 @@ graph [
       comm_infomap 21
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.251f4cad8838fp+2, 0x1.ab6ac0ba7aec8p-1"
+      pos_sfdp_mcmc "-0x1.aa588c55fa3e7p+2, -0x1.503bf24bfc7ffp+2"
    ]
    node [
       id 611
@@ -4284,6 +5506,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.2fbdec521c142p+3, 0x1.71c5b7bc1be24p+1"
+      pos_sfdp_mcmc "0x1.25a25c4451a9dp+1, -0x1.6235b4b039e23p+3"
    ]
    node [
       id 612
@@ -4291,6 +5515,8 @@ graph [
       comm_infomap 138
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.d7be77628f508p+3, -0x1.bd2eddcd87855p+3"
+      pos_sfdp_mcmc "-0x1.6be856cb9b327p+1, 0x1.6bdbcca5a2e7fp+4"
    ]
    node [
       id 613
@@ -4298,6 +5524,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.4ba41c87cca5ap+2, 0x1.7fa1af7ea5fc9p+3"
+      pos_sfdp_mcmc "0x1.e0b6c01121a89p+3, -0x1.c8d0f5c45c8b6p+2"
    ]
    node [
       id 614
@@ -4305,6 +5533,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.5d6205afeeaa1p+3, 0x1.1b3243d6a60eep+3"
+      pos_sfdp_mcmc "0x1.9121634e77a78p+2, -0x1.df876d11979b1p+3"
    ]
    node [
       id 615
@@ -4312,6 +5542,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.fe8ead344dcdep+2, -0x1.a7fcdff0c63c4p+1"
+      pos_sfdp_mcmc "-0x1.529a2d0f1bd25p+2, -0x1.eb2ebb0022b03p+1"
    ]
    node [
       id 616
@@ -4319,6 +5551,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.eb6190ed0fc2ap+2, -0x1.c8d6354232a6ap+1"
+      pos_sfdp_mcmc "-0x1.596367c9f6c67p+2, -0x1.c38a2bfdd7d3ap+1"
    ]
    node [
       id 617
@@ -4326,6 +5560,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.0444104a6eb2bp+3, -0x1.ca9854bc516d1p+1"
+      pos_sfdp_mcmc "-0x1.79271c66506cfp+2, -0x1.b719c1991281ap+1"
    ]
    node [
       id 618
@@ -4333,6 +5569,8 @@ graph [
       comm_infomap 47
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.8fb1d99339472p+3, 0x1.afcb1f559f239p+1"
+      pos_sfdp_mcmc "0x1.20f10517f466cp-2, -0x1.8d009e9cfb6bcp+3"
    ]
    node [
       id 619
@@ -4340,6 +5578,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.9bef0bdffd57p+1, 0x1.b4bb305f82911p+1"
+      pos_sfdp_mcmc "0x1.9aca1aa49f3b1p+2, 0x1.dbdbbefd039dap-2"
    ]
    node [
       id 620
@@ -4347,6 +5587,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.52a3d64f9df9fp-1, 0x1.d7bf1de00362cp+2"
+      pos_sfdp_mcmc "0x1.731290b987fd6p+3, 0x1.99118e3c55551p-2"
    ]
    node [
       id 621
@@ -4354,6 +5596,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.380dc8312232p+2, 0x1.720854bc1faf5p+2"
+      pos_sfdp_mcmc "0x1.d65f147a85566p+2, -0x1.776fe2ba0d8aap+2"
    ]
    node [
       id 622
@@ -4361,6 +5605,8 @@ graph [
       comm_infomap 137
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.130a4f3e842bdp+0, 0x1.96e3ef5e7e963p+4"
+      pos_sfdp_mcmc "0x1.989a4a4d2f2d4p+4, 0x1.23c308df3cf28p+3"
    ]
    node [
       id 623
@@ -4368,6 +5614,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.f07728b3ab3b8p-1, 0x1.335b3eabc0196p+2"
+      pos_sfdp_mcmc "0x1.89926e3fe60adp+2, -0x1.2f0d9864c09afp+0"
    ]
    node [
       id 624
@@ -4375,6 +5623,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.bfddec603f0c5p+2, 0x1.b798244a44e05p+2"
+      pos_sfdp_mcmc "0x1.48c04b69ea39fp+3, -0x1.030968ec7c15fp+1"
    ]
    node [
       id 625
@@ -4382,6 +5632,8 @@ graph [
       comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.b16eda90fec79p+1, 0x1.5834997505953p+2"
+      pos_sfdp_mcmc "0x1.d7dc9bdf80585p+2, -0x1.23d6ad5d40b9fp+2"
    ]
    node [
       id 626
@@ -4389,6 +5641,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.763f3b573a2b8p-4, 0x1.3f4b1989f02b9p+2"
+      pos_sfdp_mcmc "0x1.9d01e73c5688bp+2, -0x1.47fefddaac9c4p+1"
    ]
    node [
       id 627
@@ -4396,6 +5650,8 @@ graph [
       comm_infomap 14
       comm_mcmc 25
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.3326d0f3155f5p+2, -0x1.c1064d25ca49bp+2"
+      pos_sfdp_mcmc "0x1.66fa01ea44bd3p+2, -0x1.b65d7fa959974p+3"
    ]
    node [
       id 628
@@ -4403,6 +5659,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.51bcbd92ea30cp+2, 0x1.81cf1c5406a86p+0"
+      pos_sfdp_mcmc "0x1.732fc33d6ef0ep-1, -0x1.393ba654fffbcp+3"
    ]
    node [
       id 629
@@ -4410,6 +5668,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.3479f03b99556p+3, 0x1.0b62c62a916ebp+2"
+      pos_sfdp_mcmc "0x1.844f66113cc34p+1, -0x1.798991a18d779p+3"
    ]
    node [
       id 630
@@ -4417,6 +5677,8 @@ graph [
       comm_infomap 20
       comm_mcmc 7
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.e2d5e52fbdee8p+2, -0x1.f18779ab73f4p+0"
+      pos_sfdp_mcmc "0x1.0052408e360cbp+2, -0x1.c2c1a3f6a34dcp+2"
    ]
    node [
       id 631
@@ -4424,6 +5686,8 @@ graph [
       comm_infomap 48
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.6b0937d63054ep+3, 0x1.170284f375f6ep+4"
+      pos_sfdp_mcmc "-0x1.4db7e1c62bdd5p+2, -0x1.99fec261e8623p+4"
    ]
    node [
       id 632
@@ -4431,6 +5695,8 @@ graph [
       comm_infomap 78
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.4d43df171d3c7p+3, 0x1.87e16b6b1743ep+4"
+      pos_sfdp_mcmc "-0x1.30d3ab75e1856p+4, -0x1.9576acc8fa7e7p+3"
    ]
    node [
       id 633
@@ -4438,6 +5704,8 @@ graph [
       comm_infomap 98
       comm_mcmc 27
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.071240929eedfp+2, 0x1.63c77c74e1fdep+3"
+      pos_sfdp_mcmc "0x1.31a85aa5f75f6p+3, -0x1.475880aba07b9p+3"
    ]
    node [
       id 634
@@ -4445,6 +5713,8 @@ graph [
       comm_infomap 136
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.704e4b38fc95p+4, -0x1.27c10cefc0b7dp+2"
+      pos_sfdp_mcmc "-0x1.4bb56fb6c1498p+4, -0x1.03fbdefe72a7p+4"
    ]
    node [
       id 635
@@ -4452,6 +5722,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.df5f577bb667ap+2, -0x1.edb7d5b46a207p+1"
+      pos_sfdp_mcmc "-0x1.55ac225ed112p+2, -0x1.9b9e3fd20d78p+1"
    ]
    node [
       id 636
@@ -4459,6 +5731,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.a1b73e0877408p+2, -0x1.1b9ec7ca461fp+2"
+      pos_sfdp_mcmc "-0x1.5e9d11869228cp+2, -0x1.23fec419d47d3p+1"
    ]
    node [
       id 637
@@ -4466,6 +5740,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.5610abc60ee85p+3, 0x1.6b38482f3f2bp+2"
+      pos_sfdp_mcmc "0x1.0ceac8a8340dcp+2, -0x1.a6a865be6b1e4p+3"
    ]
    node [
       id 638
@@ -4473,6 +5749,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.9d358308fb864p+3, 0x1.7ac0660428522p+2"
+      pos_sfdp_mcmc "0x1.b1e506420209fp+1, -0x1.f4bdb6547be1cp+3"
    ]
    node [
       id 639
@@ -4480,6 +5758,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.b5670cdf6a8p+2, 0x1.caee5ceb99973p-2"
+      pos_sfdp_mcmc "-0x1.0c146beb1c7fep-1, -0x1.4c5737b56dff3p+3"
    ]
    node [
       id 640
@@ -4487,6 +5767,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.8db0cab2278ebp+2, 0x1.db35ceb57348ep+0"
+      pos_sfdp_mcmc "0x1.4d967f0ea6e27p-1, -0x1.14e8abaa62a8bp+3"
    ]
    node [
       id 641
@@ -4494,6 +5776,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.776b1e9c8080dp+2, -0x1.5786caca35d42p+0"
+      pos_sfdp_mcmc "-0x1.5b259c7ece3e8p+1, -0x1.932d3cbd29a61p+3"
    ]
    node [
       id 642
@@ -4501,6 +5785,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.7877406ebf2d3p+2, -0x1.e3285b911760ap-1"
+      pos_sfdp_mcmc "-0x1.7b45a55f29441p+1, -0x1.8788f993f9e18p+3"
    ]
    node [
       id 643
@@ -4508,6 +5794,8 @@ graph [
       comm_infomap 78
       comm_mcmc 12
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.390ced511e3cdp+3, 0x1.8bf883352838bp+4"
+      pos_sfdp_mcmc "-0x1.325f8ad54068dp+4, -0x1.7ca84fe1aa3dbp+3"
    ]
    node [
       id 644
@@ -4515,6 +5803,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.90b44510e01d7p+1, 0x1.1c93fcb2f39e7p+2"
+      pos_sfdp_mcmc "0x1.017a460ebe264p+3, -0x1.a30d8a62e398ep-3"
    ]
    node [
       id 645
@@ -4522,6 +5812,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.a86f7c5426668p-1, 0x1.7aaf842ae53b9p+2"
+      pos_sfdp_mcmc "0x1.19d8a123a2002p+3, -0x1.1e8d19406814fp-5"
    ]
    node [
       id 646
@@ -4529,6 +5821,8 @@ graph [
       comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.4c6113cf09993p-5, -0x1.5d4883ef437bep+2"
+      pos_sfdp_mcmc "-0x1.6230a370d6c15p+1, 0x1.626d3da04d666p+1"
    ]
    node [
       id 647
@@ -4536,6 +5830,8 @@ graph [
       comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.213c897c36194p+0, -0x1.677e36172d6cbp+2"
+      pos_sfdp_mcmc "-0x1.cb03ec9fae3d7p+1, 0x1.b5cf09ec0c83fp+0"
    ]
    node [
       id 648
@@ -4543,6 +5839,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.5fba971b28216p+3, 0x1.47b45f5ea8bebp+3"
+      pos_sfdp_mcmc "0x1.b4fe209d1a90bp+2, -0x1.f9a46b8952623p+3"
    ]
    node [
       id 649
@@ -4550,6 +5848,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.ede277862bcd3p+2, 0x1.6f15f362129fdp+1"
+      pos_sfdp_mcmc "0x1.be532c47049f3p+0, -0x1.2a72493b8cb9dp+3"
    ]
    node [
       id 650
@@ -4557,6 +5857,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.5487cb1d978c7p+2, -0x1.6d8285b9b7a65p+2"
+      pos_sfdp_mcmc "-0x1.8afa551388cd5p+2, -0x1.038e095d1c7a9p+2"
    ]
    node [
       id 651
@@ -4564,6 +5866,8 @@ graph [
       comm_infomap 135
       comm_mcmc 6
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.c7c635f520eebp+3, -0x1.7ff07906c03e8p+3"
+      pos_sfdp_mcmc "-0x1.e2c0e32058c84p+3, -0x1.43a637f64b64fp+4"
    ]
    node [
       id 652
@@ -4571,6 +5875,8 @@ graph [
       comm_infomap 68
       comm_mcmc 7
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.cbee332660247p+1, 0x1.ce0672764d45ap+0"
+      pos_sfdp_mcmc "0x1.edb62a6acf6e6p+1, -0x1.67d3292b4a71bp+3"
    ]
    node [
       id 653
@@ -4578,6 +5884,8 @@ graph [
       comm_infomap 47
       comm_mcmc 22
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.cfaed6f681fdap+3, 0x1.b7b3a44a93c3ep+0"
+      pos_sfdp_mcmc "-0x1.252ce42cbf7bbp+1, -0x1.bb154fe1d033bp+3"
    ]
    node [
       id 654
@@ -4585,6 +5893,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.e0b426660f4c9p-2, 0x1.2247bf60487b2p+3"
+      pos_sfdp_mcmc "0x1.977516147f6f2p+3, -0x1.ec44c53e88911p+0"
    ]
    node [
       id 655
@@ -4592,6 +5902,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "12-8-2016"
+      pos_sfdp_infomap "0x1.3f597ee39d2c1p-1, 0x1.57b79900f67b3p+3"
+      pos_sfdp_mcmc "0x1.c8129d281dc41p+3, -0x1.ce089dc576945p+1"
    ]
    node [
       id 656
@@ -4599,6 +5911,8 @@ graph [
       comm_infomap 1
       comm_mcmc 0
       date "12-8-2016"
+      pos_sfdp_infomap "-0x1.5f93072f61384p+1, 0x1.6aab2e1ee7956p+1"
+      pos_sfdp_mcmc "-0x1.c3abb961a12e5p-1, -0x1.5eb19003e1f79p+0"
    ]
    node [
       id 657
@@ -4606,6 +5920,8 @@ graph [
       comm_infomap 134
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.4087eaa4e7c17p+2, 0x1.a81104711d7c6p+4"
+      pos_sfdp_mcmc "0x1.b7247e346a27ep-2, -0x1.0305957f123ebp+5"
    ]
    node [
       id 658
@@ -4613,6 +5929,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.cd3ba37fa0766p+2, 0x1.9714c3a21c4edp+0"
+      pos_sfdp_mcmc "0x1.647d73c76f561p+2, 0x1.07ee4e39c981p+1"
    ]
    node [
       id 659
@@ -4620,6 +5938,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.1faeebab6db14p+3, 0x1.a55ebb2a85b57p-2"
+      pos_sfdp_mcmc "0x1.234cf15bfa872p+2, 0x1.b78f6ff20a2adp+1"
    ]
    node [
       id 660
@@ -4627,6 +5947,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.734dc37bc21d7p+2, 0x1.c985d6e2bd987p+1"
+      pos_sfdp_mcmc "0x1.f486412f53e59p+2, 0x1.5ce78938dbc5dp-4"
    ]
    node [
       id 661
@@ -4634,6 +5956,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.a40eb82582311p+0, -0x1.48488b956692dp+2"
+      pos_sfdp_mcmc "-0x1.cc121df30bb94p+0, 0x1.781feafbe8e9cp+1"
    ]
    node [
       id 662
@@ -4641,6 +5965,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.efcb5de3d45p-2, -0x1.ea8c495d0e297p+1"
+      pos_sfdp_mcmc "-0x1.bb37852f74a61p-1, 0x1.f84df08c743b9p-1"
    ]
    node [
       id 663
@@ -4648,6 +5974,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.0e21ae988fe77p+1, -0x1.6c59e3e43673dp+2"
+      pos_sfdp_mcmc "-0x1.5eaeca4925844p+1, 0x1.b9eebf700a47bp+1"
    ]
    node [
       id 664
@@ -4655,6 +5983,8 @@ graph [
       comm_infomap 133
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.488c2a6533bf2p+2, -0x1.227ab90eec2b7p+4"
+      pos_sfdp_mcmc "-0x1.6e5f96452014fp+4, -0x1.0ae89fdac0434p+3"
    ]
    node [
       id 665
@@ -4662,6 +5992,8 @@ graph [
       comm_infomap 89
       comm_mcmc 34
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.0afb594f64988p+3, 0x1.5f1a9e2dfa0aap+2"
+      pos_sfdp_mcmc "0x1.20d9595677e1p+3, -0x1.60782c64d870ap+3"
    ]
    node [
       id 666
@@ -4669,6 +6001,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.33038dbd54c56p+2, 0x1.c72bf879b8bdep+1"
+      pos_sfdp_mcmc "0x1.ce8fecd12e143p+2, 0x1.6673b009adf1bp-3"
    ]
    node [
       id 667
@@ -4676,6 +6010,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.033f38a9d9a63p+3, 0x1.7a1431f24c46p+3"
+      pos_sfdp_mcmc "0x1.1896608e1f2b2p+3, -0x1.c001c39fd685ep+3"
    ]
    node [
       id 668
@@ -4683,6 +6019,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.085c42c71fba9p+3, 0x1.68c2ba29fd8f6p+3"
+      pos_sfdp_mcmc "0x1.0b8503c1a1c3fp+3, -0x1.b67111c0b0d85p+3"
    ]
    node [
       id 669
@@ -4690,6 +6028,8 @@ graph [
       comm_infomap 132
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.8f67707a9b1a2p+4, 0x1.a313557e64e31p+3"
+      pos_sfdp_mcmc "0x1.16cc19b03ef27p+2, 0x1.75332f73bc8bbp+4"
    ]
    node [
       id 670
@@ -4697,6 +6037,8 @@ graph [
       comm_infomap 53
       comm_mcmc 7
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.30d7f364027d5p+3, 0x1.9ef49f2a117afp+2"
+      pos_sfdp_mcmc "0x1.087b90d158527p+3, -0x1.2a5e25b007b07p+0"
    ]
    node [
       id 671
@@ -4704,6 +6046,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.05c1b8e5b9836p+3, 0x1.138750c1046a8p+3"
+      pos_sfdp_mcmc "0x1.af659ebcdba1dp+3, -0x1.07357eb8aad5ep+2"
    ]
    node [
       id 672
@@ -4711,6 +6055,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.d9f5cc92de0a5p+1, 0x1.b416a0afc1ffbp+1"
+      pos_sfdp_mcmc "0x1.a5c4ca113cac1p+2, 0x1.083463673da64p+0"
    ]
    node [
       id 673
@@ -4718,6 +6064,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.29c412b87720fp+3, 0x1.5ef471d58fdfbp+3"
+      pos_sfdp_mcmc "0x1.f2d4e621d2177p+2, -0x1.cf9a34c5b2237p+3"
    ]
    node [
       id 674
@@ -4725,6 +6073,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.b797a974f71e1p+2, -0x1.d8297e8a4186ap+0"
+      pos_sfdp_mcmc "-0x1.06fdc3659e0aep+2, -0x1.a4d00c29fe1f3p+3"
    ]
    node [
       id 675
@@ -4732,6 +6082,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.316ad6260e77cp-8, 0x1.043127727673p+2"
+      pos_sfdp_mcmc "0x1.9ef79d66acd7fp+2, -0x1.90d3baac021ap-3"
    ]
    node [
       id 676
@@ -4739,6 +6091,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.ec8a8c5534abp+1, 0x1.93c5cb9747c9bp+2"
+      pos_sfdp_mcmc "0x1.ff3d6860af4b1p+2, -0x1.4ef139d728e4cp+2"
    ]
    node [
       id 677
@@ -4746,6 +6100,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.3b580baef5828p-2, 0x1.523db6857c9c2p+2"
+      pos_sfdp_mcmc "0x1.0731515eb7eadp+3, -0x1.a393980017829p+0"
    ]
    node [
       id 678
@@ -4753,6 +6109,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.44ebac5ca3cc6p+1, 0x1.3ac885fb24843p+2"
+      pos_sfdp_mcmc "0x1.c9fc507ab4458p+2, -0x1.48921c1795d87p+2"
    ]
    node [
       id 679
@@ -4760,6 +6118,8 @@ graph [
       comm_infomap 131
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.1dd1a8588a7cbp+4, 0x1.ed53f57017cbcp+3"
+      pos_sfdp_mcmc "-0x1.10f4038c5b766p+4, 0x1.d354fe0aa8569p+2"
    ]
    node [
       id 680
@@ -4767,6 +6127,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.17fe92bcab434p+3, 0x1.0272711a212bep-5"
+      pos_sfdp_mcmc "0x1.fbe8969960c5cp+1, 0x1.98db7edc4eb7ep+1"
    ]
    node [
       id 681
@@ -4774,6 +6136,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.b49ac5c271073p-1, -0x1.1ba0467c99a07p+2"
+      pos_sfdp_mcmc "-0x1.77f6767bdd436p+0, 0x1.bc85b1528169p+0"
    ]
    node [
       id 682
@@ -4781,6 +6145,8 @@ graph [
       comm_infomap 47
       comm_mcmc 22
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.a83970d8f99b2p+3, 0x1.0903877b2c4f6p+1"
+      pos_sfdp_mcmc "-0x1.de719a65c2127p+0, -0x1.8719c1040aa8p+3"
    ]
    node [
       id 683
@@ -4788,6 +6154,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.3bdf9b8c044f3p+2, 0x1.ac6a19348d488p+2"
+      pos_sfdp_mcmc "0x1.0b61d7d088edp+3, -0x1.70095b1b977ebp+2"
    ]
    node [
       id 684
@@ -4795,6 +6163,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.efa9b9890384fp-1, 0x1.a19f2cdb4a504p+2"
+      pos_sfdp_mcmc "0x1.2d55baf038b53p+3, 0x1.e9bba7fa250bap-7"
    ]
    node [
       id 685
@@ -4802,6 +6172,8 @@ graph [
       comm_infomap 52
       comm_mcmc 32
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.85cc985388ba7p-1, 0x1.1bb08e606fdc3p+2"
+      pos_sfdp_mcmc "0x1.11a9047ea8575p+3, 0x1.38e63a18dc4b2p+0"
    ]
    node [
       id 686
@@ -4809,6 +6181,8 @@ graph [
       comm_infomap 99
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.bd5bfc36df6f3p+2, 0x1.fbf3836116078p+2"
+      pos_sfdp_mcmc "0x1.9dc12b1f0a145p+3, -0x1.e77f3a6829a68p+1"
    ]
    node [
       id 687
@@ -4816,6 +6190,8 @@ graph [
       comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.2f866e292b457p+3, 0x1.5122f4e7257d2p+3"
+      pos_sfdp_mcmc "0x1.bd52972b864dbp+3, -0x1.5f3d2232ee404p+3"
    ]
    node [
       id 688
@@ -4823,6 +6199,8 @@ graph [
       comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.353305dc70447p+3, 0x1.44a987257cc8ap+3"
+      pos_sfdp_mcmc "0x1.b16f916405f27p+3, -0x1.6d7eb96e8f4c4p+3"
    ]
    node [
       id 689
@@ -4830,6 +6208,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.2f3f1e3efda8bp+2, 0x1.8e7e4c1b568fep+3"
+      pos_sfdp_mcmc "0x1.d33b08857dedfp+3, -0x1.003ee17edded9p+3"
    ]
    node [
       id 690
@@ -4837,6 +6217,8 @@ graph [
       comm_infomap 39
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.f26c5483c119fp+1, 0x1.3fc8ae34880a3p+3"
+      pos_sfdp_mcmc "0x1.a1c409f73c3d7p+1, -0x1.cf7fe605e68c6p+3"
    ]
    node [
       id 691
@@ -4844,6 +6226,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.5ddd3d9de5d68p-1, 0x1.f09fecd176371p+2"
+      pos_sfdp_mcmc "0x1.66c15d329f97ap+3, -0x1.4226274968fd6p+0"
    ]
    node [
       id 692
@@ -4851,6 +6235,8 @@ graph [
       comm_infomap 130
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.4234616114451p+4, 0x1.3b39c2163d4eep+3"
+      pos_sfdp_mcmc "-0x1.18515f76e732ep+4, -0x1.3c89519893fb8p+4"
    ]
    node [
       id 693
@@ -4858,6 +6244,8 @@ graph [
       comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.3faa55365bc96p+0, -0x1.59458e83bc246p+2"
+      pos_sfdp_mcmc "-0x1.1663c954447eep+1, 0x1.4f17a2b38fc6dp+1"
    ]
    node [
       id 694
@@ -4865,6 +6253,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.ae74a58deeb99p+2, -0x1.5d9dec488ec53p+0"
+      pos_sfdp_mcmc "-0x1.ab8ffac3fbfbdp+1, -0x1.b535a206ca57ap+3"
    ]
    node [
       id 695
@@ -4872,6 +6262,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.2142a81137baap+3, 0x1.2004924376a71p+2"
+      pos_sfdp_mcmc "0x1.8dd0038588c18p+1, -0x1.562f3030fed51p+3"
    ]
    node [
       id 696
@@ -4879,6 +6271,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.ad52d2aee2e6cp+2, 0x1.98083395f406ap+3"
+      pos_sfdp_mcmc "0x1.5cd4ee621f02bp+3, -0x1.7ba7b6d92784dp+3"
    ]
    node [
       id 697
@@ -4886,6 +6280,8 @@ graph [
       comm_infomap 129
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.14b2349a6789fp+3, 0x1.6f6cce6f4871p+4"
+      pos_sfdp_mcmc "0x1.a999280b3fde2p+3, 0x1.45466e8336e96p+4"
    ]
    node [
       id 698
@@ -4893,6 +6289,8 @@ graph [
       comm_infomap 47
       comm_mcmc 22
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.aa528bab75ed2p+3, 0x1.a4f0581427f5cp+0"
+      pos_sfdp_mcmc "-0x1.9cff546cf99e5p+0, -0x1.93249e0872882p+3"
    ]
    node [
       id 699
@@ -4900,6 +6298,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.8c5e2cc8ff9dbp+3, 0x1.94b089290c056p+2"
+      pos_sfdp_mcmc "0x1.c38150c5da2c4p+1, -0x1.c40520d411c3p+3"
    ]
    node [
       id 700
@@ -4907,6 +6307,8 @@ graph [
       comm_infomap 47
       comm_mcmc 22
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.7ddf5b1449f0cp+3, 0x1.6c3f723a7a8c9p-1"
+      pos_sfdp_mcmc "-0x1.38b0a7c6e79a5p+1, -0x1.458cf08849e08p+3"
    ]
    node [
       id 701
@@ -4914,6 +6316,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.21eca6c39244p-2, 0x1.a44fb471c7097p+2"
+      pos_sfdp_mcmc "0x1.1ccf0fa8addbap+3, -0x1.2f298a5c44e6bp+0"
    ]
    node [
       id 702
@@ -4921,6 +6325,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.2c8c2b6573f86p+0, 0x1.98ba250d04552p+2"
+      pos_sfdp_mcmc "0x1.06aad82a2493p+3, -0x1.49bb841b317bfp+1"
    ]
    node [
       id 703
@@ -4928,6 +6334,8 @@ graph [
       comm_infomap 128
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.4a48675fa211bp+4, 0x1.2e11977bd48a2p+0"
+      pos_sfdp_mcmc "0x1.fba4b0393f0c8p+4, -0x1.6e65e2fc9990dp+0"
    ]
    node [
       id 704
@@ -4935,6 +6343,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.b79cb10c84596p+2, 0x1.8c310edd0981cp+2"
+      pos_sfdp_mcmc "0x1.d98169a5bf338p+2, -0x1.1364d81db7d26p+3"
    ]
    node [
       id 705
@@ -4942,6 +6352,8 @@ graph [
       comm_infomap 52
       comm_mcmc 32
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.276c9f94ebap+1, 0x1.12a711f3e349p+2"
+      pos_sfdp_mcmc "0x1.619a750c8f18fp+3, 0x1.10bc95455e763p+1"
    ]
    node [
       id 706
@@ -4949,6 +6361,8 @@ graph [
       comm_infomap 69
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.406d207c2a336p+3, 0x1.2a818941bf673p+2"
+      pos_sfdp_mcmc "0x1.bd131ee94c07dp+3, 0x1.920b50fe4e718p+0"
    ]
    node [
       id 707
@@ -4956,6 +6370,8 @@ graph [
       comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.1b7c4a2ee2d69p+0, 0x1.5638f14de313p+2"
+      pos_sfdp_mcmc "0x1.2820f80f5495p+3, 0x1.6673b93ad47adp+0"
    ]
    node [
       id 708
@@ -4963,6 +6379,8 @@ graph [
       comm_infomap 86
       comm_mcmc 34
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.a1014f1cf9e8ep+2, 0x1.75b725ff3ee21p+3"
+      pos_sfdp_mcmc "0x1.8b52fccec3a1cp+3, -0x1.66bfaf8f4e31p+3"
    ]
    node [
       id 709
@@ -4970,6 +6388,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.a05d820ebad51p+0, 0x1.1b3379c1f4258p+3"
+      pos_sfdp_mcmc "0x1.a774c63a060dbp+3, -0x1.d1a673b1c9c58p-1"
    ]
    node [
       id 710
@@ -4977,6 +6397,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.368f571a1158p+2, 0x1.d01549c35b1e9p+2"
+      pos_sfdp_mcmc "0x1.14c1fae235dddp+3, -0x1.ad176d2a5f38ep+2"
    ]
    node [
       id 711
@@ -4984,6 +6406,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.2ed25f008c7ffp+2, 0x1.c8d3d5e4723bep+2"
+      pos_sfdp_mcmc "0x1.169ecd1dff7e2p+3, -0x1.ba67061bdaf5p+2"
    ]
    node [
       id 712
@@ -4991,6 +6415,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.68379175a66dap+2, 0x1.cbe2fced5f22dp+2"
+      pos_sfdp_mcmc "0x1.092e3af9969b7p+3, -0x1.eb2e38b5a588ep+2"
    ]
    node [
       id 713
@@ -4998,6 +6424,8 @@ graph [
       comm_infomap 127
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.f52516c91540ap+3, 0x1.dec0fbe58bb1ep+3"
+      pos_sfdp_mcmc "-0x1.558594e1ddad7p+4, 0x1.15ce3e7f33bedp+2"
    ]
    node [
       id 714
@@ -5005,6 +6433,8 @@ graph [
       comm_infomap 9
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.fcd30997375bap+0, 0x1.1c9b7b23ae4f7p+2"
+      pos_sfdp_mcmc "0x1.75fe858c4a6c8p+2, -0x1.5e723c4f353bcp+1"
    ]
    node [
       id 715
@@ -5012,6 +6442,8 @@ graph [
       comm_infomap 126
       comm_mcmc 6
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.8a525f014c251p-3, -0x1.3530dffd02af3p+4"
+      pos_sfdp_mcmc "-0x1.4c6e2147d383fp+4, -0x1.68df554144de7p+2"
    ]
    node [
       id 716
@@ -5019,6 +6451,8 @@ graph [
       comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.cbdb0bbd1b18ep+2, 0x1.242e0e8550b4dp+3"
+      pos_sfdp_mcmc "0x1.7050d82a5e29p+3, -0x1.224f29922889bp+3"
    ]
    node [
       id 717
@@ -5026,6 +6460,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.25a623736cd45p+2, 0x1.c27d640394fbap+2"
+      pos_sfdp_mcmc "0x1.1562d1b6bf23ap+3, -0x1.9e145ed08a9bfp+2"
    ]
    node [
       id 718
@@ -5033,6 +6469,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.ef3a3196db0d3p+1, 0x1.727b6c2589b23p+2"
+      pos_sfdp_mcmc "0x1.3626b246f5089p+3, -0x1.bb2565e15d1aap+3"
    ]
    node [
       id 719
@@ -5040,6 +6478,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.e715c33c8bb4dp+0, 0x1.d214a594ef5e8p+2"
+      pos_sfdp_mcmc "0x1.5eae43867b8fdp+3, -0x1.08b2444c62237p-4"
    ]
    node [
       id 720
@@ -5047,6 +6487,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.50323cbed378ep+1, 0x1.171f4df2cb455p+3"
+      pos_sfdp_mcmc "0x1.ba10e19847956p+3, -0x1.0a2d21e8e37d9p-1"
    ]
    node [
       id 721
@@ -5054,6 +6496,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.4cd815ffd9f49p+0, 0x1.3d366541c668ap+3"
+      pos_sfdp_mcmc "0x1.c83d3535d1ea8p+3, -0x1.a4cec7e449572p+0"
    ]
    node [
       id 722
@@ -5061,6 +6505,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.2d7e16cf5a36bp+1, 0x1.1c70947e535d5p+3"
+      pos_sfdp_mcmc "0x1.b2a35b60b9d92p+3, -0x1.40cbe63a9a953p-3"
    ]
    node [
       id 723
@@ -5068,6 +6514,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.b05f521cb43bp+2, 0x1.1cf63f71b5ca3p+3"
+      pos_sfdp_mcmc "0x1.8e0abab4bbaa2p+3, -0x1.01d3eee33cb87p+2"
    ]
    node [
       id 724
@@ -5075,6 +6523,8 @@ graph [
       comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.227f774c96496p+3, 0x1.4e1f1479c3f95p+3"
+      pos_sfdp_mcmc "0x1.a6b8e6dc095b4p+3, -0x1.627b09862f46dp+3"
    ]
    node [
       id 725
@@ -5082,6 +6532,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.be49876a99addp-2, 0x1.6aaac8b68883dp+2"
+      pos_sfdp_mcmc "0x1.0f8938b5ce4bap+3, -0x1.a2edb78000f2fp-1"
    ]
    node [
       id 726
@@ -5089,6 +6541,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.58b1b5a23aa1cp+3, 0x1.0d5ff9d299767p+2"
+      pos_sfdp_mcmc "0x1.db7061923edc1p+0, -0x1.90d84d428226bp+3"
    ]
    node [
       id 727
@@ -5096,6 +6550,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.9edb4b1d8fap+2, 0x1.a78935735478ep+1"
+      pos_sfdp_mcmc "0x1.6316d3c9dae5cp+1, -0x1.f8f502ca4b0c6p+2"
    ]
    node [
       id 728
@@ -5103,6 +6559,8 @@ graph [
       comm_infomap 19
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.e18094b1c0453p+2, 0x1.2c770c2da00c8p+2"
+      pos_sfdp_mcmc "0x1.d755186f21919p+1, -0x1.1be2fb20c01a6p+3"
    ]
    node [
       id 729
@@ -5110,6 +6568,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.f39df3592930fp+2, 0x1.3b7cf72642ab2p+2"
+      pos_sfdp_mcmc "0x1.222653905e1d8p+2, -0x1.478bfc341a19dp+3"
    ]
    node [
       id 730
@@ -5117,6 +6577,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.3f14558f1cebbp+2, 0x1.bcf96a14c261bp+2"
+      pos_sfdp_mcmc "0x1.6fbac82f2f62dp+3, -0x1.e4fc2381af805p+3"
    ]
    node [
       id 731
@@ -5124,6 +6586,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.279cceae00da8p+2, 0x1.8689aafc3137fp+3"
+      pos_sfdp_mcmc "0x1.d8160e8f38cf2p+3, -0x1.e97f46fa63227p+2"
    ]
    node [
       id 732
@@ -5131,6 +6595,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.ff0ec914bfd34p+3, -0x1.5d1d36b32b9fp+2"
+      pos_sfdp_mcmc "-0x1.167b92a64101cp+3, -0x1.60e23b8ef803dp+2"
    ]
    node [
       id 733
@@ -5138,6 +6604,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.4924fd6130054p+2, 0x1.cfaf6557ab44dp+2"
+      pos_sfdp_mcmc "0x1.0d0125721beafp+3, -0x1.850daa2b9503ap+2"
    ]
    node [
       id 734
@@ -5145,6 +6613,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.3f1690caf6f57p+2, 0x1.908cc9829666ep+2"
+      pos_sfdp_mcmc "0x1.e6632e875aa16p+2, -0x1.964e5d1f9e07bp+2"
    ]
    node [
       id 735
@@ -5152,6 +6622,8 @@ graph [
       comm_infomap 66
       comm_mcmc 2
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.9a4e4eda597d5p+2, -0x1.f91ef05d0b6f7p+3"
+      pos_sfdp_mcmc "-0x1.1b2f46cf5a214p+4, -0x1.03d0b9a41f0c8p+4"
    ]
    node [
       id 736
@@ -5159,6 +6631,8 @@ graph [
       comm_infomap 86
       comm_mcmc 34
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.8a2c0e56786e8p+2, 0x1.2e2c68bd3a058p+3"
+      pos_sfdp_mcmc "0x1.489ecd2357b21p+3, -0x1.2f26c396b634ep+3"
    ]
    node [
       id 737
@@ -5166,6 +6640,8 @@ graph [
       comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.482c541a0a289p+3, 0x1.6010d0e570d93p+3"
+      pos_sfdp_mcmc "0x1.cd15e1e024873p+3, -0x1.7e45766859dc7p+3"
    ]
    node [
       id 738
@@ -5173,6 +6649,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.f8e243e9b5c02p+3, -0x1.443b2c0a0ec5dp+2"
+      pos_sfdp_mcmc "-0x1.1e8856d556bbfp+3, -0x1.874d7ff04a862p+2"
    ]
    node [
       id 739
@@ -5180,6 +6658,8 @@ graph [
       comm_infomap 23
       comm_mcmc 33
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.6be7880871953p+2, 0x1.f393926d23fdp+1"
+      pos_sfdp_mcmc "0x1.daa2d980d7447p+2, -0x1.008a2ee7808dap+0"
    ]
    node [
       id 740
@@ -5187,6 +6667,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "13-8-2016"
+      pos_sfdp_infomap "-0x1.7f0aa4cb907d4p+3, 0x1.2e2b500f13415p+3"
+      pos_sfdp_mcmc "0x1.e5124590b6441p+2, -0x1.f2e7657428ecp+3"
    ]
    node [
       id 741
@@ -5194,6 +6676,8 @@ graph [
       comm_infomap 48
       comm_mcmc 12
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.7287287fc298ep+3, 0x1.1f218b1cebde4p+4"
+      pos_sfdp_mcmc "-0x1.5c1923dec3e12p+2, -0x1.aa2614b0a76cbp+4"
    ]
    node [
       id 742
@@ -5201,6 +6685,8 @@ graph [
       comm_infomap 48
       comm_mcmc 12
       date "13-8-2016"
+      pos_sfdp_infomap "0x1.56f37316f4687p+3, 0x1.2184b6b9d9727p+4"
+      pos_sfdp_mcmc "-0x1.7d0627a4ff707p+2, -0x1.a4eb1c6372557p+4"
    ]
    node [
       id 743
@@ -5208,6 +6694,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.c1e466572bb8dp+1, 0x1.3527d7cca1e5fp+2"
+      pos_sfdp_mcmc "0x1.0c0acca81a776p+3, -0x1.9525b6f7f57f5p+3"
    ]
    node [
       id 744
@@ -5215,6 +6703,8 @@ graph [
       comm_infomap 68
       comm_mcmc 7
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.a8f77d7dd4405p+0, 0x1.835551938b36fp+1"
+      pos_sfdp_mcmc "0x1.564be1b3283a5p+2, -0x1.4bf3651ccc197p+3"
    ]
    node [
       id 745
@@ -5222,6 +6712,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.530cd4fde3deap+1, 0x1.966ca1178b686p+2"
+      pos_sfdp_mcmc "0x1.4116889340647p+3, -0x1.94418fbe5f118p+3"
    ]
    node [
       id 746
@@ -5229,6 +6721,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.f7fd41fb8dceap+1, 0x1.8e4fa1dfe8d6ep+2"
+      pos_sfdp_mcmc "0x1.454247e9eec03p+3, -0x1.bf5e6c4815344p+3"
    ]
    node [
       id 747
@@ -5236,6 +6730,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.a2f4e28517867p+1, 0x1.e59f06c8a0ed3p+2"
+      pos_sfdp_mcmc "0x1.39d1f2c04038dp+3, -0x1.c54fadfeaa038p+2"
    ]
    node [
       id 748
@@ -5243,6 +6739,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.ad267ceac62d4p+1, 0x1.d4ac8022d1678p+2"
+      pos_sfdp_mcmc "0x1.371065ade070bp+3, -0x1.d7cd302af7e6fp+2"
    ]
    node [
       id 749
@@ -5250,6 +6748,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.80e86aa7b28b3p+1, 0x1.1aa1fd06b69eep+3"
+      pos_sfdp_mcmc "0x1.46c3f0f61f948p+3, -0x1.fb435e8e8c808p+2"
    ]
    node [
       id 750
@@ -5257,6 +6757,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.d61ef90c2f47cp+0, 0x1.9f8c744d85f61p+2"
+      pos_sfdp_mcmc "0x1.172e5035e9a0bp+3, -0x1.16cf8339d7ad6p+3"
    ]
    node [
       id 751
@@ -5264,6 +6766,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.0db468e953a24p+3, 0x1.864bce568f322p+1"
+      pos_sfdp_mcmc "0x1.a273ca4d77319p+1, -0x1.3ac6c2735c773p+3"
    ]
    node [
       id 752
@@ -5271,6 +6775,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.76b2684a52ba8p+1, 0x1.65c6d43c1f7acp+3"
+      pos_sfdp_mcmc "0x1.068a1353284dcp+4, -0x1.dd837348e5ea3p-1"
    ]
    node [
       id 753
@@ -5278,6 +6784,8 @@ graph [
       comm_infomap 89
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.866dd2005ca4dp+2, 0x1.483886e040905p+2"
+      pos_sfdp_mcmc "0x1.075d11e3f269fp+3, -0x1.0a6aa3fcb32d1p+3"
    ]
    node [
       id 754
@@ -5285,6 +6793,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.3cae2c7a6b101p+2, 0x1.5fa50e9df6934p+3"
+      pos_sfdp_mcmc "0x1.b294e344a8aa5p+3, -0x1.baebe5a9e3e67p+2"
    ]
    node [
       id 755
@@ -5292,6 +6802,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.18b598b1e482ap+2, 0x1.bb369b55fe354p+2"
+      pos_sfdp_mcmc "0x1.10ac899b44117p+3, -0x1.91b83c7a807d3p+2"
    ]
    node [
       id 756
@@ -5299,6 +6811,8 @@ graph [
       comm_infomap 52
       comm_mcmc 32
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.053c373eed144p+2, 0x1.15beafe9b26dp+2"
+      pos_sfdp_mcmc "0x1.8ffb9cb29c244p+3, 0x1.39bc0b0e0ea7fp+1"
    ]
    node [
       id 757
@@ -5306,6 +6820,8 @@ graph [
       comm_infomap 70
       comm_mcmc 12
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.67b2f8c4c64c2p+1, -0x1.530f69f1f95abp+2"
+      pos_sfdp_mcmc "-0x1.077731f73c358p+2, -0x1.ad2bf17b464cap+2"
    ]
    node [
       id 758
@@ -5313,6 +6829,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.3197f93bd3466p-2, 0x1.c114ce52be05fp+2"
+      pos_sfdp_mcmc "0x1.3ff70d405b335p+3, -0x1.469626be425e6p+3"
    ]
    node [
       id 759
@@ -5320,6 +6838,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.f9346fba1a885p-1, 0x1.126b079e59abp+3"
+      pos_sfdp_mcmc "0x1.87972dee71d72p+3, -0x1.cd4e974801b6bp+0"
    ]
    node [
       id 760
@@ -5327,6 +6847,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.397bba997d12p+2, 0x1.83c38392b0bfbp+3"
+      pos_sfdp_mcmc "0x1.d9dfeabd99a04p+3, -0x1.d6988efb8810ap+2"
    ]
    node [
       id 761
@@ -5334,6 +6856,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.ce7ed4e9f3d8fp-1, 0x1.81d0f81e118fcp+3"
+      pos_sfdp_mcmc "0x1.bb9cd7df8e528p+3, -0x1.87035d9a5b8p+2"
    ]
    node [
       id 762
@@ -5341,6 +6865,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.91363c573584cp-4, 0x1.148dfd1e491b9p+3"
+      pos_sfdp_mcmc "0x1.8a22cf1d3f9ap+3, -0x1.20dc3b3a4313cp+1"
    ]
    node [
       id 763
@@ -5348,6 +6874,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.3287b223e1f9dp-1, 0x1.94da3f6b13053p+2"
+      pos_sfdp_mcmc "0x1.266d43a720ddep+3, -0x1.71f39ed0c9673p-1"
    ]
    node [
       id 764
@@ -5355,6 +6883,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.efe787fd3a74bp+0, 0x1.bbe62c83c3c14p+2"
+      pos_sfdp_mcmc "0x1.1ce890c618de8p+3, -0x1.9d77bdb0adb11p+1"
    ]
    node [
       id 765
@@ -5362,6 +6892,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.41d5a448f65dap+1, 0x1.32d38704d33bep+3"
+      pos_sfdp_mcmc "0x1.d4e4d663ba32fp+3, -0x1.90cd1230f43bdp-2"
    ]
    node [
       id 766
@@ -5369,6 +6901,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.69e41e71a398ep+1, 0x1.81940f918b16p+2"
+      pos_sfdp_mcmc "0x1.3df42ef45e4c8p+3, -0x1.a0f315dd3e9f5p+3"
    ]
    node [
       id 767
@@ -5376,6 +6910,8 @@ graph [
       comm_infomap 70
       comm_mcmc 12
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.9c2d6c7dcbcep+1, -0x1.5c5ec80038cdep+2"
+      pos_sfdp_mcmc "-0x1.fe817ee4fb169p+1, -0x1.cd0256ac45fa4p+2"
    ]
    node [
       id 768
@@ -5383,6 +6919,8 @@ graph [
       comm_infomap 77
       comm_mcmc 14
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.68376a261bb93p+4, 0x1.e8b2314a123e4p+3"
+      pos_sfdp_mcmc "0x1.b7a3d45ea4d21p+3, 0x1.214cfeb2f7d98p+4"
    ]
    node [
       id 769
@@ -5390,6 +6928,8 @@ graph [
       comm_infomap 77
       comm_mcmc 14
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.6ee2f3e1a1f9cp+4, 0x1.fa9251bd1ae41p+3"
+      pos_sfdp_mcmc "0x1.b3a5e158c2ddp+3, 0x1.14d120061d5f2p+4"
    ]
    node [
       id 770
@@ -5397,6 +6937,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.353f84206edafp+3, 0x1.fbc0e81231117p+2"
+      pos_sfdp_mcmc "0x1.883fd26bb1014p+2, -0x1.a3232de59d91cp+3"
    ]
    node [
       id 771
@@ -5404,6 +6946,8 @@ graph [
       comm_infomap 125
       comm_mcmc 6
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.24e5c5593ec92p+1, -0x1.3da4f8f9cea58p+4"
+      pos_sfdp_mcmc "0x1.8eb8f289a6378p+4, 0x1.b775dae97231ap+3"
    ]
    node [
       id 772
@@ -5411,6 +6955,8 @@ graph [
       comm_infomap 76
       comm_mcmc 16
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.9b7909a25475ep+4, 0x1.5cc8050b818e9p+0"
+      pos_sfdp_mcmc "-0x1.b8f280621271ep+3, -0x1.73587bc31df1dp+4"
    ]
    node [
       id 773
@@ -5418,6 +6964,8 @@ graph [
       comm_infomap 124
       comm_mcmc 6
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.19cd0d8f7adap+4, 0x1.4bf628e27ee0fp+3"
+      pos_sfdp_mcmc "0x1.0e5781eecdeedp+3, -0x1.e3d6e7eb74cebp+4"
    ]
    node [
       id 774
@@ -5425,6 +6973,8 @@ graph [
       comm_infomap 76
       comm_mcmc 16
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.91482a6ac0b89p+4, 0x1.1f24f85918242p+0"
+      pos_sfdp_mcmc "-0x1.bbcd1f98c5e05p+3, -0x1.66e099b255688p+4"
    ]
    node [
       id 775
@@ -5432,6 +6982,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.cd4f569f91958p+2, -0x1.7bae47783b77ep+0"
+      pos_sfdp_mcmc "-0x1.cb8885efce2a1p+1, -0x1.a4eee37ace1adp+3"
    ]
    node [
       id 776
@@ -5439,6 +6991,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.4becbf54084d6p+2, 0x1.e7b2a1b7b7962p+2"
+      pos_sfdp_mcmc "0x1.2e55e863a7f11p+3, -0x1.d8bc9e34e324cp+2"
    ]
    node [
       id 777
@@ -5446,6 +7000,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.00a15f848f12cp+4, -0x1.2829fd7f4e45ep+2"
+      pos_sfdp_mcmc "-0x1.10d84b3bbb86p+3, -0x1.7c0aa6bdb84afp+2"
    ]
    node [
       id 778
@@ -5453,6 +7009,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.1ea6e30f614acp+3, -0x1.4154dc873e4c2p-1"
+      pos_sfdp_mcmc "0x1.6953b5cf36e2cp+1, 0x1.78b7d8d5eed59p+1"
    ]
    node [
       id 779
@@ -5460,6 +7018,8 @@ graph [
       comm_infomap 123
       comm_mcmc 6
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.382c5dac73595p+4, -0x1.864ea341a92eap+1"
+      pos_sfdp_mcmc "0x1.9eb1117305bep+3, -0x1.fad427728d0c6p+4"
    ]
    node [
       id 780
@@ -5467,6 +7027,8 @@ graph [
       comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.94c94717fe3aep+1, 0x1.a04c6cf4072f5p+2"
+      pos_sfdp_mcmc "0x1.4d79dbbe3f7ecp+3, -0x1.a99d4f272f40ap+3"
    ]
    node [
       id 781
@@ -5474,6 +7036,8 @@ graph [
       comm_infomap 68
       comm_mcmc 7
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.cc3336c79ccbcp+1, 0x1.98459866479fp+1"
+      pos_sfdp_mcmc "0x1.9135883f950ebp+2, -0x1.78b92ac1893d2p+3"
    ]
    node [
       id 782
@@ -5481,6 +7045,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.1fcadfaba352ap+3, 0x1.00ec1d2a345p+2"
+      pos_sfdp_mcmc "0x1.78be46603ce09p+1, -0x1.66ead0bfdfb4ep+3"
    ]
    node [
       id 783
@@ -5488,6 +7054,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.5b8c51d27d182p+2, 0x1.8b3b59f37ee89p+3"
+      pos_sfdp_mcmc "0x1.ee16ebb14fa23p+3, -0x1.b795cf812bc17p+2"
    ]
    node [
       id 784
@@ -5495,6 +7063,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.070a0d548d0cbp+4, -0x1.3492ef50ef632p+2"
+      pos_sfdp_mcmc "-0x1.22dabf8555843p+3, -0x1.4dd0ce25ba495p+2"
    ]
    node [
       id 785
@@ -5502,6 +7072,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.16dacade4191ep+4, -0x1.7c20ffc4c723dp+2"
+      pos_sfdp_mcmc "-0x1.5c407ee182858p+3, -0x1.9fbdb7e46b2a6p+2"
    ]
    node [
       id 786
@@ -5509,6 +7081,8 @@ graph [
       comm_infomap 122
       comm_mcmc 6
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.49d2ee2affd4ep+4, 0x1.ab9560468595cp+1"
+      pos_sfdp_mcmc "-0x1.1c930c4644dfp+4, -0x1.5fa9cdff359ecp+4"
    ]
    node [
       id 787
@@ -5516,6 +7090,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.07e2833528486p+4, -0x1.552e9b785c3ddp+2"
+      pos_sfdp_mcmc "-0x1.2efa2bf8738a4p+3, -0x1.6e3d7ed2f7b5bp+2"
    ]
    node [
       id 788
@@ -5523,6 +7099,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.14c87617753b7p+3, -0x1.20c6d998d5fa8p-1"
+      pos_sfdp_mcmc "0x1.94b965b384c19p+1, 0x1.8e770aa17012p+1"
    ]
    node [
       id 789
@@ -5530,6 +7108,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.7524088c23748p+2, 0x1.32db3192b0a25p+3"
+      pos_sfdp_mcmc "0x1.942b4e67ab46cp+3, -0x1.5f41875eacb5fp+2"
    ]
    node [
       id 790
@@ -5537,6 +7117,8 @@ graph [
       comm_infomap 41
       comm_mcmc 25
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.c44daef811b81p+2, -0x1.048c948718f1p+0"
+      pos_sfdp_mcmc "-0x1.f14d5a69554e4p+1, -0x1.b6062bd8a0b9fp+3"
    ]
    node [
       id 791
@@ -5544,6 +7126,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.db7bbedb61eeap+1, 0x1.8ad2f5b59b478p+3"
+      pos_sfdp_mcmc "0x1.7109a28e3a335p+3, -0x1.39c9a33f85683p+3"
    ]
    node [
       id 792
@@ -5551,6 +7135,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.fde002e907bb5p+0, 0x1.70457ca116f16p+2"
+      pos_sfdp_mcmc "0x1.2dc71dc8cf5fp+3, -0x1.bdfc708daa99ap+0"
    ]
    node [
       id 793
@@ -5558,6 +7144,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.36f41606e856cp+2, 0x1.fe04739cc2a16p+1"
+      pos_sfdp_mcmc "0x1.ae87789f3d3e1p+2, -0x1.8edccfbaf3898p+1"
    ]
    node [
       id 794
@@ -5565,6 +7153,8 @@ graph [
       comm_infomap 59
       comm_mcmc 2
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.f3d6746b5bf7dp+0, -0x1.6f2f9eec76ed4p+2"
+      pos_sfdp_mcmc "-0x1.173138be136f5p+2, 0x1.7bc0089cb9f05p-1"
    ]
    node [
       id 795
@@ -5572,6 +7162,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.de2a192059a7p+2, 0x1.fa0bc2231ee5fp+2"
+      pos_sfdp_mcmc "0x1.8653be8544bfp+3, -0x1.16da82cfc01b8p+2"
    ]
    node [
       id 796
@@ -5579,6 +7171,8 @@ graph [
       comm_infomap 121
       comm_mcmc 6
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.06bd8fb21b08ep+4, -0x1.b002eb2e5aa6dp+0"
+      pos_sfdp_mcmc "0x1.817329b19e381p+4, -0x1.92d49790dcbe5p+4"
    ]
    node [
       id 797
@@ -5586,6 +7180,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.3c4c1b09e645dp+2, 0x1.4132e49e19602p+3"
+      pos_sfdp_mcmc "0x1.2cc06c632ad52p+3, -0x1.21b16cb251612p+3"
    ]
    node [
       id 798
@@ -5593,6 +7189,8 @@ graph [
       comm_infomap 120
       comm_mcmc 6
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.da2d9fb63f70bp+3, -0x1.057079c328b96p+4"
+      pos_sfdp_mcmc "-0x1.351ed9672f955p+4, 0x1.09d172e3df774p+3"
    ]
    node [
       id 799
@@ -5600,6 +7198,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.85a749db13175p+3, 0x1.11f26c221629dp+2"
+      pos_sfdp_mcmc "0x1.1543e4464c185p+0, -0x1.c0767dd5edc3ep+3"
    ]
    node [
       id 800
@@ -5607,6 +7207,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.1ea2e4f7c46e6p+2, 0x1.93802ef0899c9p+3"
+      pos_sfdp_mcmc "0x1.e3665db33baecp+3, -0x1.f63094bd49683p+2"
    ]
    node [
       id 801
@@ -5614,6 +7216,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.879ce31d4c7d3p-3, 0x1.251e96137d768p+3"
+      pos_sfdp_mcmc "0x1.9e14e71d744e8p+2, -0x1.9cbfce38b6c48p+2"
    ]
    node [
       id 802
@@ -5621,6 +7225,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.47cb07043ca2bp+2, 0x1.895953fcefea7p+3"
+      pos_sfdp_mcmc "0x1.e647f7179fc1dp+3, -0x1.e0ec5a910fe68p+2"
    ]
    node [
       id 803
@@ -5628,6 +7234,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.1e3d8f381b148p+2, 0x1.220dbe68b063cp+3"
+      pos_sfdp_mcmc "0x1.605abb7e44c0ep+3, -0x1.a8b58e0be1723p+2"
    ]
    node [
       id 804
@@ -5635,6 +7243,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.56a1789a56c78p+2, 0x1.202e1675c0d14p+3"
+      pos_sfdp_mcmc "0x1.3ee9f0a0b7cf8p+3, -0x1.08ea60dbcd729p+3"
    ]
    node [
       id 805
@@ -5642,6 +7252,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.51c33e8cdaa02p+3, -0x1.cf7d965d8b9dep+0"
+      pos_sfdp_mcmc "0x1.5d42c29798be2p-4, 0x1.1de8cfdddd7e2p+1"
    ]
    node [
       id 806
@@ -5649,6 +7261,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.e559fc1f8da39p+1, 0x1.e21e520b3d5dap+2"
+      pos_sfdp_mcmc "0x1.318c88982a7ccp+3, -0x1.b931d5ebea303p+2"
    ]
    node [
       id 807
@@ -5656,6 +7270,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.421f658bedfe8p+2, 0x1.92783fed59882p+3"
+      pos_sfdp_mcmc "0x1.e34c30b698743p+3, -0x1.ab96b72091f45p+2"
    ]
    node [
       id 808
@@ -5663,6 +7279,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.66ee58f31d7cap+3, 0x1.0d4c98efff772p+2"
+      pos_sfdp_mcmc "0x1.692f6e13d0567p+0, -0x1.9b1068966be0ap+3"
    ]
    node [
       id 809
@@ -5670,6 +7288,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.e51fff1964c62p+2, 0x1.34b70ae1b409fp+3"
+      pos_sfdp_mcmc "0x1.a1b74e0aeb346p+2, -0x1.4a759062b357bp+2"
    ]
    node [
       id 810
@@ -5677,6 +7297,8 @@ graph [
       comm_infomap 48
       comm_mcmc 12
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.65e1028c4d4d5p+3, 0x1.24a9a70003383p+4"
+      pos_sfdp_mcmc "-0x1.43cd2dcff64fdp+2, -0x1.a32fa56f67ebap+4"
    ]
    node [
       id 811
@@ -5684,6 +7306,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.109971f0f0216p+1, 0x1.49409ba511fb2p+3"
+      pos_sfdp_mcmc "0x1.7abf84bfeba1fp+3, -0x1.0aba908acb607p+3"
    ]
    node [
       id 812
@@ -5691,6 +7315,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.c3613cb23dc0ap+2, 0x1.9ad5d447814b5p+3"
+      pos_sfdp_mcmc "0x1.7880449cab60dp+3, -0x1.779cff5e5ea07p+3"
    ]
    node [
       id 813
@@ -5698,6 +7324,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.d25e9d7cfccf2p+1, 0x1.e641af40d9a1dp+2"
+      pos_sfdp_mcmc "0x1.2f77cc3eebfffp+3, -0x1.5dc3afdccd9bep+2"
    ]
    node [
       id 814
@@ -5705,6 +7333,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.73d6a2617ecadp+1, 0x1.3488a8b2ecfc3p+3"
+      pos_sfdp_mcmc "0x1.dc0f63f5b1c04p+3, 0x1.2e0955a423c3cp-6"
    ]
    node [
       id 815
@@ -5712,6 +7342,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.b921c3c09cb6fp+2, 0x1.dd22aefce7fd8p+2"
+      pos_sfdp_mcmc "0x1.5748317d169f2p+3, -0x1.1163d6404833cp+3"
    ]
    node [
       id 816
@@ -5719,6 +7351,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.25cf95890fc9p+2, 0x1.9155524914c49p+2"
+      pos_sfdp_mcmc "0x1.0b8230785c6f7p+3, -0x1.c3e5567da6aaep+2"
    ]
    node [
       id 817
@@ -5726,6 +7360,8 @@ graph [
       comm_infomap 30
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.6516be3d0d839p+2, 0x1.7eba0c4226ddep+2"
+      pos_sfdp_mcmc "0x1.bbb201cba7f56p+2, -0x1.7b420feb5d3d3p+2"
    ]
    node [
       id 818
@@ -5733,6 +7369,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.3461bdce7578p+2, 0x1.0cbcedc5fadecp+3"
+      pos_sfdp_mcmc "0x1.5325829708c4fp+3, -0x1.77631ccb9c488p+2"
    ]
    node [
       id 819
@@ -5740,6 +7378,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.4d873bbe3d4a3p+2, 0x1.75bc6abc4f4b3p+3"
+      pos_sfdp_mcmc "0x1.cf69eb02d857dp+3, -0x1.cefcc5a686b38p+2"
    ]
    node [
       id 820
@@ -5747,6 +7387,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.35bdde45072ebp+2, 0x1.79fbe34e28602p+3"
+      pos_sfdp_mcmc "0x1.c937a03e88094p+3, -0x1.ee395c7b50c92p+2"
    ]
    node [
       id 821
@@ -5754,6 +7396,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.392ad02bf32e1p+2, 0x1.7263dbb1c1d88p+3"
+      pos_sfdp_mcmc "0x1.c8bf8370ed131p+3, -0x1.bdc1e3938dfcap+2"
    ]
    node [
       id 822
@@ -5761,6 +7405,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.a20e381788c5dp+3, -0x1.a85d8750a2e3p+1"
+      pos_sfdp_mcmc "-0x1.159029c2d52bdp+2, -0x1.3769b6a6c50cfp-1"
    ]
    node [
       id 823
@@ -5768,6 +7414,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.5f654c2527fccp+2, 0x1.825584adfdb0cp+3"
+      pos_sfdp_mcmc "0x1.ed056fd20905cp+3, -0x1.cedd34d1d99bp+2"
    ]
    node [
       id 824
@@ -5775,6 +7423,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.2596a4b56c5b2p+2, 0x1.603105adb8794p+3"
+      pos_sfdp_mcmc "0x1.ad3ff56ea62d7p+3, -0x1.d75ae31697944p+2"
    ]
    node [
       id 825
@@ -5782,6 +7432,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.8599d5ee7444bp+3, 0x1.f06f30e148059p+1"
+      pos_sfdp_mcmc "0x1.4bfc97fcb9d48p-1, -0x1.b9bf8cf5c7b79p+3"
    ]
    node [
       id 826
@@ -5789,6 +7441,8 @@ graph [
       comm_infomap 48
       comm_mcmc 12
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.5ab07e19a185bp+3, 0x1.1982c03d644ep+4"
+      pos_sfdp_mcmc "-0x1.751f5f9c04b15p+2, -0x1.9baab681de378p+4"
    ]
    node [
       id 827
@@ -5796,6 +7450,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.3dd02e41d2f95p+3, 0x1.5f1e56b09cb14p+2"
+      pos_sfdp_mcmc "0x1.d8631e99ffa99p+1, -0x1.8f7c3661477c6p+3"
    ]
    node [
       id 828
@@ -5803,6 +7459,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.7b028cf583c97p+2, 0x1.bc0574b438d05p+2"
+      pos_sfdp_mcmc "0x1.e44e2d3386904p+2, -0x1.bc9223fffb59dp+2"
    ]
    node [
       id 829
@@ -5810,6 +7468,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.cba40d4392fddp-1, 0x1.b989c39993ad2p+2"
+      pos_sfdp_mcmc "0x1.2d7e3278c6451p+3, -0x1.13aacf5b428d2p+1"
    ]
    node [
       id 830
@@ -5817,6 +7477,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.fed79b62afa6bp+1, 0x1.c86e1f0cac507p+2"
+      pos_sfdp_mcmc "0x1.169e8e2853e25p+3, -0x1.7da7eb9f3e46p+2"
    ]
    node [
       id 831
@@ -5824,6 +7486,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.4b7ea466ce41ep-1, 0x1.10fd0ee4f96dep+3"
+      pos_sfdp_mcmc "0x1.84a115392ab1bp+3, -0x1.6339c409174dcp+0"
    ]
    node [
       id 832
@@ -5831,6 +7495,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.1c5b16183261dp+3, 0x1.0725e5cfbae72p+3"
+      pos_sfdp_mcmc "0x1.9208a402b5cb9p+3, -0x1.480241e45664ep+3"
    ]
    node [
       id 833
@@ -5838,6 +7504,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.1efe3484286a7p+2, 0x1.0ad62e17d821p+2"
+      pos_sfdp_mcmc "0x1.ac6888c2179fp+2, -0x1.e9fd5448df756p+1"
    ]
    node [
       id 834
@@ -5845,6 +7513,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.375486604a774p+1, 0x1.3ce42c51d33b8p+2"
+      pos_sfdp_mcmc "0x1.e5ddfd523035fp-1, -0x1.26e1796489854p+3"
    ]
    node [
       id 835
@@ -5852,6 +7522,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.7366506b2ff14p-4, 0x1.4dd326a0f89c7p+3"
+      pos_sfdp_mcmc "0x1.b68b7439bbdacp+2, -0x1.494860d7b12bbp+3"
    ]
    node [
       id 836
@@ -5859,6 +7531,8 @@ graph [
       comm_infomap 75
       comm_mcmc 14
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.76ce70536ed19p+4, -0x1.1c8dc57c4ad36p+1"
+      pos_sfdp_mcmc "0x1.0902a638b2379p+4, 0x1.1906f7ab5d29cp+4"
    ]
    node [
       id 837
@@ -5866,6 +7540,8 @@ graph [
       comm_infomap 74
       comm_mcmc 11
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.9231bc00eba67p+2, 0x1.a022546774f63p+4"
+      pos_sfdp_mcmc "0x1.eac426e91a1f4p+4, -0x1.74eaed0b141c6p+2"
    ]
    node [
       id 838
@@ -5873,6 +7549,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.0788d23b4b4c5p+1, 0x1.4052ea4607e79p+2"
+      pos_sfdp_mcmc "0x1.e069f630cc73ap-1, -0x1.1b82c59e59463p+3"
    ]
    node [
       id 839
@@ -5880,6 +7558,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "14-8-2016"
+      pos_sfdp_infomap "0x1.01f30bc326862p-3, 0x1.58a8ee637861p+3"
+      pos_sfdp_mcmc "0x1.9c57fcffe4c06p+2, -0x1.47d5241d40232p+3"
    ]
    node [
       id 840
@@ -5887,6 +7567,8 @@ graph [
       comm_infomap 75
       comm_mcmc 14
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.7f74e519d86c6p+4, -0x1.d9e7f0370dd1ep+0"
+      pos_sfdp_mcmc "0x1.0f3aa68c10f18p+4, 0x1.238065e0f8bbbp+4"
    ]
    node [
       id 841
@@ -5894,6 +7576,8 @@ graph [
       comm_infomap 74
       comm_mcmc 11
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.b8b6d71f881d9p+2, 0x1.9b911075a3152p+4"
+      pos_sfdp_mcmc "0x1.e645b1c2ced59p+4, -0x1.a2316fd3d1a76p+2"
    ]
    node [
       id 842
@@ -5901,6 +7585,8 @@ graph [
       comm_infomap 52
       comm_mcmc 32
       date "14-8-2016"
+      pos_sfdp_infomap "-0x1.138ea8fdcd331p+1, 0x1.575357ef7681dp+2"
+      pos_sfdp_mcmc "0x1.84d8965febc83p+3, 0x1.de224d3f2aa54p-2"
    ]
    node [
       id 843
@@ -5908,6 +7594,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8c36daa8655ecp+0, 0x1.f4f1975228fabp+2"
+      pos_sfdp_mcmc "0x1.69b97aa778493p+3, -0x1.71e7b9b6ba927p+1"
    ]
    node [
       id 844
@@ -5915,6 +7603,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.04c2a3aaa6b1ep+2, 0x1.e175d07de6e4dp+2"
+      pos_sfdp_mcmc "0x1.338646f031fecp+3, -0x1.79700f9c5b8adp+2"
    ]
    node [
       id 845
@@ -5922,6 +7612,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.0e12d6d7452e7p+0, 0x1.cf114da512064p+2"
+      pos_sfdp_mcmc "0x1.4f51edf4ef11fp+3, -0x1.599eb4835e503p-1"
    ]
    node [
       id 846
@@ -5929,6 +7621,8 @@ graph [
       comm_infomap 39
       comm_mcmc 28
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.a9642fa13d9b4p+0, 0x1.499137b346677p+3"
+      pos_sfdp_mcmc "0x1.5afef1e233077p+2, -0x1.7c550732cb3c7p+3"
    ]
    node [
       id 847
@@ -5936,6 +7630,8 @@ graph [
       comm_infomap 16
       comm_mcmc 40
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.1365b66c50ffep+2, 0x1.8ea86f89eff43p+2"
+      pos_sfdp_mcmc "0x1.1af09925e970bp+3, -0x1.fb85d88605b2ep+1"
    ]
    node [
       id 848
@@ -5943,6 +7639,8 @@ graph [
       comm_infomap 65
       comm_mcmc 34
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.0761f5ea056c2p+4, 0x1.048dc145a63bbp+3"
+      pos_sfdp_mcmc "0x1.2347748d4725bp+3, 0x1.2531b6e16de85p+4"
    ]
    node [
       id 849
@@ -5950,6 +7648,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.24c45e39350ecp+2, 0x1.e338b227d16c2p+2"
+      pos_sfdp_mcmc "0x1.1de12869488f4p+3, -0x1.a4900f7ff5ee2p+2"
    ]
    node [
       id 850
@@ -5957,6 +7657,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.58ed01d30469fp+2, 0x1.12017e57b460cp+3"
+      pos_sfdp_mcmc "0x1.27d975b83f0ffp+3, -0x1.f63963d388f43p+2"
    ]
    node [
       id 851
@@ -5964,6 +7666,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.2ac4cca2fc374p+2, 0x1.d9167dc356231p+2"
+      pos_sfdp_mcmc "0x1.1ed04548e6057p+3, -0x1.97dd466a5b41cp+2"
    ]
    node [
       id 852
@@ -5971,6 +7675,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.355495cfdcp+2, 0x1.00e14eae21ed9p+3"
+      pos_sfdp_mcmc "0x1.37fec117bf30bp+3, -0x1.b6e179713f8bep+2"
    ]
    node [
       id 853
@@ -5978,6 +7684,8 @@ graph [
       comm_infomap 33
       comm_mcmc 8
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.e9538042a8c49p+3, -0x1.2586dd4ca66cap+2"
+      pos_sfdp_mcmc "-0x1.eebc23677e85dp+2, -0x1.1563c4671e1eep+2"
    ]
    node [
       id 854
@@ -5985,6 +7693,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.1f42eae37bd17p+2, 0x1.761515b1c8febp+3"
+      pos_sfdp_mcmc "0x1.c7ad9e1f31554p+3, -0x1.dafb265ba53f5p+2"
    ]
    node [
       id 855
@@ -5992,6 +7702,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.162958854a1a4p+2, 0x1.d9d03d1beb0d2p+2"
+      pos_sfdp_mcmc "0x1.27fb1823f8b74p+3, -0x1.80b334a69310bp+2"
    ]
    node [
       id 856
@@ -5999,6 +7711,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.d7687536afafp-5, 0x1.625e336f51b1bp+2"
+      pos_sfdp_mcmc "0x1.b1ad956801649p+2, -0x1.1de19821d37f3p+1"
    ]
    node [
       id 857
@@ -6006,6 +7720,8 @@ graph [
       comm_infomap 53
       comm_mcmc 7
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.c91e44166948ep+3, 0x1.672cabc57fe1p+2"
+      pos_sfdp_mcmc "0x1.47bce43464234p+3, 0x1.0fa737cebe2e6p+2"
    ]
    node [
       id 858
@@ -6013,6 +7729,8 @@ graph [
       comm_infomap 53
       comm_mcmc 7
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.911fda18ce0fcp+3, 0x1.776efde4a48d5p+2"
+      pos_sfdp_mcmc "0x1.2d65a2330ea7p+3, 0x1.4222abb14de8p+1"
    ]
    node [
       id 859
@@ -6020,6 +7738,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.a63de2042f1bbp+2, 0x1.4f90df6718a8p+2"
+      pos_sfdp_mcmc "0x1.db80ba8a8bf6fp+2, -0x1.bd10b5d412c97p+0"
    ]
    node [
       id 860
@@ -6027,6 +7747,8 @@ graph [
       comm_infomap 119
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.6c8bda878812bp+3, 0x1.a76071e792171p+4"
+      pos_sfdp_mcmc "0x1.c98514d4a8c12p+4, 0x1.54f71813ad77fp+3"
    ]
    node [
       id 861
@@ -6034,6 +7756,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.bf1588d88fcc5p+0, 0x1.093e8add2f7fap+3"
+      pos_sfdp_mcmc "0x1.5bf944654240dp+3, -0x1.e339b7ac14d0fp+1"
    ]
    node [
       id 862
@@ -6041,6 +7765,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.6028118f4e753p-3, 0x1.ab03758c623acp+2"
+      pos_sfdp_mcmc "0x1.3719c915dd2ccp+3, -0x1.a4174200d35fap-2"
    ]
    node [
       id 863
@@ -6048,6 +7774,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.1321d411bc652p-1, 0x1.8dd6e74e0bb26p+2"
+      pos_sfdp_mcmc "0x1.19b9104e0d184p+3, -0x1.907c769fa252ep+0"
    ]
    node [
       id 864
@@ -6055,6 +7783,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.cfbea9c95ccfdp+2, 0x1.5f840be2e8adbp+1"
+      pos_sfdp_mcmc "0x1.b26f999b0f93p+2, 0x1.e7d154808e505p-4"
    ]
    node [
       id 865
@@ -6062,6 +7792,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.6f99bb2bc7b7bp+1, 0x1.84cfe14ecf886p+2"
+      pos_sfdp_mcmc "0x1.31f00c2b2b8b5p+3, -0x1.b8b05c6d6cadap+1"
    ]
    node [
       id 866
@@ -6069,6 +7801,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.11b4d50ebf5fap+2, 0x1.ccd183736aaf9p+2"
+      pos_sfdp_mcmc "0x1.1bedc01d8d0e4p+3, -0x1.6d3384d5ad167p+2"
    ]
    node [
       id 867
@@ -6076,6 +7810,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.206f0c4940bb3p+2, 0x1.d6df4205a85c2p+2"
+      pos_sfdp_mcmc "0x1.49582ec56ac4fp+3, -0x1.6bcb7ab7b4575p+2"
    ]
    node [
       id 868
@@ -6083,6 +7819,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.31229064d8e56p+2, 0x1.b6ccb33d7e382p+2"
+      pos_sfdp_mcmc "0x1.1fdbb7866e47ap+3, -0x1.df8933b855fd3p+2"
    ]
    node [
       id 869
@@ -6090,6 +7828,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.4e4219b471f9fp+3, 0x1.40a07359d363ep+3"
+      pos_sfdp_mcmc "0x1.c3248560cb825p+2, -0x1.d7830cf525f9cp+3"
    ]
    node [
       id 870
@@ -6097,6 +7837,8 @@ graph [
       comm_infomap 98
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5bf86923842a3p+2, 0x1.5c06723193cebp+3"
+      pos_sfdp_mcmc "0x1.2f84c5635be4cp+3, -0x1.39394dcba7914p+3"
    ]
    node [
       id 871
@@ -6104,6 +7846,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8403032a52adcp+2, 0x1.17a00a873eb62p+3"
+      pos_sfdp_mcmc "0x1.2db5b3e9b9f3bp+3, -0x1.0d1ffa915ef6ep+3"
    ]
    node [
       id 872
@@ -6111,6 +7855,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.4d9198cabe38dp+2, 0x1.f5b0b8c3db277p+2"
+      pos_sfdp_mcmc "0x1.1c4bc7bd09cbfp+3, -0x1.cdb90de219f16p+2"
    ]
    node [
       id 873
@@ -6118,6 +7864,8 @@ graph [
       comm_infomap 118
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.89065cd6adf7fp+3, 0x1.4a70b43beba34p+4"
+      pos_sfdp_mcmc "0x1.ad04f49c31971p+4, -0x1.60a81a58cfdcfp+4"
    ]
    node [
       id 874
@@ -6125,6 +7873,8 @@ graph [
       comm_infomap 117
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.a23413db6021p+4, -0x1.07053bc621cc6p+0"
+      pos_sfdp_mcmc "0x1.840e650a181f3p+4, -0x1.693e8b41ab7bcp+4"
    ]
    node [
       id 875
@@ -6132,6 +7882,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.969daf8781142p-3, 0x1.3e14a365d6f45p+3"
+      pos_sfdp_mcmc "0x1.b0823eb058c47p+3, -0x1.87795d9c2990ap+1"
    ]
    node [
       id 876
@@ -6139,6 +7891,8 @@ graph [
       comm_infomap 116
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.964ba65d1d9fcp+2, -0x1.37bb59bb9ca43p+4"
+      pos_sfdp_mcmc "0x1.4d59f188f7772p+4, -0x1.b842b353e97dbp+4"
    ]
    node [
       id 877
@@ -6146,6 +7900,8 @@ graph [
       comm_infomap 70
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.9d8599e7ed6fcp+1, -0x1.adce046c1d563p+2"
+      pos_sfdp_mcmc "-0x1.5752882caf469p+2, -0x1.f42c881d03fa4p+2"
    ]
    node [
       id 878
@@ -6153,6 +7909,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.b9053bf9f811ep-1, 0x1.200df361f6bbp+3"
+      pos_sfdp_mcmc "0x1.98625e8a982dfp+3, -0x1.19ee7cee4a9a6p+0"
    ]
    node [
       id 879
@@ -6160,6 +7918,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.922e0babddd29p-1, 0x1.04acada8acb95p+3"
+      pos_sfdp_mcmc "0x1.7c3d701175e64p+3, -0x1.072c427679345p+0"
    ]
    node [
       id 880
@@ -6167,6 +7927,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.6dfd0ffcd614ap+1, 0x1.28096c18f5e14p+3"
+      pos_sfdp_mcmc "0x1.ce506fe7d605cp+3, 0x1.9375d85da2eadp-4"
    ]
    node [
       id 881
@@ -6174,6 +7936,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8c26c8c43d636p+2, 0x1.0316957237c11p+3"
+      pos_sfdp_mcmc "0x1.6e5044d711fe7p+3, -0x1.d8d04dca945cep+1"
    ]
    node [
       id 882
@@ -6181,6 +7945,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.f2ffae619450bp+0, 0x1.2aa3d25c40974p+3"
+      pos_sfdp_mcmc "0x1.cf95d4cf7d8dcp+3, -0x1.265e25c42cad5p+0"
    ]
    node [
       id 883
@@ -6188,6 +7954,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8a03462ec117p+2, 0x1.eef5892a295cep+2"
+      pos_sfdp_mcmc "0x1.5ab86a3672bf9p+3, -0x1.85b0cbd546d06p+1"
    ]
    node [
       id 884
@@ -6195,6 +7963,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.4d67672d1aa06p+1, 0x1.404c3dd2a11aep+3"
+      pos_sfdp_mcmc "0x1.e4824142ac2ap+3, -0x1.f7bb7324298d1p-2"
    ]
    node [
       id 885
@@ -6202,6 +7972,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.abf1b175785cbp+0, 0x1.30b26e9db45fcp+3"
+      pos_sfdp_mcmc "0x1.c121662ecf047p+3, -0x1.f6134dea3b95ep-1"
    ]
    node [
       id 886
@@ -6209,6 +7981,8 @@ graph [
       comm_infomap 99
       comm_mcmc 8
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.9b900ec7b5ed1p+2, 0x1.ce601322e6a42p+2"
+      pos_sfdp_mcmc "0x1.7211b9fb2f1c6p+3, -0x1.a8ed417bbd391p+1"
    ]
    node [
       id 887
@@ -6216,6 +7990,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.21ca9443e7e55p+2, 0x1.078e4aadb2269p+3"
+      pos_sfdp_mcmc "0x1.35a06445b07b1p+3, -0x1.84839899a8c1p+2"
    ]
    node [
       id 888
@@ -6223,6 +7999,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.9e52254fb9855p+0, 0x1.66563d153645ep+3"
+      pos_sfdp_mcmc "0x1.b439705db2882p+3, -0x1.fe1f35861e42ep+2"
    ]
    node [
       id 889
@@ -6230,6 +8008,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.0eaf85ce24f3bp+2, 0x1.a88ec72ec6f51p+2"
+      pos_sfdp_mcmc "0x1.1c3a5ef438c63p+3, -0x1.3e915a3ccf39ap+2"
    ]
    node [
       id 890
@@ -6237,6 +8017,8 @@ graph [
       comm_infomap 115
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.40610b7db99b6p+3, 0x1.532cf29b083f2p+4"
+      pos_sfdp_mcmc "0x1.361525bd68d55p+4, 0x1.3ae900af88a91p+4"
    ]
    node [
       id 891
@@ -6244,6 +8026,8 @@ graph [
       comm_infomap 55
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.1623eb7579a09p+0, 0x1.428ed6075303fp+2"
+      pos_sfdp_mcmc "0x1.293fa24d5945dp+2, 0x1.9150264a38f98p-1"
    ]
    node [
       id 892
@@ -6251,6 +8035,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.2bb360308d937p+2, 0x1.f6befdeca0a8cp+2"
+      pos_sfdp_mcmc "0x1.1d172275e6381p+3, -0x1.899235178d603p+2"
    ]
    node [
       id 893
@@ -6258,6 +8044,8 @@ graph [
       comm_infomap 55
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.e2eb323ae4ab8p-1, 0x1.7a2b19936f0cp+2"
+      pos_sfdp_mcmc "0x1.81cf002929f6ep+2, -0x1.9ff5aa192fc2dp+0"
    ]
    node [
       id 894
@@ -6265,6 +8053,8 @@ graph [
       comm_infomap 114
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.4ffbfe145fa77p+3, 0x1.78df9afeea946p+4"
+      pos_sfdp_mcmc "0x1.9526f261f7814p+4, 0x1.6823852ab275ap+3"
    ]
    node [
       id 895
@@ -6272,6 +8062,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.f75b81b510715p+1, 0x1.477ae56a9b84ap+3"
+      pos_sfdp_mcmc "0x1.6af67a0ea6ef3p+3, -0x1.fb54ea95f6a1ap+2"
    ]
    node [
       id 896
@@ -6279,6 +8071,8 @@ graph [
       comm_infomap 32
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.9c97f749da23bp+2, 0x1.5eef6dcc02481p+1"
+      pos_sfdp_mcmc "0x1.b13ce9da98bdap-1, -0x1.c8e39d0e18e2dp+2"
    ]
    node [
       id 897
@@ -6286,6 +8080,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.0ca1b1ba8e2d8p+2, 0x1.043c7421f1301p+2"
+      pos_sfdp_mcmc "0x1.3c3fe7fadf587p+2, -0x1.84f396a45c24cp+2"
    ]
    node [
       id 898
@@ -6293,6 +8089,8 @@ graph [
       comm_infomap 72
       comm_mcmc 8
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.a59a1d6966055p+3, -0x1.30c1a5a5be49bp+3"
+      pos_sfdp_mcmc "-0x1.3b107d990e3f2p+0, 0x1.3419c849f218fp+4"
    ]
    node [
       id 899
@@ -6300,6 +8098,8 @@ graph [
       comm_infomap 113
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.85be7418b3a3fp+4, -0x1.9288a81dc2ac1p+2"
+      pos_sfdp_mcmc "0x1.80a31f3318964p+3, -0x1.d73d394e5714ap+4"
    ]
    node [
       id 900
@@ -6307,6 +8107,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.97f9f91e24656p+0, 0x1.c84393de16b6ap+2"
+      pos_sfdp_mcmc "0x1.7450d584cacf2p+3, -0x1.cfc926791b54dp+0"
    ]
    node [
       id 901
@@ -6314,6 +8116,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.726fdc79ee28bp+1, 0x1.8e2687cfbeac6p+3"
+      pos_sfdp_mcmc "0x1.bc2984f779ef8p+3, -0x1.1f63ef497c73dp+3"
    ]
    node [
       id 902
@@ -6321,6 +8125,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.1aa4de85c7aaap-3, 0x1.2eff89d16809fp+3"
+      pos_sfdp_mcmc "0x1.9e4839c12b455p+3, -0x1.45d4185dded55p+1"
    ]
    node [
       id 903
@@ -6328,6 +8134,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5ca89b63b9857p-1, 0x1.13cb356a55493p+3"
+      pos_sfdp_mcmc "0x1.828cc75c6c9a8p+3, -0x1.8098f2146014bp+1"
    ]
    node [
       id 904
@@ -6335,6 +8143,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.d1f733c59f5dap-1, 0x1.7122608da5c1cp+3"
+      pos_sfdp_mcmc "0x1.b2a278367d64fp+3, -0x1.669aa0f40dce9p+2"
    ]
    node [
       id 905
@@ -6342,6 +8152,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.65c16de9811cdp+0, 0x1.8af3e383468fap+2"
+      pos_sfdp_mcmc "0x1.07cad0f36c99fp+3, -0x1.12efb94f25e88p+1"
    ]
    node [
       id 906
@@ -6349,6 +8161,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.540a5ac7845dap+2, 0x1.95a8e1b89736p+2"
+      pos_sfdp_mcmc "0x1.049cd11df9b64p+3, -0x1.8e860deaf1667p+1"
    ]
    node [
       id 907
@@ -6356,6 +8170,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.93d63f6439dcep+1, 0x1.956aba1b6d0e2p+2"
+      pos_sfdp_mcmc "0x1.02244ff521462p+3, -0x1.09fcd9f3bb15bp+2"
    ]
    node [
       id 908
@@ -6363,6 +8179,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.69d18e3021409p+2, 0x1.1c0ed9d7f9f4bp+3"
+      pos_sfdp_mcmc "0x1.57330c4e2ce3p+3, -0x1.e24379c6ffadfp+2"
    ]
    node [
       id 909
@@ -6370,6 +8188,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.7820024d8709ep+3, 0x1.49bd0ee32441ep+3"
+      pos_sfdp_mcmc "0x1.9b6088cf6cfa8p+2, -0x1.07de8924a6b76p+4"
    ]
    node [
       id 910
@@ -6377,6 +8197,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.3ce3c98e852c3p+2, 0x1.faf455780e751p+2"
+      pos_sfdp_mcmc "0x1.2a5647671fe67p+3, -0x1.bf272a7299c1ep+2"
    ]
    node [
       id 911
@@ -6384,6 +8206,8 @@ graph [
       comm_infomap 86
       comm_mcmc 34
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.99cde2c089168p+2, 0x1.4b94cc495e288p+3"
+      pos_sfdp_mcmc "0x1.5db39b7699779p+3, -0x1.3ac582d4dd5cbp+3"
    ]
    node [
       id 912
@@ -6391,6 +8215,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.7a304158fde79p+3, 0x1.cd6f43f90decep+2"
+      pos_sfdp_mcmc "0x1.3880b0ba9410cp+2, -0x1.c33ece53fef89p+3"
    ]
    node [
       id 913
@@ -6398,6 +8224,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.0f2f7738c741ep+3, 0x1.e981192901a7fp+1"
+      pos_sfdp_mcmc "0x1.09a616df9209dp+2, -0x1.43861931600dp+3"
    ]
    node [
       id 914
@@ -6405,6 +8233,8 @@ graph [
       comm_infomap 112
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.c90ce7240622dp+3, 0x1.aa474e47ffb95p+3"
+      pos_sfdp_mcmc "0x1.c55a8fc155c1ep+0, 0x1.7d0741f83962bp+4"
    ]
    node [
       id 915
@@ -6412,6 +8242,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.3992d3e178e47p+2, 0x1.06ffadc8477f1p+3"
+      pos_sfdp_mcmc "0x1.41c9a6cd902d2p+3, -0x1.bedaf91e1188bp+2"
    ]
    node [
       id 916
@@ -6419,6 +8251,8 @@ graph [
       comm_infomap 111
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.393f8499fd2aep+3, -0x1.ead17db5d925cp+3"
+      pos_sfdp_mcmc "0x1.89817b5d89089p+4, 0x1.015cdc8cfb195p+4"
    ]
    node [
       id 917
@@ -6426,6 +8260,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.2620a41dc1d6ep-4, 0x1.8570511155ddap+2"
+      pos_sfdp_mcmc "0x1.b377a4de1c7fbp+2, -0x1.bbb8b7b385f63p+1"
    ]
    node [
       id 918
@@ -6433,6 +8269,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.3b498f540e509p+2, 0x1.2069360644b79p+3"
+      pos_sfdp_mcmc "0x1.07334256b527ep+3, -0x1.a7c305e803bfdp+2"
    ]
    node [
       id 919
@@ -6440,6 +8278,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.1ee32d737955ep-1, 0x1.1c763398f7f6cp+3"
+      pos_sfdp_mcmc "0x1.812c6e6db9437p+3, -0x1.598064a84e926p+1"
    ]
    node [
       id 920
@@ -6447,6 +8287,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
+      pos_sfdp_infomap "0x1.5c92420b2073ap+0, 0x1.0b0274ede54ap+3"
+      pos_sfdp_mcmc "0x1.af6044ebd90a5p+3, -0x1.e0449bbd8f40bp+0"
    ]
    node [
       id 921
@@ -6454,6 +8296,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.e9dccd38d1ca2p+1, 0x1.bec5caeeae02fp+2"
+      pos_sfdp_mcmc "0x1.5e2af4bc1679fp+3, -0x1.75828ab7dd236p+2"
    ]
    node [
       id 922
@@ -6461,6 +8305,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.2ca7f0db7500ap+3, 0x1.cd17f0eebd754p+3"
+      pos_sfdp_mcmc "0x1.0b0c1b5c29254p+4, -0x1.8efd1164686cdp+3"
    ]
    node [
       id 923
@@ -6468,6 +8314,8 @@ graph [
       comm_infomap 46
       comm_mcmc 2
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8c40b39339deep+2, -0x1.6bcf8e155e58bp+2"
+      pos_sfdp_mcmc "-0x1.a73c50f10df1p+2, -0x1.6bcddae2df29fp+1"
    ]
    node [
       id 924
@@ -6475,6 +8323,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.f98c0ac0a2fabp+0, 0x1.358c6e2a49311p+3"
+      pos_sfdp_mcmc "0x1.f3d4b7f05844fp+2, -0x1.085f2b96baf55p+3"
    ]
    node [
       id 925
@@ -6482,6 +8332,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.578316edb3045p+3, 0x1.9888fe0b9b6abp+2"
+      pos_sfdp_mcmc "0x1.5287a521db1aep+2, -0x1.9bf12462272c1p+3"
    ]
    node [
       id 926
@@ -6489,6 +8341,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5b69bb75a3a74p+3, 0x1.b31d747845fcfp+2"
+      pos_sfdp_mcmc "0x1.336acddc58168p+2, -0x1.93f479824d488p+3"
    ]
    node [
       id 927
@@ -6496,6 +8350,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5e12be1f4d16fp+2, 0x1.477880ec8c312p+3"
+      pos_sfdp_mcmc "0x1.4df0dde9af19bp+3, -0x1.1eef816da4111p+3"
    ]
    node [
       id 928
@@ -6503,6 +8359,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8b5782db62694p+2, 0x1.c5a921739376dp+1"
+      pos_sfdp_mcmc "0x1.87bf5172f78dcp+1, -0x1.ea2dca1897843p+2"
    ]
    node [
       id 929
@@ -6510,6 +8368,8 @@ graph [
       comm_infomap 90
       comm_mcmc 26
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.9171e6eead27ap+2, 0x1.23a42b1070797p+3"
+      pos_sfdp_mcmc "0x1.88c370300ea66p+3, -0x1.70d7b0258a0b3p+2"
    ]
    node [
       id 930
@@ -6517,6 +8377,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.281276232629bp+3, 0x1.4330af9f8dfa4p+2"
+      pos_sfdp_mcmc "0x1.f9a5b43f5b8b4p+1, -0x1.759b1f3a3501bp+3"
    ]
    node [
       id 931
@@ -6524,6 +8386,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.3e392c902d1dbp+2, 0x1.6a1b000790f69p+3"
+      pos_sfdp_mcmc "0x1.be27c1757fc06p+3, -0x1.c0247f4476a8dp+2"
    ]
    node [
       id 932
@@ -6531,6 +8395,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5804e215adf4p+1, 0x1.5f6b10f11a505p+2"
+      pos_sfdp_mcmc "0x1.1909a2119b54ep+3, -0x1.548fb8bf12264p+1"
    ]
    node [
       id 933
@@ -6538,6 +8404,8 @@ graph [
       comm_infomap 34
       comm_mcmc 24
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.8be34d0d044e1p+0, 0x1.451b73b99f74ep+2"
+      pos_sfdp_mcmc "0x1.c0c4d3992b678p+2, -0x1.362b6f1059edep+1"
    ]
    node [
       id 934
@@ -6545,6 +8413,8 @@ graph [
       comm_infomap 23
       comm_mcmc 33
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.fab9f48b69e55p+1, 0x1.30a89d9c9cebdp+2"
+      pos_sfdp_mcmc "0x1.ed644e4f41b09p+2, -0x1.96e2378f978aap+1"
    ]
    node [
       id 935
@@ -6552,6 +8422,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.e1f432b972506p+1, 0x1.cb00a88ef203fp+2"
+      pos_sfdp_mcmc "0x1.1ea23d181e127p+3, -0x1.5d4c604be27a3p+2"
    ]
    node [
       id 936
@@ -6559,6 +8431,8 @@ graph [
       comm_infomap 110
       comm_mcmc 6
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.eff32e270db73p+3, 0x1.8152e3307236fp+4"
+      pos_sfdp_mcmc "0x1.e42778b4d1f4p+4, 0x1.009e0f7104f26p+3"
    ]
    node [
       id 937
@@ -6566,6 +8440,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5f32dd1cc4483p+1, 0x1.562e4d06973b8p+3"
+      pos_sfdp_mcmc "0x1.980b542a84ea1p+3, -0x1.c66de1b98b95dp+2"
    ]
    node [
       id 938
@@ -6573,6 +8449,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.c5d92bc1e120bp+1, 0x1.3bf9bf2e9781bp+2"
+      pos_sfdp_mcmc "0x1.be9a6ae74fa7fp+3, -0x1.2ae8f421a4c1fp+2"
    ]
    node [
       id 939
@@ -6580,6 +8458,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.5f104c805c1a4p+1, 0x1.6cdd8d816b362p+3"
+      pos_sfdp_mcmc "0x1.a78848dd96a24p+3, -0x1.065c849467e88p+3"
    ]
    node [
       id 940
@@ -6587,6 +8467,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.98f60e4461d82p+1, 0x1.3e90916bdb29ep+3"
+      pos_sfdp_mcmc "0x1.7bec396e5da49p+3, -0x1.cca0f72db2e93p+2"
    ]
    node [
       id 941
@@ -6594,6 +8476,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.25bcc55e15154p+2, 0x1.7dd78627d94p+3"
+      pos_sfdp_mcmc "0x1.d45dea591fa4cp+3, -0x1.b852cc153cb15p+2"
    ]
    node [
       id 942
@@ -6601,6 +8485,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
+      pos_sfdp_infomap "-0x1.a33866b188d58p+1, 0x1.4aa8e696b607p+3"
+      pos_sfdp_mcmc "0x1.87d2666154726p+3, -0x1.c16f800b34ac7p+2"
    ]
    node [
       id 943
@@ -6608,6 +8494,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.41dbdf082049p+1, 0x1.5e8526d2f7f9bp+3"
+      pos_sfdp_mcmc "0x1.9fdf37f6010cdp+3, -0x1.dd35c4846abc7p+2"
    ]
    node [
       id 944
@@ -6615,6 +8503,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.10dde4458bb4cp+2, 0x1.f80ccc4ce530fp+2"
+      pos_sfdp_mcmc "0x1.36b033d2a1dcfp+3, -0x1.9a388a9b6e861p+2"
    ]
    node [
       id 945
@@ -6622,6 +8512,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.0d4a986482e63p+2, 0x1.0842c73e5789p+3"
+      pos_sfdp_mcmc "0x1.3ccf9b8882e6p+3, -0x1.9fcc68897e614p+2"
    ]
    node [
       id 946
@@ -6629,6 +8521,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.04bc303c05ca3p+2, 0x1.01e9b4423e7a4p+3"
+      pos_sfdp_mcmc "0x1.3b3c2f7c185d1p+3, -0x1.89784fb649053p+2"
    ]
    node [
       id 947
@@ -6636,6 +8530,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.0295a2ff09a16p+2, 0x1.0fb7fe03aaaf2p+3"
+      pos_sfdp_mcmc "0x1.45c2a3ed3c7e3p+3, -0x1.a5fdf508626efp+2"
    ]
    node [
       id 948
@@ -6643,6 +8539,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.b674f8f90337ep+1, 0x1.380912984bf4ap+3"
+      pos_sfdp_mcmc "0x1.71fd1de933174p+3, -0x1.c5a6c00f9da14p+2"
    ]
    node [
       id 949
@@ -6650,6 +8548,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.5dcdf64cd858cp+0, 0x1.6524ad38ba731p+2"
+      pos_sfdp_mcmc "0x1.3bf4defa0e21bp+1, -0x1.134c02f066bfdp+3"
    ]
    node [
       id 950
@@ -6657,6 +8557,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.bb25f490c0dacp+1, 0x1.12253e53af449p+3"
+      pos_sfdp_mcmc "0x1.2089a73c0ff53p+3, -0x1.bc607d9b87068p+2"
    ]
    node [
       id 951
@@ -6664,6 +8566,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.877c89b8efa56p+3, 0x1.b94193acde4b8p+2"
+      pos_sfdp_mcmc "0x1.25554e04ddc17p+2, -0x1.cc672adc8b53cp+3"
    ]
    node [
       id 952
@@ -6671,6 +8575,8 @@ graph [
       comm_infomap 23
       comm_mcmc 33
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.0fb0eac931ad4p+2, 0x1.52bcf5283a0b8p+2"
+      pos_sfdp_mcmc "0x1.f861545c888bbp+2, -0x1.d4c6198915e32p+1"
    ]
    node [
       id 953
@@ -6678,6 +8584,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.8c4842136ac36p+1, 0x1.56cb7c0f54e89p+3"
+      pos_sfdp_mcmc "0x1.8ecb6bcd2a6efp+3, -0x1.0255ef7329a1ep+3"
    ]
    node [
       id 954
@@ -6685,6 +8593,8 @@ graph [
       comm_infomap 90
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.0e91840b616b3p+3, 0x1.4b76ad075848dp+3"
+      pos_sfdp_mcmc "0x1.e417dbccb03f4p+3, -0x1.1dcf4c10d3cfap+2"
    ]
    node [
       id 955
@@ -6692,6 +8602,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.8588d8d29a24p+2, 0x1.42faef41d7b8dp+3"
+      pos_sfdp_mcmc "0x1.a4847ecc58a6cp+3, -0x1.5ca77a0c4f267p+2"
    ]
    node [
       id 956
@@ -6699,6 +8611,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.af135f1da0206p+2, 0x1.8a2da6bdc741dp+3"
+      pos_sfdp_mcmc "0x1.5ed694c07da46p+3, -0x1.6c4bf7a995221p+3"
    ]
    node [
       id 957
@@ -6706,6 +8620,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.ef07938f5d2ap+0, 0x1.043129dfbae27p+3"
+      pos_sfdp_mcmc "0x1.5258c10e32617p+3, -0x1.e9688e9563753p+1"
    ]
    node [
       id 958
@@ -6713,6 +8629,8 @@ graph [
       comm_infomap 90
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.11586a6737ac3p+3, 0x1.34219d295336dp+3"
+      pos_sfdp_mcmc "0x1.ebd810a13a11ep+3, -0x1.3d7e8e3a13bb7p+2"
    ]
    node [
       id 959
@@ -6720,6 +8638,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.7738ded857c1cp+2, 0x1.4d7045c784091p+3"
+      pos_sfdp_mcmc "0x1.a5c8fee7a9b82p+3, -0x1.7ab7c5f1cdddap+2"
    ]
    node [
       id 960
@@ -6727,6 +8647,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.9b72f0a1bce09p+2, 0x1.90c14bdb430cdp+3"
+      pos_sfdp_mcmc "0x1.7089c01687cfdp+3, -0x1.68efd2c62de1dp+3"
    ]
    node [
       id 961
@@ -6734,6 +8656,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.f30b4a9c73796p+0, 0x1.10e4a4e9b3b5fp+3"
+      pos_sfdp_mcmc "0x1.6279b478ae7a1p+3, -0x1.fb2bd3a97712ap+1"
    ]
    node [
       id 962
@@ -6741,6 +8665,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.06ae6ba4a169cp+2, 0x1.0ad4fa916b53fp+3"
+      pos_sfdp_mcmc "0x1.42486955f0b16p+3, -0x1.9b6bbb0bfbc96p+2"
    ]
    node [
       id 963
@@ -6748,6 +8674,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.ad04e74855e7cp+0, 0x1.1376526e3e0cdp+3"
+      pos_sfdp_mcmc "0x1.585a65fd26959p+3, -0x1.bebff9cdef5d7p+1"
    ]
    node [
       id 964
@@ -6755,6 +8683,8 @@ graph [
       comm_infomap 5
       comm_mcmc 43
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.6770eb5364444p+1, 0x1.12f6bbf085991p+3"
+      pos_sfdp_mcmc "0x1.66a5687e4b23cp+3, -0x1.451648ccce4d4p+2"
    ]
    node [
       id 965
@@ -6762,6 +8692,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.3079fe818f3bap+1, 0x1.0abb45be90e6ep+3"
+      pos_sfdp_mcmc "0x1.51e915dccc781p+3, -0x1.10fc02c6d9b98p+2"
    ]
    node [
       id 966
@@ -6769,6 +8701,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.022e0b04fe283p+1, 0x1.1ea3e9fb971d9p+3"
+      pos_sfdp_mcmc "0x1.6f604868ba848p+3, -0x1.09687bad7b527p+2"
    ]
    node [
       id 967
@@ -6776,6 +8710,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.70018e0f2bbbbp+1, 0x1.4a44cc0e3225p+3"
+      pos_sfdp_mcmc "0x1.8cea255a1c799p+3, -0x1.d54467ba2cd36p+2"
    ]
    node [
       id 968
@@ -6783,6 +8719,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.317a5f76adbd3p+0, 0x1.2ada1441bbe1fp+3"
+      pos_sfdp_mcmc "0x1.cc6dd956ba90ep+3, -0x1.1f37c24ca4713p+1"
    ]
    node [
       id 969
@@ -6790,6 +8728,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.7143b0420ebb5p+0, 0x1.bee0405ca62cap+2"
+      pos_sfdp_mcmc "0x1.9a37a479b071bp+1, -0x1.22a128b587849p+3"
    ]
    node [
       id 970
@@ -6797,6 +8737,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.ca6f94e29f9b1p+1, 0x1.0923ed7568032p+3"
+      pos_sfdp_mcmc "0x1.2302b19d6e53ep+3, -0x1.b0ad1880e88abp+2"
    ]
    node [
       id 971
@@ -6804,6 +8746,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.49bd751097546p+0, 0x1.00a76c6a0d1d7p+3"
+      pos_sfdp_mcmc "0x1.bb260e59a20ffp+2, -0x1.d96a58b86f2aap+2"
    ]
    node [
       id 972
@@ -6811,6 +8755,8 @@ graph [
       comm_infomap 15
       comm_mcmc 37
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.0b1d0af7f14e7p+1, 0x1.d891e7d32d2f2p+2"
+      pos_sfdp_mcmc "0x1.d5add76b3b0dap+2, -0x1.d18b23a6b4aa1p+2"
    ]
    node [
       id 973
@@ -6818,6 +8764,8 @@ graph [
       comm_infomap 25
       comm_mcmc 8
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.24dc76a0103dfp+3, -0x1.3af06b9d6b815p+0"
+      pos_sfdp_mcmc "0x1.167026c985811p+1, 0x1.9365443d2753fp+1"
    ]
    node [
       id 974
@@ -6825,6 +8773,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.1a475b27febafp+2, 0x1.ed2cc39350d2cp+2"
+      pos_sfdp_mcmc "0x1.2d900269bb90cp+3, -0x1.a6f36e4c42c5fp+2"
    ]
    node [
       id 975
@@ -6832,6 +8782,8 @@ graph [
       comm_infomap 23
       comm_mcmc 33
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.d3b096a91a022p+1, 0x1.83e277c15f3bp+2"
+      pos_sfdp_mcmc "0x1.2288340005c35p+3, -0x1.f91fdc17a922dp+1"
    ]
    node [
       id 976
@@ -6839,6 +8791,8 @@ graph [
       comm_infomap 35
       comm_mcmc 20
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.c67114d3d6fbbp+2, 0x1.8e1eb0a23f4bbp+3"
+      pos_sfdp_mcmc "0x1.698768d4e424bp+3, -0x1.73bf5b33d45b9p+3"
    ]
    node [
       id 977
@@ -6846,6 +8800,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.88e185c9ebfc7p+2, 0x1.db6869e62521fp+2"
+      pos_sfdp_mcmc "0x1.2d2d19787d19p+3, -0x1.1999a9a1989afp+2"
    ]
    node [
       id 978
@@ -6853,6 +8809,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.2eef5183ec61bp+2, 0x1.ea09ba546429p+2"
+      pos_sfdp_mcmc "0x1.2457cd7524d83p+3, -0x1.a09d60cc414f6p+2"
    ]
    node [
       id 979
@@ -6860,6 +8818,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.452ac69eafb4ap+2, 0x1.dced03560c357p+2"
+      pos_sfdp_mcmc "0x1.2760366ac2eadp+3, -0x1.cf8c03297824cp+2"
    ]
    node [
       id 980
@@ -6867,6 +8827,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.53464814baa41p+1, 0x1.a90e127352e2p+2"
+      pos_sfdp_mcmc "0x1.4f944c378c34ap+3, -0x1.63753d6dca10ep+1"
    ]
    node [
       id 981
@@ -6874,6 +8836,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.06e33c4f89fcdp+3, 0x1.07284e9d8f412p+3"
+      pos_sfdp_mcmc "0x1.ad81ce5e0dd69p+3, -0x1.d860c606caedcp+1"
    ]
    node [
       id 982
@@ -6881,6 +8845,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.86f69acc4d237p+1, 0x1.5f6216c343bb8p+2"
+      pos_sfdp_mcmc "0x1.2bdf496702a83p+3, -0x1.3e69990414a03p+1"
    ]
    node [
       id 983
@@ -6888,6 +8854,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.c3f1df41480f2p+1, 0x1.cbcc0d495cd8dp+2"
+      pos_sfdp_mcmc "0x1.31341a016433ap+3, -0x1.36c928d5ee66ap+2"
    ]
    node [
       id 984
@@ -6895,6 +8863,8 @@ graph [
       comm_infomap 5
       comm_mcmc 43
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.7e6616789edacp+1, 0x1.0c6f25c46185fp+3"
+      pos_sfdp_mcmc "0x1.545ba84ec033bp+3, -0x1.4b8a138c1e9afp+2"
    ]
    node [
       id 985
@@ -6902,6 +8872,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.1bd504bfa53ddp+1, 0x1.11a7fc8f4e47ap+3"
+      pos_sfdp_mcmc "0x1.5f47f59b6993fp+3, -0x1.1dd12869e694fp+2"
    ]
    node [
       id 986
@@ -6909,6 +8881,8 @@ graph [
       comm_infomap 109
       comm_mcmc 6
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.ac6f65c2b6659p+4, 0x1.448bf767ff9b5p+2"
+      pos_sfdp_mcmc "0x1.ae2c35860d3a1p+4, -0x1.37d029605c252p+4"
    ]
    node [
       id 987
@@ -6916,6 +8890,8 @@ graph [
       comm_infomap 69
       comm_mcmc 8
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.15fae602261f4p+3, 0x1.8a4fd25f7b254p+2"
+      pos_sfdp_mcmc "0x1.83a0cf11f2a8fp+3, -0x1.133d631bac4acp-1"
    ]
    node [
       id 988
@@ -6923,6 +8899,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.d0b8bf3eb5d35p+2, 0x1.0ef1beaac86e5p+3"
+      pos_sfdp_mcmc "0x1.943ec069b1355p+3, -0x1.2a386951a2bb1p+2"
    ]
    node [
       id 989
@@ -6930,6 +8908,8 @@ graph [
       comm_infomap 45
       comm_mcmc 12
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.bba38c45d3e78p+2, 0x1.c707c409199ffp-1"
+      pos_sfdp_mcmc "-0x1.ff2dfd6cdc55ap+2, -0x1.59b39fdc37dcdp+2"
    ]
    node [
       id 990
@@ -6937,6 +8917,8 @@ graph [
       comm_infomap 73
       comm_mcmc 14
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.775d2e373501ap+3, -0x1.bf2d685319f52p+3"
+      pos_sfdp_mcmc "0x1.bdc1fd50fd5c9p+4, 0x1.5e8a527d52e58p+2"
    ]
    node [
       id 991
@@ -6944,6 +8926,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.6c14571ccde6ap+2, 0x1.3dec4bea6a83cp+3"
+      pos_sfdp_mcmc "0x1.956c280a3e403p+3, -0x1.7bcf4caf735a7p+2"
    ]
    node [
       id 992
@@ -6951,6 +8935,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.0e8c9e2424af2p-2, 0x1.0cdbea0cdffbbp+3"
+      pos_sfdp_mcmc "0x1.b0628b32f62c4p+3, -0x1.5cdacf29debc9p+0"
    ]
    node [
       id 993
@@ -6958,6 +8944,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.195fc3766a1aep+2, 0x1.f5941d9116dbep+2"
+      pos_sfdp_mcmc "0x1.24849009e9b7bp+3, -0x1.943c4d10a51cap+2"
    ]
    node [
       id 994
@@ -6965,6 +8953,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.1514213c3fbf7p+3, 0x1.172003e1a4bebp+2"
+      pos_sfdp_mcmc "0x1.b1b6e2269ae85p+1, -0x1.60ba5e1caa66fp+3"
    ]
    node [
       id 995
@@ -6972,6 +8962,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.fcb43d5848055p+1, 0x1.e8fe76783d1a7p+2"
+      pos_sfdp_mcmc "0x1.35baa605ba226p+3, -0x1.8ec8f45e71383p+2"
    ]
    node [
       id 996
@@ -6979,6 +8971,8 @@ graph [
       comm_infomap 28
       comm_mcmc 40
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.53e9d2637034fp+2, 0x1.0229842391455p+3"
+      pos_sfdp_mcmc "0x1.469dfdbc05c94p+3, -0x1.35503e966aad8p+2"
    ]
    node [
       id 997
@@ -6986,6 +8980,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.8c8530ff64a83p+1, 0x1.614421d699fc2p+3"
+      pos_sfdp_mcmc "0x1.98e26a6ce10dfp+3, -0x1.f28a532907251p+2"
    ]
    node [
       id 998
@@ -6993,6 +8989,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.cf08ddb293604p+1, 0x1.418544aed6333p+3"
+      pos_sfdp_mcmc "0x1.733ce36c840bp+3, -0x1.deb17f500dec2p+2"
    ]
    node [
       id 999
@@ -7000,6 +8998,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.fc99866d62f09p+1, 0x1.16a5f5f58395cp+3"
+      pos_sfdp_mcmc "0x1.4fa9c54653bc4p+3, -0x1.8b662c73f5099p+2"
    ]
    node [
       id 1000
@@ -7007,6 +9007,8 @@ graph [
       comm_infomap 18
       comm_mcmc 43
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.5684696c33ad8p+1, 0x1.27e99617ef03ap+3"
+      pos_sfdp_mcmc "0x1.72ba7f7412af4p+3, -0x1.6c6ce216ae10dp+2"
    ]
    node [
       id 1001
@@ -7014,6 +9016,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.42f5d3c847e6dp+1, 0x1.4d076696c2ca9p+3"
+      pos_sfdp_mcmc "0x1.97b550f6699b4p+3, -0x1.9bd65ee7d723ap+2"
    ]
    node [
       id 1002
@@ -7021,6 +9025,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.fd464849de9f7p-3, 0x1.59b7b588e8dd9p+2"
+      pos_sfdp_mcmc "0x1.fd5fff79e6bdbp+2, -0x1.e6ac045a79e0dp-1"
    ]
    node [
       id 1003
@@ -7028,6 +9034,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.ca8acbae372ecp+1, 0x1.038e922a8c1dfp+3"
+      pos_sfdp_mcmc "0x1.438f92473d423p+3, -0x1.6784d579cddc4p+2"
    ]
    node [
       id 1004
@@ -7035,6 +9043,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.c55dd8336d44cp+1, 0x1.fa4bef29358f3p+2"
+      pos_sfdp_mcmc "0x1.3ddb48605837p+3, -0x1.6611bd1f5fb43p+2"
    ]
    node [
       id 1005
@@ -7042,6 +9052,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.c115839c9c4bdp+1, 0x1.67dcf4fb2b8b2p+3"
+      pos_sfdp_mcmc "0x1.6d79467406395p+3, -0x1.132073539acfp+3"
    ]
    node [
       id 1006
@@ -7049,6 +9061,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.063aff59a205p+2, 0x1.eab3584492f6dp+2"
+      pos_sfdp_mcmc "0x1.324d67f28f60dp+3, -0x1.ab3372807d527p+2"
    ]
    node [
       id 1007
@@ -7056,6 +9070,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.2f35f326c462dp+3, 0x1.58ba01474ea81p+2"
+      pos_sfdp_mcmc "0x1.11b09e7bf9cb2p+2, -0x1.7b7faed307e01p+3"
    ]
    node [
       id 1008
@@ -7063,6 +9079,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.6cb7bbb6c59f1p-1, 0x1.2a58dce5076dep+3"
+      pos_sfdp_mcmc "0x1.c72ecb839b746p+2, -0x1.2017ca60d3843p+3"
    ]
    node [
       id 1009
@@ -7070,6 +9088,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.2c461c6309193p-1, 0x1.ade892c45bcc7p+2"
+      pos_sfdp_mcmc "0x1.0c833e3e6cae7p+2, -0x1.070f2adf468f7p+3"
    ]
    node [
       id 1010
@@ -7077,6 +9097,8 @@ graph [
       comm_infomap 72
       comm_mcmc 8
       date "16-8-2016"
+      pos_sfdp_infomap "0x1.bbb2e7a9d878fp+3, -0x1.344b1f34d99e4p+3"
+      pos_sfdp_mcmc "-0x1.d0b622a87e6c8p+0, 0x1.3cf3bdd2098dep+4"
    ]
    node [
       id 1011
@@ -7084,6 +9106,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.5bad10c77e8b5p+2, 0x1.2471f354e00ep+2"
+      pos_sfdp_mcmc "0x1.cf015924933ep+2, -0x1.6f3ab82a266e2p+1"
    ]
    node [
       id 1012
@@ -7091,6 +9115,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.e4eaccc8e2cc7p+2, 0x1.5bc65435e4578p+3"
+      pos_sfdp_mcmc "0x1.b676b0687b60dp+3, -0x1.3a888c1525b01p+3"
    ]
    node [
       id 1013
@@ -7098,6 +9124,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.b1b05c161434ap+2, 0x1.4d7d59f15ab3bp+3"
+      pos_sfdp_mcmc "0x1.8e9a29132a3f9p+3, -0x1.27e5246525b6ep+3"
    ]
    node [
       id 1014
@@ -7105,6 +9133,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.c1285050ef827p+2, 0x1.40a1f03fb1483p+3"
+      pos_sfdp_mcmc "0x1.9ae9665c98207p+3, -0x1.1fd0f614e7eacp+3"
    ]
    node [
       id 1015
@@ -7112,6 +9142,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.2e12e1e3ace25p+1, 0x1.3f352023b4387p+3"
+      pos_sfdp_mcmc "0x1.7d85834e0037cp+3, -0x1.f5a17e716790ap+2"
    ]
    node [
       id 1016
@@ -7119,6 +9151,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.17c67e5e1b1c8p+3, 0x1.db69d97e20d48p+2"
+      pos_sfdp_mcmc "0x1.6bf8c613d8ae7p+3, -0x1.50b1aafccf897p+3"
    ]
    node [
       id 1017
@@ -7126,6 +9160,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "16-8-2016"
+      pos_sfdp_infomap "-0x1.0fd09e6dca91dp+2, 0x1.0f6f78c2def6dp+3"
+      pos_sfdp_mcmc "0x1.4dd3e3e5d39ebp+3, -0x1.94d634af7e4cap+2"
    ]
    node [
       id 1018
@@ -7133,6 +9169,8 @@ graph [
       comm_infomap 108
       comm_mcmc 6
       date "17-8-2016"
+      pos_sfdp_infomap "0x1.c76e31fa029e1p+3, 0x1.200903a73bedbp+4"
+      pos_sfdp_mcmc "-0x1.3f1f4b8faa3aap+4, -0x1.2c8ed47b96752p+4"
    ]
    node [
       id 1019
@@ -7140,6 +9178,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.236e8bb7c3bb1p+2, 0x1.ef881fdd4c1c1p+2"
+      pos_sfdp_mcmc "0x1.27eaf912e9f94p+3, -0x1.a832dcb230c83p+2"
    ]
    node [
       id 1020
@@ -7147,6 +9187,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.a8c8274f42f9dp+2, 0x1.d26d421896578p+1"
+      pos_sfdp_mcmc "0x1.c4b006218119p+2, -0x1.5362a09e07289p+3"
    ]
    node [
       id 1021
@@ -7154,6 +9196,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0fbe5d9306c96p+2, 0x1.c3329dfff128ap+2"
+      pos_sfdp_mcmc "0x1.2bc58015294p+3, -0x1.48ba583ada596p+2"
    ]
    node [
       id 1022
@@ -7161,6 +9205,8 @@ graph [
       comm_infomap 69
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0dfb89c7e480ep+3, 0x1.430391f3c2bb5p+2"
+      pos_sfdp_mcmc "0x1.b5fd8a7c7fb4dp+3, 0x1.b1116a3b0bc19p-1"
    ]
    node [
       id 1023
@@ -7168,6 +9214,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.3422ce8ff1f95p+2, 0x1.f2cdf4f389fbp+2"
+      pos_sfdp_mcmc "0x1.37f99ac8a48aap+3, -0x1.a539326be966fp+2"
    ]
    node [
       id 1024
@@ -7175,6 +9223,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.bfe9834ccae9cp+2, 0x1.ce61266bc9b78p+1"
+      pos_sfdp_mcmc "0x1.a85b4ba4967d6p+2, -0x1.582be6c6005a5p+3"
    ]
    node [
       id 1025
@@ -7182,6 +9232,8 @@ graph [
       comm_infomap 37
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.6f172225eb0fcp+2, 0x1.4e008f22062dap+2"
+      pos_sfdp_mcmc "0x1.075c497e3c325p+3, -0x1.3119756dd52dap+3"
    ]
    node [
       id 1026
@@ -7189,6 +9241,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0e9254d7662cep+2, 0x1.e018449199d01p+2"
+      pos_sfdp_mcmc "0x1.2c235630697efp+3, -0x1.b170fce6a3f58p+2"
    ]
    node [
       id 1027
@@ -7196,6 +9250,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.37d397f2acffep+2, 0x1.5dcc8756258dcp+2"
+      pos_sfdp_mcmc "0x1.de31c9698fe9cp+2, -0x1.03b254b93097cp+2"
    ]
    node [
       id 1028
@@ -7203,6 +9259,8 @@ graph [
       comm_infomap 26
       comm_mcmc 22
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.7363116131a6cp+3, 0x1.03b8f43834532p+2"
+      pos_sfdp_mcmc "0x1.e24ae2c7a9b46p-1, -0x1.a1671bfa7801ap+3"
    ]
    node [
       id 1029
@@ -7210,6 +9268,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.2064a3af930a7p+2, 0x1.1753eab30e439p+3"
+      pos_sfdp_mcmc "0x1.32ca05ae8d522p+3, -0x1.c9984dfb00e94p+2"
    ]
    node [
       id 1030
@@ -7217,6 +9277,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.092ca43c9ba1bp+3, 0x1.d047e033abbb3p+2"
+      pos_sfdp_mcmc "0x1.58eb40a3a414dp+3, -0x1.588c985415ddep+3"
    ]
    node [
       id 1031
@@ -7224,6 +9286,8 @@ graph [
       comm_infomap 107
       comm_mcmc 6
       date "17-8-2016"
+      pos_sfdp_infomap "0x1.331b05158d703p+4, 0x1.7297ea21878bcp+3"
+      pos_sfdp_mcmc "-0x1.056accf5e3ee2p+4, -0x1.7e72e441f5e9p+4"
    ]
    node [
       id 1032
@@ -7231,6 +9295,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0c2599a2bbb4p+1, 0x1.efd4408474519p+2"
+      pos_sfdp_mcmc "0x1.3fe11455e40c2p+3, -0x1.e798df9a478dp+1"
    ]
    node [
       id 1033
@@ -7238,6 +9304,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.337072e2e25d3p+3, 0x1.1daad989b08ccp+3"
+      pos_sfdp_mcmc "0x1.b9fe48bc5884bp+2, -0x1.9862f02dc6839p+3"
    ]
    node [
       id 1034
@@ -7245,6 +9313,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.5379b919e9d2ap+2, 0x1.3b53c8f927e1fp+3"
+      pos_sfdp_mcmc "0x1.8837d45d24634p+3, -0x1.5cb876c13519ep+2"
    ]
    node [
       id 1035
@@ -7252,6 +9322,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.3750ac2c4070bp+2, 0x1.df1b5dec20defp+2"
+      pos_sfdp_mcmc "0x1.3f4c321c02accp+3, -0x1.cb36b408eeb6dp+2"
    ]
    node [
       id 1036
@@ -7259,6 +9331,8 @@ graph [
       comm_infomap 106
       comm_mcmc 6
       date "17-8-2016"
+      pos_sfdp_infomap "0x1.22471bebb6ca5p+0, -0x1.136cbeaa09d57p+4"
+      pos_sfdp_mcmc "0x1.ef634491e04e7p+4, -0x1.ae50fd1aadba6p+3"
    ]
    node [
       id 1037
@@ -7266,6 +9340,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0d5c88b3969edp+3, 0x1.9cb795b8c3779p+3"
+      pos_sfdp_mcmc "0x1.e348ff73c2332p+3, -0x1.669dc19c2e1b2p+3"
    ]
    node [
       id 1038
@@ -7273,6 +9349,8 @@ graph [
       comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.96bfcbfc049cp+1, 0x1.012b027f0d771p+3"
+      pos_sfdp_mcmc "0x1.48e5236de7136p+3, -0x1.4ba31bb977233p+2"
    ]
    node [
       id 1039
@@ -7280,6 +9358,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.979f16fb2444bp+1, 0x1.40c79464f8b19p+2"
+      pos_sfdp_mcmc "0x1.10743d93a089ep+3, -0x1.1df1f382685fcp+1"
    ]
    node [
       id 1040
@@ -7287,6 +9367,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.9815fd7518d35p-2, 0x1.68b6b3fe6efb9p+3"
+      pos_sfdp_mcmc "0x1.9ba702482f425p+2, -0x1.24bfa87413d86p+3"
    ]
    node [
       id 1041
@@ -7294,6 +9376,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.360a4d09b02c1p+1, 0x1.7de69750d1db3p+2"
+      pos_sfdp_mcmc "0x1.158d101fe3b49p+3, -0x1.c78e7997d49dbp+1"
    ]
    node [
       id 1042
@@ -7301,6 +9385,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.503e065d48fe2p+1, 0x1.92131598717ap+2"
+      pos_sfdp_mcmc "0x1.0e4159262b943p+3, -0x1.f3e66577f5872p+1"
    ]
    node [
       id 1043
@@ -7308,6 +9394,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.b76fd2cd6df78p+2, 0x1.a7c7c35508ee6p+2"
+      pos_sfdp_mcmc "0x1.39e9f9944a7cdp+3, -0x1.2af429f18fc8ep+3"
    ]
    node [
       id 1044
@@ -7315,6 +9403,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.fc6b69ff93652p+2, -0x1.ebc2ed2d9f597p+1"
+      pos_sfdp_mcmc "-0x1.7bfc0d62e0b87p+2, -0x1.874a2cfc2a5f2p+1"
    ]
    node [
       id 1045
@@ -7322,6 +9412,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.64e9ebdd8a086p-2, 0x1.5e654a839f245p+3"
+      pos_sfdp_mcmc "0x1.8dbc60b939c6dp+2, -0x1.113cfaa8d4a86p+3"
    ]
    node [
       id 1046
@@ -7329,6 +9421,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.7a794275c1c56p-1, 0x1.4cd17bebc82ecp+3"
+      pos_sfdp_mcmc "0x1.c9e3ffac8baccp+2, -0x1.2c893c78671b7p+3"
    ]
    node [
       id 1047
@@ -7336,6 +9430,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.c4cce46e3e71bp-1, 0x1.375ecd4d2d106p+3"
+      pos_sfdp_mcmc "0x1.a1dc683fbbd52p+2, -0x1.06c6e59d22cep+3"
    ]
    node [
       id 1048
@@ -7343,6 +9439,8 @@ graph [
       comm_infomap 94
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.8e574e2edd8b8p+1, 0x1.b46027e61669fp+3"
+      pos_sfdp_mcmc "0x1.9a294a469d28ep+3, -0x1.2c2655cc4f3cdp-2"
    ]
    node [
       id 1049
@@ -7350,6 +9448,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.27806ff4df5a9p+2, 0x1.6cf308b257f85p+3"
+      pos_sfdp_mcmc "0x1.bd19eb103a554p+3, -0x1.d7fbbbeb68a29p+2"
    ]
    node [
       id 1050
@@ -7357,6 +9457,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "17-8-2016"
+      pos_sfdp_infomap "0x1.a04b1dfbf282cp-3, 0x1.1d020c7177a29p+3"
+      pos_sfdp_mcmc "0x1.a23ce04c6f229p+3, -0x1.13bf762fd5604p+1"
    ]
    node [
       id 1051
@@ -7364,6 +9466,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.03a865e7fbcfbp+3, 0x1.8226c42ec9bfcp+2"
+      pos_sfdp_mcmc "0x1.6dea421d87b9cp+2, -0x1.480010c3abecdp+3"
    ]
    node [
       id 1052
@@ -7371,6 +9475,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.22fe1d4e55ecap+2, 0x1.fa152d10d2c44p+2"
+      pos_sfdp_mcmc "0x1.3b038c98c0eecp+3, -0x1.94a524c14f508p+2"
    ]
    node [
       id 1053
@@ -7378,6 +9484,8 @@ graph [
       comm_infomap 89
       comm_mcmc 37
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.84d22c6e21cb1p+2, 0x1.97d2645b3e10fp+2"
+      pos_sfdp_mcmc "0x1.1ee9decdbc23dp+3, -0x1.0f16868d42c5fp+3"
    ]
    node [
       id 1054
@@ -7385,6 +9493,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.3b910fed1d20dp+1, 0x1.031432be31cf6p+3"
+      pos_sfdp_mcmc "0x1.60ba5805bb5a4p+3, -0x1.2e9f5ba9d115cp+2"
    ]
    node [
       id 1055
@@ -7392,6 +9502,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.4668c3990aee2p+2, 0x1.09d25945ecd5cp+3"
+      pos_sfdp_mcmc "0x1.54ea690617e3cp+3, -0x1.6560c6d7a34a1p+2"
    ]
    node [
       id 1056
@@ -7399,6 +9511,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.258a00ea9ac58p+2, 0x1.0f27861a7ee8p+3"
+      pos_sfdp_mcmc "0x1.4cd23483974c6p+3, -0x1.784bea892626ep+2"
    ]
    node [
       id 1057
@@ -7406,6 +9520,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.b5e329d6b00e3p+1, 0x1.00cc6a09e22a9p+3"
+      pos_sfdp_mcmc "0x1.414e8eb7d4c37p+3, -0x1.5adda4fae46f9p+2"
    ]
    node [
       id 1058
@@ -7413,6 +9529,8 @@ graph [
       comm_infomap 36
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.3a785c10c5b47p+0, 0x1.cfb38115a0916p+2"
+      pos_sfdp_mcmc "0x1.0a99f3a6b8c2ap+3, -0x1.1824f5e3ddd3bp+2"
    ]
    node [
       id 1059
@@ -7420,6 +9538,8 @@ graph [
       comm_infomap 7
       comm_mcmc 23
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.12de10eae1aa3p+2, 0x1.59768fb819e4ep+3"
+      pos_sfdp_mcmc "0x1.a65c6cba58aa9p+3, -0x1.b1a2685c25875p+2"
    ]
    node [
       id 1060
@@ -7427,6 +9547,8 @@ graph [
       comm_infomap 0
       comm_mcmc 37
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.6c1ffb796146p+2, 0x1.0e4ea1e4fb69p+3"
+      pos_sfdp_mcmc "0x1.01ebfba86e44p+3, -0x1.9382eca0c4c6p+2"
    ]
    node [
       id 1061
@@ -7434,6 +9556,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.f13ce92514713p+2, -0x1.04f85f6693cap+2"
+      pos_sfdp_mcmc "-0x1.6e478772f5833p+2, -0x1.de939dff228a3p+1"
    ]
    node [
       id 1062
@@ -7441,6 +9565,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.21fbafee653e7p+3, -0x1.59c2d84c08a7bp+1"
+      pos_sfdp_mcmc "-0x1.493686e8767b2p+2, -0x1.510b04c5e0b2fp+2"
    ]
    node [
       id 1063
@@ -7448,6 +9574,8 @@ graph [
       comm_infomap 66
       comm_mcmc 2
       date "17-8-2016"
+      pos_sfdp_infomap "0x1.ad2c79d163603p+2, -0x1.e57d8916613e8p+3"
+      pos_sfdp_mcmc "-0x1.0ec872aef8587p+4, -0x1.03910aec62976p+4"
    ]
    node [
       id 1064
@@ -7455,6 +9583,8 @@ graph [
       comm_infomap 54
       comm_mcmc 26
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.60d6ec128c3f1p+2, 0x1.32f0586176786p+3"
+      pos_sfdp_mcmc "0x1.8b2c9b4de83b1p+3, -0x1.8c1a8e6fd2c92p+2"
    ]
    node [
       id 1065
@@ -7462,6 +9592,8 @@ graph [
       comm_infomap 105
       comm_mcmc 6
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.191f64591cb73p+4, 0x1.6b7dd009d8963p+4"
+      pos_sfdp_mcmc "-0x1.5042a18091307p+4, -0x1.4ca69eb2fd765p+3"
    ]
    node [
       id 1066
@@ -7469,6 +9601,8 @@ graph [
       comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.4708e9dbf07fp+1, 0x1.df7a62c74a5b9p+2"
+      pos_sfdp_mcmc "0x1.3831c182f1818p+3, -0x1.09d45adbbbbebp+2"
    ]
    node [
       id 1067
@@ -7476,6 +9610,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.c487253053955p+0, 0x1.5ad5ae0aaf9cfp+2"
+      pos_sfdp_mcmc "0x1.eb85aa958157cp+2, -0x1.3528c21561a62p+1"
    ]
    node [
       id 1068
@@ -7483,6 +9619,8 @@ graph [
       comm_infomap 28
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.a1cac728d422p+2, 0x1.f246a3cba7e02p+2"
+      pos_sfdp_mcmc "0x1.4fdb54558bbabp+3, -0x1.92e5a565e876fp+1"
    ]
    node [
       id 1069
@@ -7490,6 +9628,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.cd726a14b7c3cp+1, 0x1.17f929c248adep+3"
+      pos_sfdp_mcmc "0x1.51f043cdd90ccp+3, -0x1.b022fa6ff96c7p+2"
    ]
    node [
       id 1070
@@ -7497,6 +9637,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.97ed2ba3e11d6p+1, 0x1.80db003acff2p+2"
+      pos_sfdp_mcmc "0x1.0cd969e289c21p+3, -0x1.b30fdd2d50b6p+1"
    ]
    node [
       id 1071
@@ -7504,6 +9646,8 @@ graph [
       comm_infomap 94
       comm_mcmc 8
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.b9194bfd4fc3dp+1, 0x1.7863449c0f5adp+3"
+      pos_sfdp_mcmc "0x1.74946dbde8d35p+3, -0x1.3f8184340852fp+1"
    ]
    node [
       id 1072
@@ -7511,6 +9655,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.7a5d2aa277e2p-1, 0x1.6207c48c421c3p+3"
+      pos_sfdp_mcmc "0x1.b0d877fcaae82p+2, -0x1.2c1ceaaa0f3f4p+3"
    ]
    node [
       id 1073
@@ -7518,6 +9664,8 @@ graph [
       comm_infomap 89
       comm_mcmc 37
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.5e136321180ddp+2, 0x1.b797df9f673e1p+2"
+      pos_sfdp_mcmc "0x1.3547bbc4d5538p+3, -0x1.fdb51b16c0faep+2"
    ]
    node [
       id 1074
@@ -7525,6 +9673,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.186481d1d80c9p+2, 0x1.feeb78eed6bcp+2"
+      pos_sfdp_mcmc "0x1.2cc854e269712p+3, -0x1.93af8a0c95c3fp+2"
    ]
    node [
       id 1075
@@ -7532,6 +9682,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.08a38a8482b24p+2, 0x1.f26000a0f4fdap+2"
+      pos_sfdp_mcmc "0x1.280c197042ac5p+3, -0x1.8e6afcce1cb0cp+2"
    ]
    node [
       id 1076
@@ -7539,6 +9691,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.f7823dc92fb32p+1, 0x1.dce0b9e5d164dp+2"
+      pos_sfdp_mcmc "0x1.2b5494bcba5c1p+3, -0x1.6835ed98550bp+2"
    ]
    node [
       id 1077
@@ -7546,6 +9700,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.db13e91d8b819p+1, 0x1.fca6ecab3bf23p+2"
+      pos_sfdp_mcmc "0x1.39261c023fed2p+3, -0x1.7ba5cf7142683p+2"
    ]
    node [
       id 1078
@@ -7553,6 +9709,8 @@ graph [
       comm_infomap 31
       comm_mcmc 2
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.dee56ac5d4ff6p+2, 0x1.1382837df9a09p+2"
+      pos_sfdp_mcmc "0x1.f0699d524d54dp+1, -0x1.23b155b131fb4p+3"
    ]
    node [
       id 1079
@@ -7560,6 +9718,8 @@ graph [
       comm_infomap 71
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.12ee23ff0c672p+3, -0x1.146fbd408ce0ap+4"
+      pos_sfdp_mcmc "0x1.0b32335eb9fe6p+4, -0x1.b421ace0cb564p+4"
    ]
    node [
       id 1080
@@ -7567,6 +9727,8 @@ graph [
       comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.97bbefe2a8cafp+1, 0x1.14799032eb9cdp+3"
+      pos_sfdp_mcmc "0x1.5cebd62e26b84p+3, -0x1.4a6421794f59ap+2"
    ]
    node [
       id 1081
@@ -7574,6 +9736,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.3d54d2f576e8cp+1, 0x1.16c38a356f90bp+3"
+      pos_sfdp_mcmc "0x1.5856d491616fp+3, -0x1.093442c2a3c91p+2"
    ]
    node [
       id 1082
@@ -7581,6 +9745,8 @@ graph [
       comm_infomap 5
       comm_mcmc 43
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.61540bd618ca9p+1, 0x1.055689ef69aap+3"
+      pos_sfdp_mcmc "0x1.4fae8dd296c96p+3, -0x1.305baaab71283p+2"
    ]
    node [
       id 1083
@@ -7588,6 +9754,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.27f4b2fbc1da2p+2, 0x1.4f3267198ad4ep+2"
+      pos_sfdp_mcmc "0x1.44aa83066e50fp+3, -0x1.5c6ea9731a053p+0"
    ]
    node [
       id 1084
@@ -7595,6 +9763,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.4df7f14ca9199p+1, 0x1.c32af64c6e8f9p+2"
+      pos_sfdp_mcmc "0x1.744d093c553fcp+3, -0x1.438efed805f7p+2"
    ]
    node [
       id 1085
@@ -7602,6 +9772,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.835abcb5074ecp+1, 0x1.b2712479e4a79p+2"
+      pos_sfdp_mcmc "0x1.0685469fe5382p+3, -0x1.39925e3faca9ap+2"
    ]
    node [
       id 1086
@@ -7609,6 +9781,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.050756fe95facp+2, 0x1.0664c70e064b3p+3"
+      pos_sfdp_mcmc "0x1.3f51d359b7aebp+3, -0x1.7baed14eb01d3p+2"
    ]
    node [
       id 1087
@@ -7616,6 +9790,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0da4cd47ed4cep+2, 0x1.00683a80eb423p+3"
+      pos_sfdp_mcmc "0x1.31726484b4969p+3, -0x1.95c54e98a0cap+2"
    ]
    node [
       id 1088
@@ -7623,6 +9799,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.e754227511693p+1, 0x1.f5587e56d2aabp+2"
+      pos_sfdp_mcmc "0x1.3a00beee840bdp+3, -0x1.722a994609d06p+2"
    ]
    node [
       id 1089
@@ -7630,6 +9808,8 @@ graph [
       comm_infomap 24
       comm_mcmc 22
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.398d4042ac8e8p+3, 0x1.41a77fa598b84p+2"
+      pos_sfdp_mcmc "0x1.d3a8acf0669c7p+1, -0x1.7e503f120cf57p+3"
    ]
    node [
       id 1090
@@ -7637,6 +9817,8 @@ graph [
       comm_infomap 63
       comm_mcmc 7
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.33499308fecbep+4, 0x1.23cdb18ad3668p+4"
+      pos_sfdp_mcmc "-0x1.6a4e5ad7926b2p+3, -0x1.7a51784a85ba7p+4"
    ]
    node [
       id 1091
@@ -7644,6 +9826,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.cf8a0780744e7p+2, 0x1.e4f1eeb71815cp+2"
+      pos_sfdp_mcmc "0x1.5b2e3b3d19736p+3, -0x1.2abfc655849dfp+3"
    ]
    node [
       id 1092
@@ -7651,6 +9835,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.9a327865bceecp+2, 0x1.b8e8bc4574315p+2"
+      pos_sfdp_mcmc "0x1.3e963ea1e6233p+3, -0x1.1976752376ee9p+3"
    ]
    node [
       id 1093
@@ -7658,6 +9844,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
+      pos_sfdp_infomap "0x1.31fef34e8c0e7p-3, 0x1.8c71a7e47b78cp+3"
+      pos_sfdp_mcmc "0x1.6ff449d89da6fp+2, -0x1.1d8d0aa575523p+3"
    ]
    node [
       id 1094
@@ -7665,6 +9853,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.0dfcf6dfebeap+3, 0x1.5cd8587613ed2p+3"
+      pos_sfdp_mcmc "0x1.cd1272634e48fp+3, -0x1.3bd470250d7cdp+3"
    ]
    node [
       id 1095
@@ -7672,6 +9862,8 @@ graph [
       comm_infomap 40
       comm_mcmc 27
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.8446c91f33c5fp+2, 0x1.0c3c2d8b88e6cp+3"
+      pos_sfdp_mcmc "0x1.740c502da62b9p+3, -0x1.27632c5c753b2p+2"
    ]
    node [
       id 1096
@@ -7679,6 +9871,8 @@ graph [
       comm_infomap 51
       comm_mcmc 26
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.a7896d6938cc3p+2, 0x1.375c9d1008e45p+3"
+      pos_sfdp_mcmc "0x1.8beb991dee0eap+3, -0x1.127a5b4f4754bp+3"
    ]
    node [
       id 1097
@@ -7686,6 +9880,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.20d412b113597p+1, 0x1.18339f2967105p+3"
+      pos_sfdp_mcmc "0x1.5f70a0fd0e003p+3, -0x1.101f345b3c8a5p+2"
    ]
    node [
       id 1098
@@ -7693,6 +9889,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.4725c57257d7cp+1, 0x1.0f352d6b6818ep+3"
+      pos_sfdp_mcmc "0x1.57358eec9aef7p+3, -0x1.22a837c6a5b6ep+2"
    ]
    node [
       id 1099
@@ -7700,6 +9898,8 @@ graph [
       comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.57e65409d57cbp+1, 0x1.ef31eab486558p+2"
+      pos_sfdp_mcmc "0x1.3aa08f073a48ap+3, -0x1.1e11d04665515p+2"
    ]
    node [
       id 1100
@@ -7707,6 +9907,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.b7fe1107c6521p+1, 0x1.e7c059fc85052p+2"
+      pos_sfdp_mcmc "0x1.2925d81436c42p+3, -0x1.5808eb3228c7ep+2"
    ]
    node [
       id 1101
@@ -7714,6 +9916,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.472460abfe985p+3, 0x1.bcd2953aac72ap+2"
+      pos_sfdp_mcmc "0x1.a5a337eba166dp+3, -0x1.95548e9a10f18p+3"
    ]
    node [
       id 1102
@@ -7721,6 +9925,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
+      pos_sfdp_infomap "-0x1.fb9c3cf99574cp+1, 0x1.f3ae28207da3dp+2"
+      pos_sfdp_mcmc "0x1.2f528462ad033p+3, -0x1.7f256469588ecp+2"
    ]
    node [
       id 1103
@@ -7728,6 +9934,8 @@ graph [
       comm_infomap 71
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.127681a9ed454p+3, -0x1.1fdbc7d616e29p+4"
+      pos_sfdp_mcmc "0x1.17040e3d6cf11p+4, -0x1.af21a0b11e434p+4"
    ]
    node [
       id 1104
@@ -7735,6 +9943,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2b9ebd24fe74dp+2, 0x1.06b23ca76da0ap+3"
+      pos_sfdp_mcmc "0x1.3d71acce60981p+3, -0x1.ad18a110d3b98p+2"
    ]
    node [
       id 1105
@@ -7742,6 +9952,8 @@ graph [
       comm_infomap 104
       comm_mcmc 6
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.a11910ae2533p+4, 0x1.d3fa47dd45108p+2"
+      pos_sfdp_mcmc "0x1.26c0d7b8e8513p+4, -0x1.d9ec95ea9c336p+4"
    ]
    node [
       id 1106
@@ -7749,6 +9961,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0552f9fe64eb9p+2, 0x1.d411d7e51cb4ap+2"
+      pos_sfdp_mcmc "0x1.240d310cda9adp+3, -0x1.691dcdb8f42dap+2"
    ]
    node [
       id 1107
@@ -7756,6 +9970,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.193e2fc4aefb9p+2, 0x1.e33f45ec47793p+2"
+      pos_sfdp_mcmc "0x1.215eb578ae876p+3, -0x1.7a20b66c33ef9p+2"
    ]
    node [
       id 1108
@@ -7763,6 +9979,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.d210fc10e5893p+1, 0x1.f112060aa9cb3p+2"
+      pos_sfdp_mcmc "0x1.268a0e5929417p+3, -0x1.74d0506c95ff3p+2"
    ]
    node [
       id 1109
@@ -7770,6 +9988,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.bf4c7c389cdb9p+2, 0x1.0b9f3448aaeaap+3"
+      pos_sfdp_mcmc "0x1.86447f83fc25fp+3, -0x1.3bc221d85360fp+2"
    ]
    node [
       id 1110
@@ -7777,6 +9997,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0724980c9b0a3p+2, 0x1.fa5218d724a18p+2"
+      pos_sfdp_mcmc "0x1.310fd7b3a8f9bp+3, -0x1.8a5dce5946d9ep+2"
    ]
    node [
       id 1111
@@ -7784,6 +10006,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.af3881e991a1dp+1, 0x1.7399e00309b7dp+2"
+      pos_sfdp_mcmc "0x1.25885e77a00c3p+3, -0x1.bf539571b0311p+1"
    ]
    node [
       id 1112
@@ -7791,6 +10015,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.9a7025ff30eabp+2, 0x1.31994cf5dc731p+2"
+      pos_sfdp_mcmc "0x1.5bcf431e5e3a2p+3, 0x1.20f88652b6843p+0"
    ]
    node [
       id 1113
@@ -7798,6 +10024,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.abcdd6f454f73p+2, 0x1.2160395ceb944p+2"
+      pos_sfdp_mcmc "0x1.6de14e08cf2dap+3, 0x1.19d772a8cc635p+0"
    ]
    node [
       id 1114
@@ -7805,6 +10033,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.64c47cba0b661p+0, 0x1.1e5490d5be855p+3"
+      pos_sfdp_mcmc "0x1.7a11fe0a799c3p+3, -0x1.c453f2a29012ep+1"
    ]
    node [
       id 1115
@@ -7812,6 +10042,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.e52bdb3cacaccp-1, 0x1.205a3532a0a0ap+3"
+      pos_sfdp_mcmc "0x1.8a5e2ae823e41p+3, -0x1.aa9684c586a96p+1"
    ]
    node [
       id 1116
@@ -7819,6 +10051,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.a4d01ad8144f1p+1, 0x1.f973cbb01c919p+2"
+      pos_sfdp_mcmc "0x1.410e649ba5adbp+3, -0x1.4cb6d9d958f4cp+2"
    ]
    node [
       id 1117
@@ -7826,6 +10060,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.67575ed8382e6p+1, 0x1.70f1c74a7ab1ep+2"
+      pos_sfdp_mcmc "0x1.f10c06b679adep+2, -0x1.0492e07a2fefp+2"
    ]
    node [
       id 1118
@@ -7833,6 +10069,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.06c209377aaecp+2, 0x1.1edd501e72214p+3"
+      pos_sfdp_mcmc "0x1.54b31f2e32c18p+3, -0x1.9870e19b45c76p+2"
    ]
    node [
       id 1119
@@ -7840,6 +10078,8 @@ graph [
       comm_infomap 42
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.1bb631bf2d8c3p+1, 0x1.92a8a6d5e188bp+2"
+      pos_sfdp_mcmc "0x1.26f7c59292c73p+3, -0x1.8d31d4948a135p+1"
    ]
    node [
       id 1120
@@ -7847,6 +10087,8 @@ graph [
       comm_infomap 28
       comm_mcmc 43
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.12a26685eaec3p+2, 0x1.1b383ebb1f876p+3"
+      pos_sfdp_mcmc "0x1.49a47efd9d73cp+3, -0x1.1ded6e0df1fa8p+2"
    ]
    node [
       id 1121
@@ -7854,6 +10096,8 @@ graph [
       comm_infomap 16
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.54b49f3140afp+2, 0x1.f196ac17a4a6bp+1"
+      pos_sfdp_mcmc "0x1.e5e57b50d6ad8p+2, -0x1.0099663b5c5c1p-1"
    ]
    node [
       id 1122
@@ -7861,6 +10105,8 @@ graph [
       comm_infomap 103
       comm_mcmc 6
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.f1ad7b54ec14fp+3, -0x1.04fa8131aefe4p+3"
+      pos_sfdp_mcmc "-0x1.5109ec370d9aap+4, 0x1.b161359035642p+2"
    ]
    node [
       id 1123
@@ -7868,6 +10114,8 @@ graph [
       comm_infomap 40
       comm_mcmc 14
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.de06867e54933p+2, 0x1.18e9a3227a142p+3"
+      pos_sfdp_mcmc "0x1.a0a2d42088fb5p+3, -0x1.1eb8df0f37013p+2"
    ]
    node [
       id 1124
@@ -7875,6 +10123,8 @@ graph [
       comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2761faf989ee1p+2, 0x1.7e83769de2555p+2"
+      pos_sfdp_mcmc "0x1.91d262d6151f9p+3, -0x1.9c026f6a4e465p+0"
    ]
    node [
       id 1125
@@ -7882,6 +10132,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.e289363b8c309p+1, 0x1.11a2d2edce94ap+3"
+      pos_sfdp_mcmc "0x1.4a557aabfdf2dp+3, -0x1.b0a4f4e1b1166p+2"
    ]
    node [
       id 1126
@@ -7889,6 +10141,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2d6e4d4877d4dp+3, 0x1.0f8a8cf6fc387p+3"
+      pos_sfdp_mcmc "0x1.b8764e57bae5fp+2, -0x1.88426944c7c63p+3"
    ]
    node [
       id 1127
@@ -7896,6 +10150,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.3ff4feb6b5daap+3, 0x1.156ea794e7ef3p+3"
+      pos_sfdp_mcmc "0x1.cc4c3cdb6fbdcp+2, -0x1.a2c2ff270b536p+3"
    ]
    node [
       id 1128
@@ -7903,6 +10159,8 @@ graph [
       comm_infomap 22
       comm_mcmc 15
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.12ebf757139edp+3, 0x1.b8bd3540c8308p+2"
+      pos_sfdp_mcmc "0x1.79dc95fa57154p+3, -0x1.5aa82934daf7ep+3"
    ]
    node [
       id 1129
@@ -7910,6 +10168,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.f943de7b86f2dp+1, 0x1.04ac9593cc337p+3"
+      pos_sfdp_mcmc "0x1.4004cdec4409dp+3, -0x1.890428f28696ep+2"
    ]
    node [
       id 1130
@@ -7917,6 +10177,8 @@ graph [
       comm_infomap 96
       comm_mcmc 8
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.1d068941421d9p+1, 0x1.77ff89ba2ac59p+3"
+      pos_sfdp_mcmc "0x1.cd1a2a5801a4bp+3, -0x1.5036b37320babp+2"
    ]
    node [
       id 1131
@@ -7924,6 +10186,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.15e304ebf87e1p+1, 0x1.b06f2b6a03913p+2"
+      pos_sfdp_mcmc "0x1.aa87ac2136019p+2, -0x1.b3d0fc7193d3cp+2"
    ]
    node [
       id 1132
@@ -7931,6 +10195,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.c475cded09bcap+1, 0x1.259f0ace164dbp+3"
+      pos_sfdp_mcmc "0x1.672f4293f8ce1p+3, -0x1.928dc8e49784ep+2"
    ]
    node [
       id 1133
@@ -7938,6 +10204,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.825c74d5680ccp+1, 0x1.f855171fb0529p+2"
+      pos_sfdp_mcmc "0x1.3eda827746759p+3, -0x1.3afffde76f932p+2"
    ]
    node [
       id 1134
@@ -7945,6 +10213,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.e71fd62968ffcp+1, 0x1.1839360f272cap+3"
+      pos_sfdp_mcmc "0x1.505aef6efaf2fp+3, -0x1.a2668faae8ae5p+2"
    ]
    node [
       id 1135
@@ -7952,6 +10222,8 @@ graph [
       comm_infomap 18
       comm_mcmc 29
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.b871a8fe8139ap+1, 0x1.56b8ac3dd56f8p+3"
+      pos_sfdp_mcmc "0x1.8b42a69da192p+3, -0x1.ec4333e37b03fp+2"
    ]
    node [
       id 1136
@@ -7959,6 +10231,8 @@ graph [
       comm_infomap 95
       comm_mcmc 23
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.6361efa18791ap+1, 0x1.7bd3419de51eap+3"
+      pos_sfdp_mcmc "0x1.cd6ed3bb6d72fp+3, -0x1.70f732b34ebbdp+2"
    ]
    node [
       id 1137
@@ -7966,6 +10240,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.f5245e1c474a2p+1, 0x1.0c2744e79a12p+3"
+      pos_sfdp_mcmc "0x1.442fc71b6196fp+3, -0x1.81df82cd2dc63p+2"
    ]
    node [
       id 1138
@@ -7973,6 +10249,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0d0f0cf366806p+2, 0x1.71eaf4298646ep+2"
+      pos_sfdp_mcmc "0x1.f49be9082ccafp+2, -0x1.290e353e5636p+2"
    ]
    node [
       id 1139
@@ -7980,6 +10258,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.5bb86ac87786ap+2, 0x1.e97b41a760b9ap+2"
+      pos_sfdp_mcmc "0x1.156c28fbf49c3p+3, -0x1.cd99ee9dee6bbp+2"
    ]
    node [
       id 1140
@@ -7987,6 +10267,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.594c3bc4f7448p-2, 0x1.5429dfb60c659p+3"
+      pos_sfdp_mcmc "0x1.a493f16b27357p+2, -0x1.1ad12e7c0846ep+3"
    ]
    node [
       id 1141
@@ -7994,6 +10276,8 @@ graph [
       comm_infomap 96
       comm_mcmc 8
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0daf2b88ef61fp+1, 0x1.69bc242387928p+3"
+      pos_sfdp_mcmc "0x1.be93c8db9cdb3p+3, -0x1.5274f8233a83bp+2"
    ]
    node [
       id 1142
@@ -8001,6 +10285,8 @@ graph [
       comm_infomap 73
       comm_mcmc 14
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.852d08ce814ddp+3, -0x1.ae792648619a5p+3"
+      pos_sfdp_mcmc "0x1.b42c013ab317cp+4, 0x1.7f8601071dd38p+2"
    ]
    node [
       id 1143
@@ -8008,6 +10294,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.b4ca6b77238eep+0, 0x1.e18df5fe24befp+2"
+      pos_sfdp_mcmc "0x1.3f6a2e869a07p+3, -0x1.a7e78a271d258p+1"
    ]
    node [
       id 1144
@@ -8015,6 +10303,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.dfecbd37d83bep+1, 0x1.d6fd1868342bep+2"
+      pos_sfdp_mcmc "0x1.35f1051e2ce82p+3, -0x1.3fa9cf9434704p+2"
    ]
    node [
       id 1145
@@ -8022,6 +10312,8 @@ graph [
       comm_infomap 17
       comm_mcmc 28
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2d71a2d54a97cp+0, 0x1.4ad7c7d4e28f5p+3"
+      pos_sfdp_mcmc "0x1.c28bc26eeb07p+2, -0x1.02e568a3d9bcbp+3"
    ]
    node [
       id 1146
@@ -8029,6 +10321,8 @@ graph [
       comm_infomap 15
       comm_mcmc 7
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.70615709b65d7p-4, 0x1.ecf6140d9e894p+2"
+      pos_sfdp_mcmc "0x1.5a505423a5fe1p+2, -0x1.01ff19f220b2bp+3"
    ]
    node [
       id 1147
@@ -8036,6 +10330,8 @@ graph [
       comm_infomap 102
       comm_mcmc 6
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.53cb783e72761p+1, -0x1.2e1a46528214ap+4"
+      pos_sfdp_mcmc "0x1.111795b44f713p+4, 0x1.4b2a4a27468a9p+4"
    ]
    node [
       id 1148
@@ -8043,6 +10339,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.180d079a1fda2p+2, 0x1.072b317298e36p+3"
+      pos_sfdp_mcmc "0x1.318a4a710dcffp+3, -0x1.9f45cb12e5e77p+2"
    ]
    node [
       id 1149
@@ -8050,6 +10348,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.e1d795e9ada16p+2, 0x1.0d8d36cb309e1p+3"
+      pos_sfdp_mcmc "0x1.039df9334c645p+3, -0x1.43e53bad895c8p+3"
    ]
    node [
       id 1150
@@ -8057,6 +10357,8 @@ graph [
       comm_infomap 42
       comm_mcmc 40
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.ce62fe156ef0cp+1, 0x1.ad29ffcc8a5ccp+2"
+      pos_sfdp_mcmc "0x1.0b48957e24f52p+3, -0x1.5b6172fb00ab8p+2"
    ]
    node [
       id 1151
@@ -8064,6 +10366,8 @@ graph [
       comm_infomap 62
       comm_mcmc 13
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.ec44dcf18cdefp+3, -0x1.704f14bd3d857p+2"
+      pos_sfdp_mcmc "-0x1.8f1f0aadcbc65p+3, 0x1.8879fcc1bf5c5p+3"
    ]
    node [
       id 1152
@@ -8071,6 +10375,8 @@ graph [
       comm_infomap 62
       comm_mcmc 13
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.f5c6fa2e1ed3ap+3, -0x1.4a4821e67d67ep+2"
+      pos_sfdp_mcmc "-0x1.82d519038543cp+3, 0x1.9d84ee77c37fap+3"
    ]
    node [
       id 1153
@@ -8078,6 +10384,8 @@ graph [
       comm_infomap 62
       comm_mcmc 13
       date "18-8-2016"
+      pos_sfdp_infomap "0x1.00c1182a97ebdp+4, -0x1.6d6995cb6cffdp+2"
+      pos_sfdp_mcmc "-0x1.9b1de3b38d7aep+3, 0x1.9d73bbe87f13fp+3"
    ]
    node [
       id 1154
@@ -8085,6 +10393,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.165b42c9c76fdp+1, 0x1.0165c357a4d1p+3"
+      pos_sfdp_mcmc "0x1.4ccdf0986ccd7p+3, -0x1.01e8d1945e99dp+2"
    ]
    node [
       id 1155
@@ -8092,6 +10402,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.281db1222f129p+1, 0x1.f02f688707dbcp+2"
+      pos_sfdp_mcmc "0x1.42fab20fa8a91p+3, -0x1.03938b086cf73p+2"
    ]
    node [
       id 1156
@@ -8099,6 +10411,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.a225786de1168p+1, 0x1.06bbfb4605fa5p+3"
+      pos_sfdp_mcmc "0x1.49fa90e439c6cp+3, -0x1.5a05a7f4a465cp+2"
    ]
    node [
       id 1157
@@ -8106,6 +10420,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.44805dae7fc1fp+2, 0x1.bd0fde8d7be8dp+2"
+      pos_sfdp_mcmc "0x1.0119622828bdcp+3, -0x1.ba87808623707p+2"
    ]
    node [
       id 1158
@@ -8113,6 +10429,8 @@ graph [
       comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.27723a6bf1e8ep+3, 0x1.292ffeec459bfp+3"
+      pos_sfdp_mcmc "0x1.df8662cb7483fp+2, -0x1.8cdaa27c95968p+3"
    ]
    node [
       id 1159
@@ -8120,6 +10438,8 @@ graph [
       comm_infomap 43
       comm_mcmc 20
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.ec0c472d5ed79p+2, 0x1.5c2b7e0e57d32p+2"
+      pos_sfdp_mcmc "0x1.8b94eaad8ccabp+2, -0x1.2a447208cb8dep+3"
    ]
    node [
       id 1160
@@ -8127,6 +10447,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2384e9013fe2p+2, 0x1.34b2eb7edf5ep+3"
+      pos_sfdp_mcmc "0x1.718bfbd880d34p+3, -0x1.a3f5db8d6bfaep+2"
    ]
    node [
       id 1161
@@ -8134,6 +10456,8 @@ graph [
       comm_infomap 0
       comm_mcmc 38
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2d484aac2c4dbp+2, 0x1.4f51a2a89837dp+3"
+      pos_sfdp_mcmc "0x1.7f4cd8f293b6dp+3, -0x1.1ed48c2a433ebp+3"
    ]
    node [
       id 1162
@@ -8141,6 +10465,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.307e7b287167ep+0, 0x1.1318f57ec2bp+3"
+      pos_sfdp_mcmc "0x1.85426c792da9fp+3, -0x1.e935bdae1e06fp+1"
    ]
    node [
       id 1163
@@ -8148,6 +10474,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.16c1f772c2d96p+2, 0x1.1345690d27085p+3"
+      pos_sfdp_mcmc "0x1.487f8dd6f772cp+3, -0x1.9c01044b5606ep+2"
    ]
    node [
       id 1164
@@ -8155,6 +10483,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.35e4d40c00ec1p+2, 0x1.13214ce446e8bp+3"
+      pos_sfdp_mcmc "0x1.59aa7d2e81d16p+3, -0x1.8e42f9a88a58bp+2"
    ]
    node [
       id 1165
@@ -8162,6 +10492,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.12d793e3e539fp+2, 0x1.03b928eebdb5cp+3"
+      pos_sfdp_mcmc "0x1.23b4267770029p+3, -0x1.86eea61864099p+2"
    ]
    node [
       id 1166
@@ -8169,6 +10501,8 @@ graph [
       comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.c73ad16911552p+1, 0x1.dbad9a403f8d7p+2"
+      pos_sfdp_mcmc "0x1.3306ab12739bbp+3, -0x1.4f5cc1f2cb52p+2"
    ]
    node [
       id 1167
@@ -8176,6 +10510,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.1c3710eb80ca7p+2, 0x1.0c4d9beedf233p+3"
+      pos_sfdp_mcmc "0x1.4920fb9ffd39ap+3, -0x1.8516e59847fbfp+2"
    ]
    node [
       id 1168
@@ -8183,6 +10519,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.1f1fc9ef0fbcfp+2, 0x1.0318e34735ff2p+3"
+      pos_sfdp_mcmc "0x1.2b36a7c21bab5p+3, -0x1.9d219b21d4b1fp+2"
    ]
    node [
       id 1169
@@ -8190,6 +10528,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0ad6638e2502bp+2, 0x1.15195dc14619cp+3"
+      pos_sfdp_mcmc "0x1.33740d42c77e3p+3, -0x1.64f82e9fcf728p+2"
    ]
    node [
       id 1170
@@ -8197,6 +10537,8 @@ graph [
       comm_infomap 12
       comm_mcmc 32
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.7044211aaecd6p+0, 0x1.b6c0cb0b40658p+2"
+      pos_sfdp_mcmc "0x1.30acb1c979eeep+3, -0x1.642a323b47fc7p+1"
    ]
    node [
       id 1171
@@ -8204,6 +10546,8 @@ graph [
       comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.10f6b81bc2de8p+1, 0x1.0a04969662dbep+3"
+      pos_sfdp_mcmc "0x1.67b4c87eb42f2p+3, -0x1.1a10987027aeap+2"
    ]
    node [
       id 1172
@@ -8211,6 +10555,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.e901537c124c2p+1, 0x1.01cef51176d9dp+3"
+      pos_sfdp_mcmc "0x1.385cb08a7d20ep+3, -0x1.699cbf16f5f41p+2"
    ]
    node [
       id 1173
@@ -8218,6 +10564,8 @@ graph [
       comm_infomap 61
       comm_mcmc 27
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.6036506cfdfcep+3, -0x1.03181eec8f60fp+4"
+      pos_sfdp_mcmc "0x1.202e18fe0ec0cp+4, 0x1.ea844d0eba7b2p+3"
    ]
    node [
       id 1174
@@ -8225,6 +10573,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2c43b66a66b66p+2, 0x1.1778392cf0c4cp+3"
+      pos_sfdp_mcmc "0x1.57b7cc7630294p+3, -0x1.825536b16c8bbp+2"
    ]
    node [
       id 1175
@@ -8232,6 +10582,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.dc2a9ab2c53dap+1, 0x1.0b2a222bed9f1p+3"
+      pos_sfdp_mcmc "0x1.455c78065ae6ap+3, -0x1.744bf4b2c0a3bp+2"
    ]
    node [
       id 1176
@@ -8239,6 +10591,8 @@ graph [
       comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.b52b7b795d8a3p+1, 0x1.08ead0d558855p+3"
+      pos_sfdp_mcmc "0x1.3c0950ec65f86p+3, -0x1.57a260bacd084p+2"
    ]
    node [
       id 1177
@@ -8246,6 +10600,8 @@ graph [
       comm_infomap 3
       comm_mcmc 35
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.2abd9178201fep-1, 0x1.f982dee9c9041p+2"
+      pos_sfdp_mcmc "0x1.638d9ceb04365p+3, -0x1.1821047e74018p+1"
    ]
    node [
       id 1178
@@ -8253,6 +10609,8 @@ graph [
       comm_infomap 10
       comm_mcmc 10
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0a649ae13027p+3, 0x1.4074a38e25c48p+3"
+      pos_sfdp_mcmc "0x1.088e05f95d33p+3, -0x1.845abdd43ffbdp+3"
    ]
    node [
       id 1179
@@ -8260,6 +10618,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.28ef2bbf77601p+2, 0x1.0195bef677b64p+3"
+      pos_sfdp_mcmc "0x1.4265bebb22da5p+3, -0x1.b00558f71da16p+2"
    ]
    node [
       id 1180
@@ -8267,6 +10627,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.fb5d205ef34a6p+1, 0x1.fcbeaaf8e0388p+2"
+      pos_sfdp_mcmc "0x1.2c26e2fe0375p+3, -0x1.75182237ae732p+2"
    ]
    node [
       id 1181
@@ -8274,6 +10636,8 @@ graph [
       comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.112ee1953825ep+2, 0x1.ebd540b03c2bep+2"
+      pos_sfdp_mcmc "0x1.2be3b50a83253p+3, -0x1.8749dd74ecd1bp+2"
    ]
    node [
       id 1182
@@ -8281,6 +10645,8 @@ graph [
       comm_infomap 4
       comm_mcmc 30
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.ec3a02a2e84e5p+2, -0x1.9cba613c9558bp+1"
+      pos_sfdp_mcmc "-0x1.6821bc558403ap+2, -0x1.830f1452c235bp+1"
    ]
    node [
       id 1183
@@ -8288,6 +10654,8 @@ graph [
       comm_infomap 0
       comm_mcmc 42
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0122754581d0dp+2, 0x1.ad3b09a5128b9p+2"
+      pos_sfdp_mcmc "0x1.1624d72f27217p+3, -0x1.4cc449c2163afp+2"
    ]
    node [
       id 1184
@@ -8295,6 +10663,8 @@ graph [
       comm_infomap 44
       comm_mcmc 33
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.f562b77fbfd91p+1, 0x1.6ad0602dd2d2ap+2"
+      pos_sfdp_mcmc "0x1.e51f8cbefd6bfp+2, -0x1.39cb2f3b04624p+2"
    ]
    node [
       id 1185
@@ -8302,6 +10672,8 @@ graph [
       comm_infomap 27
       comm_mcmc 12
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.7cb3ccf103dc3p+3, 0x1.b413affdf458ep+2"
+      pos_sfdp_mcmc "0x1.13625fabfc45fp+2, -0x1.c0eb6d9c52c79p+3"
    ]
    node [
       id 1186
@@ -8309,6 +10681,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.ea7d905b2e8e8p+1, 0x1.ec443fe39c009p+2"
+      pos_sfdp_mcmc "0x1.3169b92557da2p+3, -0x1.6fb5e5042016cp+2"
    ]
    node [
       id 1187
@@ -8316,6 +10690,8 @@ graph [
       comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.0c2eff6187cf2p+2, 0x1.388a77aae8b98p+3"
+      pos_sfdp_mcmc "0x1.73d4612b6b4e3p+3, -0x1.83c4b6fc6283dp+2"
    ]
    node [
       id 1188
@@ -8323,6 +10699,8 @@ graph [
       comm_infomap 0
       comm_mcmc 43
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.6cb18dee204dbp+1, 0x1.3459d2dc9dc54p+3"
+      pos_sfdp_mcmc "0x1.7e779dc22266bp+3, -0x1.97317435b43f6p+2"
    ]
    node [
       id 1189
@@ -8330,6 +10708,8 @@ graph [
       comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
+      pos_sfdp_infomap "-0x1.e8b083ef726b7p+1, 0x1.0798247d8d3ccp+3"
+      pos_sfdp_mcmc "0x1.452006ec37642p+3, -0x1.8f193f52166adp+2"
    ]
    edge [
       id 0
