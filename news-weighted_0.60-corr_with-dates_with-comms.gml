@@ -4,7140 +4,8330 @@ graph [
    node [
       id 0
       clustering 0.943723
+      comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
    ]
    node [
       id 1
       clustering 0.889328
+      comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
    ]
    node [
       id 2
       clustering 0.612825
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 3
       clustering 0.653378
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 4
       clustering 0.578531
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 5
       clustering 0.688889
+      comm_infomap 31
       comm_mcmc 2
       date "5-8-2016"
    ]
    node [
       id 6
       clustering 0.608187
+      comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 7
       clustering 0.727395
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 8
       clustering 0.711111
+      comm_infomap 31
       comm_mcmc 2
       date "5-8-2016"
    ]
    node [
       id 9
       clustering 0.428571
+      comm_infomap 21
       comm_mcmc 2
       date "5-8-2016"
    ]
    node [
       id 10
       clustering 0.390877
+      comm_infomap 1
       comm_mcmc 5
       date "5-8-2016"
    ]
    node [
       id 11
       clustering 0.610294
+      comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 12
       clustering 0.461538
+      comm_infomap 20
       comm_mcmc 7
       date "5-8-2016"
    ]
    node [
       id 13
       clustering 0.777778
+      comm_infomap 15
       comm_mcmc 7
       date "5-8-2016"
    ]
    node [
       id 14
       clustering 0.363475
+      comm_infomap 1
       comm_mcmc 5
       date "5-8-2016"
    ]
    node [
       id 15
       clustering 0.333333
+      comm_infomap 25
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 16
       clustering 0.333333
+      comm_infomap 25
       comm_mcmc 9
       date "5-8-2016"
    ]
    node [
       id 17
       clustering 0.42328
+      comm_infomap 1
       comm_mcmc 9
       date "5-8-2016"
    ]
    node [
       id 18
       clustering 0.733333
+      comm_infomap 37
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 19
       clustering 0.461538
+      comm_infomap 12
       comm_mcmc 9
       date "5-8-2016"
    ]
    node [
       id 20
       clustering 1
+      comm_infomap 12
       comm_mcmc 9
       date "5-8-2016"
    ]
    node [
       id 21
       clustering 0.961905
+      comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
    ]
    node [
       id 22
       clustering 0.607143
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 23
       clustering 0.468671
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 24
       clustering 0.57505
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 25
       clustering 0.682874
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 26
       clustering 0.612338
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 27
       clustering 0.522523
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 28
       clustering 0.428571
+      comm_infomap 8
       comm_mcmc 10
       date "5-8-2016"
    ]
    node [
       id 29
       clustering 0.590476
+      comm_infomap 31
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 30
       clustering 0.668615
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 31
       clustering 0.711916
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 32
       clustering 0.615385
+      comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
    ]
    node [
       id 33
       clustering 0
+      comm_infomap 183
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 34
       clustering 0.527778
+      comm_infomap 36
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 35
       clustering 0.733333
+      comm_infomap 37
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 36
       clustering 0.388889
+      comm_infomap 32
       comm_mcmc 12
       date "5-8-2016"
    ]
    node [
       id 37
       clustering 0.607143
+      comm_infomap 6
       comm_mcmc 13
       date "5-8-2016"
    ]
    node [
       id 38
       clustering 0.5
+      comm_infomap 88
       comm_mcmc 14
       date "5-8-2016"
    ]
    node [
       id 39
       clustering 0.522876
+      comm_infomap 1
       comm_mcmc 9
       date "5-8-2016"
    ]
    node [
       id 40
       clustering 0.4
+      comm_infomap 57
       comm_mcmc 15
       date "5-8-2016"
    ]
    node [
       id 41
       clustering 0.552892
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 42
       clustering 0.5
+      comm_infomap 10
       comm_mcmc 10
       date "5-8-2016"
    ]
    node [
       id 43
       clustering 0.638961
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 44
       clustering 0.44
+      comm_infomap 2
       comm_mcmc 16
       date "5-8-2016"
    ]
    node [
       id 45
       clustering 0.399194
+      comm_infomap 6
       comm_mcmc 13
       date "5-8-2016"
    ]
    node [
       id 46
       clustering 0
+      comm_infomap 100
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 47
       clustering 0.904762
+      comm_infomap 15
       comm_mcmc 7
       date "5-8-2016"
    ]
    node [
       id 48
       clustering 0.722617
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 49
       clustering 0.377897
+      comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 50
       clustering 0.72381
+      comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 51
       clustering 0.6
+      comm_infomap 16
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 52
       clustering 0
+      comm_infomap 185
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 53
       clustering 0.4
+      comm_infomap 88
       comm_mcmc 14
       date "5-8-2016"
    ]
    node [
       id 54
       clustering 0.610101
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 55
       clustering 0.612589
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 56
       clustering 0.5
+      comm_infomap 16
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 57
       clustering 0.666667
+      comm_infomap 57
       comm_mcmc 15
       date "5-8-2016"
    ]
    node [
       id 58
       clustering 0.575886
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 59
       clustering 1
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 60
       clustering 0.557746
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 61
       clustering 0
+      comm_infomap 184
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 62
       clustering 0.4
+      comm_infomap 22
       comm_mcmc 15
       date "5-8-2016"
    ]
    node [
       id 63
       clustering 0.417094
+      comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
    ]
    node [
       id 64
       clustering 0.697143
+      comm_infomap 1
       comm_mcmc 18
       date "5-8-2016"
    ]
    node [
       id 65
       clustering 0.369901
+      comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
    ]
    node [
       id 66
       clustering 0.883117
+      comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
    ]
    node [
       id 67
       clustering 0.598291
+      comm_infomap 1
       comm_mcmc 0
       date "5-8-2016"
    ]
    node [
       id 68
       clustering 0.626374
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 69
       clustering 0.8
+      comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 70
       clustering 0.527778
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 71
       clustering 0.491787
+      comm_infomap 1
       comm_mcmc 1
       date "5-8-2016"
    ]
    node [
       id 72
       clustering 0.327795
+      comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
    ]
    node [
       id 73
       clustering 0.952381
+      comm_infomap 31
       comm_mcmc 2
       date "5-8-2016"
    ]
    node [
       id 74
       clustering 0.820565
+      comm_infomap 1
       comm_mcmc 4
       date "5-8-2016"
    ]
    node [
       id 75
       clustering 0.628571
+      comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
    ]
    node [
       id 76
       clustering 0.555556
+      comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
    ]
    node [
       id 77
       clustering 0.610294
+      comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
    ]
    node [
       id 78
       clustering 0.333333
+      comm_infomap 36
       comm_mcmc 8
       date "5-8-2016"
    ]
    node [
       id 79
       clustering 0.5
+      comm_infomap 20
       comm_mcmc 7
       date "5-8-2016"
    ]
    node [
       id 80
       clustering 1
+      comm_infomap 97
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 81
       clustering 0.392857
+      comm_infomap 46
       comm_mcmc 2
       date "5-8-2016"
    ]
    node [
       id 82
       clustering 0.524621
+      comm_infomap 1
       comm_mcmc 17
       date "5-8-2016"
    ]
    node [
       id 83
       clustering 0
+      comm_infomap 88
       comm_mcmc 14
       date "5-8-2016"
    ]
    node [
       id 84
       clustering 0.381818
+      comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 85
       clustering 0.426316
+      comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 86
       clustering 0.69697
+      comm_infomap 9
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 87
       clustering 0.508296
+      comm_infomap 1
       comm_mcmc 19
       date "5-8-2016"
    ]
    node [
       id 88
       clustering 0.502134
+      comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 89
       clustering 0.526316
+      comm_infomap 13
       comm_mcmc 11
       date "5-8-2016"
    ]
    node [
       id 90
       clustering 0
+      comm_infomap 187
       comm_mcmc 6
       date "5-8-2016"
    ]
    node [
       id 91
       clustering 0.6
+      comm_infomap 1
       comm_mcmc 3
       date "5-8-2016"
    ]
    node [
       id 92
       clustering 0.464286
+      comm_infomap 19
       comm_mcmc 20
       date "5-8-2016"
    ]
    node [
       id 93
       clustering 0.669951
+      comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
    ]
    node [
       id 94
       clustering 0.666667
+      comm_infomap 97
       comm_mcmc 4
       date "6-8-2016"
    ]
    node [
       id 95
       clustering 0.520468
+      comm_infomap 21
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 96
       clustering 0.666667
+      comm_infomap 31
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 97
       clustering 1
+      comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 98
       clustering 0
+      comm_infomap 20
       comm_mcmc 7
       date "6-8-2016"
    ]
    node [
       id 99
       clustering 0.321429
+      comm_infomap 46
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 100
       clustering 0.711111
+      comm_infomap 15
       comm_mcmc 7
       date "6-8-2016"
    ]
    node [
       id 101
       clustering 0.503395
+      comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
    ]
    node [
       id 102
       clustering 0.571429
+      comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
    ]
    node [
       id 103
       clustering 0.371036
+      comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
    ]
    node [
       id 104
       clustering 0.41573
+      comm_infomap 1
       comm_mcmc 17
       date "6-8-2016"
    ]
    node [
       id 105
       clustering 0.571429
+      comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 106
       clustering 0.666667
+      comm_infomap 46
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 107
       clustering 0.792173
+      comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
    ]
    node [
       id 108
       clustering 0.69596
+      comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 109
       clustering 0
+      comm_infomap 186
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 110
       clustering 0.517088
+      comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
    ]
    node [
       id 111
       clustering 0.642105
+      comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 112
       clustering 0.6
+      comm_infomap 26
       comm_mcmc 22
       date "6-8-2016"
    ]
    node [
       id 113
       clustering 0
+      comm_infomap 88
       comm_mcmc 14
       date "6-8-2016"
    ]
    node [
       id 114
       clustering 0.537234
+      comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
    ]
    node [
       id 115
       clustering 0.423077
+      comm_infomap 20
       comm_mcmc 7
       date "6-8-2016"
    ]
    node [
       id 116
       clustering 0.6875
+      comm_infomap 1
       comm_mcmc 9
       date "6-8-2016"
    ]
    node [
       id 117
       clustering 0.190476
+      comm_infomap 56
       comm_mcmc 14
       date "6-8-2016"
    ]
    node [
       id 118
       clustering 0.441667
+      comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
    ]
    node [
       id 119
       clustering 1
+      comm_infomap 7
       comm_mcmc 23
       date "6-8-2016"
    ]
    node [
       id 120
       clustering 0.454545
+      comm_infomap 1
       comm_mcmc 9
       date "6-8-2016"
    ]
    node [
       id 121
       clustering 0.574359
+      comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
    ]
    node [
       id 122
       clustering 0.8
+      comm_infomap 34
       comm_mcmc 24
       date "6-8-2016"
    ]
    node [
       id 123
       clustering 0
+      comm_infomap 101
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 124
       clustering 0.551412
+      comm_infomap 1
       comm_mcmc 19
       date "6-8-2016"
    ]
    node [
       id 125
       clustering 0.551412
+      comm_infomap 1
       comm_mcmc 19
       date "6-8-2016"
    ]
    node [
       id 126
       clustering 0.384236
+      comm_infomap 29
       comm_mcmc 5
       date "6-8-2016"
    ]
    node [
       id 127
       clustering 0.651515
+      comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 128
       clustering 0.537549
+      comm_infomap 6
       comm_mcmc 13
       date "6-8-2016"
    ]
    node [
       id 129
       clustering 0.339213
+      comm_infomap 1
       comm_mcmc 5
       date "6-8-2016"
    ]
    node [
       id 130
       clustering 0.320513
+      comm_infomap 46
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 131
       clustering 0.541478
+      comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
    ]
    node [
       id 132
       clustering 0.490028
+      comm_infomap 9
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 133
       clustering 0.8
+      comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 134
       clustering 0.698026
+      comm_infomap 1
       comm_mcmc 4
       date "6-8-2016"
    ]
    node [
       id 135
       clustering 0.654545
+      comm_infomap 31
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 136
       clustering 0
+      comm_infomap 182
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 137
       clustering 0.881423
+      comm_infomap 1
       comm_mcmc 0
       date "6-8-2016"
    ]
    node [
       id 138
       clustering 0.56015
+      comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
    ]
    node [
       id 139
       clustering 0.607143
+      comm_infomap 34
       comm_mcmc 24
       date "6-8-2016"
    ]
    node [
       id 140
       clustering 0.554968
+      comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
    ]
    node [
       id 141
       clustering 0.722222
+      comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
    ]
    node [
       id 142
       clustering 0.571429
+      comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 143
       clustering 0.394928
+      comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 144
       clustering 0.4
+      comm_infomap 43
       comm_mcmc 20
       date "6-8-2016"
    ]
    node [
       id 145
       clustering 0.422222
+      comm_infomap 14
       comm_mcmc 25
       date "6-8-2016"
    ]
    node [
       id 146
       clustering 0.316176
+      comm_infomap 14
       comm_mcmc 25
       date "6-8-2016"
    ]
    node [
       id 147
       clustering 0.569532
+      comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
    ]
    node [
       id 148
       clustering 0.575758
+      comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 149
       clustering 0
+      comm_infomap 181
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 150
       clustering 0.3
+      comm_infomap 19
       comm_mcmc 20
       date "6-8-2016"
    ]
    node [
       id 151
       clustering 0.452632
+      comm_infomap 1
       comm_mcmc 19
       date "6-8-2016"
    ]
    node [
       id 152
       clustering 0.555556
+      comm_infomap 15
       comm_mcmc 7
       date "6-8-2016"
    ]
    node [
       id 153
       clustering 0.422222
+      comm_infomap 21
       comm_mcmc 2
       date "6-8-2016"
    ]
    node [
       id 154
       clustering 1
+      comm_infomap 54
       comm_mcmc 26
       date "6-8-2016"
    ]
    node [
       id 155
       clustering 0
+      comm_infomap 9
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 156
       clustering 0.732194
+      comm_infomap 1
       comm_mcmc 1
       date "6-8-2016"
    ]
    node [
       id 157
       clustering 0.4407
+      comm_infomap 1
       comm_mcmc 17
       date "6-8-2016"
    ]
    node [
       id 158
       clustering 1
+      comm_infomap 49
       comm_mcmc 13
       date "6-8-2016"
    ]
    node [
       id 159
       clustering 0
+      comm_infomap 10
       comm_mcmc 10
       date "6-8-2016"
    ]
    node [
       id 160
       clustering 0.666667
+      comm_infomap 58
       comm_mcmc 14
       date "6-8-2016"
    ]
    node [
       id 161
       clustering 1
+      comm_infomap 25
       comm_mcmc 9
       date "6-8-2016"
    ]
    node [
       id 162
       clustering 0.693182
+      comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 163
       clustering 0.75
+      comm_infomap 29
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 164
       clustering 0.433333
+      comm_infomap 2
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 165
       clustering 0.377193
+      comm_infomap 1
       comm_mcmc 17
       date "6-8-2016"
    ]
    node [
       id 166
       clustering 0.88604
+      comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 167
       clustering 0.54902
+      comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 168
       clustering 0.393939
+      comm_infomap 14
       comm_mcmc 25
       date "6-8-2016"
    ]
    node [
       id 169
       clustering 0.466667
+      comm_infomap 70
       comm_mcmc 9
       date "6-8-2016"
    ]
    node [
       id 170
       clustering 0.537122
+      comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
    ]
    node [
       id 171
       clustering 0.483516
+      comm_infomap 9
       comm_mcmc 6
       date "6-8-2016"
    ]
    node [
       id 172
       clustering 0.49504
+      comm_infomap 1
       comm_mcmc 18
       date "6-8-2016"
    ]
    node [
       id 173
       clustering 0.606061
+      comm_infomap 1
       comm_mcmc 3
       date "6-8-2016"
    ]
    node [
       id 174
       clustering 0.398268
+      comm_infomap 6
       comm_mcmc 21
       date "6-8-2016"
    ]
    node [
       id 175
       clustering 0.805556
+      comm_infomap 15
       comm_mcmc 7
       date "6-8-2016"
    ]
    node [
       id 176
       clustering 0.41522
+      comm_infomap 1
       comm_mcmc 17
       date "7-8-2016"
    ]
    node [
       id 177
       clustering 0
+      comm_infomap 180
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 178
       clustering 0.477941
+      comm_infomap 13
       comm_mcmc 11
       date "7-8-2016"
    ]
    node [
       id 179
       clustering 0.357143
+      comm_infomap 58
       comm_mcmc 14
       date "7-8-2016"
    ]
    node [
       id 180
       clustering 0.4
+      comm_infomap 28
       comm_mcmc 27
       date "7-8-2016"
    ]
    node [
       id 181
       clustering 0.466667
+      comm_infomap 1
       comm_mcmc 18
       date "7-8-2016"
    ]
    node [
       id 182
       clustering 0.666667
+      comm_infomap 91
       comm_mcmc 9
       date "7-8-2016"
    ]
    node [
       id 183
       clustering 0.833333
+      comm_infomap 36
       comm_mcmc 8
       date "7-8-2016"
    ]
    node [
       id 184
       clustering 0
+      comm_infomap 1
       comm_mcmc 24
       date "7-8-2016"
    ]
    node [
       id 185
       clustering 0.577049
+      comm_infomap 1
       comm_mcmc 19
       date "7-8-2016"
    ]
    node [
       id 186
       clustering 0.711111
+      comm_infomap 31
       comm_mcmc 2
       date "7-8-2016"
    ]
    node [
       id 187
       clustering 0.720588
+      comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
    ]
    node [
       id 188
       clustering 0.565217
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 189
       clustering 0.590476
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 190
       clustering 0.8
+      comm_infomap 17
       comm_mcmc 28
       date "7-8-2016"
    ]
    node [
       id 191
       clustering 0
+      comm_infomap 179
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 192
       clustering 0.462708
+      comm_infomap 1
       comm_mcmc 19
       date "7-8-2016"
    ]
    node [
       id 193
       clustering 0.619048
+      comm_infomap 25
       comm_mcmc 8
       date "7-8-2016"
    ]
    node [
       id 194
       clustering 0.619048
+      comm_infomap 25
       comm_mcmc 8
       date "7-8-2016"
    ]
    node [
       id 195
       clustering 0.571429
+      comm_infomap 37
       comm_mcmc 8
       date "7-8-2016"
    ]
    node [
       id 196
       clustering 0.333333
+      comm_infomap 32
       comm_mcmc 12
       date "7-8-2016"
    ]
    node [
       id 197
       clustering 0.5
+      comm_infomap 32
       comm_mcmc 12
       date "7-8-2016"
    ]
    node [
       id 198
       clustering 0.5
+      comm_infomap 55
       comm_mcmc 12
       date "7-8-2016"
    ]
    node [
       id 199
       clustering 0.67619
+      comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
    ]
    node [
       id 200
       clustering 0.510582
+      comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
    ]
    node [
       id 201
       clustering 0.6
+      comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
    ]
    node [
       id 202
       clustering 0.453333
+      comm_infomap 1
       comm_mcmc 5
       date "7-8-2016"
    ]
    node [
       id 203
       clustering 0.752381
+      comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
    ]
    node [
       id 204
       clustering 0.542308
+      comm_infomap 1
       comm_mcmc 5
       date "7-8-2016"
    ]
    node [
       id 205
       clustering 0.582609
+      comm_infomap 1
       comm_mcmc 1
       date "7-8-2016"
    ]
    node [
       id 206
       clustering 0.666667
+      comm_infomap 20
       comm_mcmc 7
       date "7-8-2016"
    ]
    node [
       id 207
       clustering 0.759259
+      comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
    ]
    node [
       id 208
       clustering 0.609195
+      comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
    ]
    node [
       id 209
       clustering 0.694444
+      comm_infomap 10
       comm_mcmc 10
       date "7-8-2016"
    ]
    node [
       id 210
       clustering 0.857143
+      comm_infomap 10
       comm_mcmc 10
       date "7-8-2016"
    ]
    node [
       id 211
       clustering 0.611111
+      comm_infomap 10
       comm_mcmc 10
       date "7-8-2016"
    ]
    node [
       id 212
       clustering 0.464286
+      comm_infomap 21
       comm_mcmc 2
       date "7-8-2016"
    ]
    node [
       id 213
       clustering 1
+      comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
    ]
    node [
       id 214
       clustering 0.467532
+      comm_infomap 13
       comm_mcmc 11
       date "7-8-2016"
    ]
    node [
       id 215
       clustering 0.428571
+      comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 216
       clustering 0.682353
+      comm_infomap 1
       comm_mcmc 18
       date "7-8-2016"
    ]
    node [
       id 217
       clustering 0.577778
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 218
       clustering 0.553846
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 219
       clustering 0.521739
+      comm_infomap 1
       comm_mcmc 3
       date "7-8-2016"
    ]
    node [
       id 220
       clustering 0.510345
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 221
       clustering 0.673684
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 222
       clustering 0.842803
+      comm_infomap 1
       comm_mcmc 3
       date "7-8-2016"
    ]
    node [
       id 223
       clustering 0.641667
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 224
       clustering 0.5
+      comm_infomap 6
       comm_mcmc 13
       date "7-8-2016"
    ]
    node [
       id 225
       clustering 0.714286
+      comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
    ]
    node [
       id 226
       clustering 0.571429
+      comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
    ]
    node [
       id 227
       clustering 0.952381
+      comm_infomap 27
       comm_mcmc 12
       date "7-8-2016"
    ]
    node [
       id 228
       clustering 0
+      comm_infomap 82
       comm_mcmc 14
       date "7-8-2016"
    ]
    node [
       id 229
       clustering 0.666667
+      comm_infomap 56
       comm_mcmc 14
       date "7-8-2016"
    ]
    node [
       id 230
       clustering 0
+      comm_infomap 178
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 231
       clustering 0.486166
+      comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 232
       clustering 0.508065
+      comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 233
       clustering 0.634343
+      comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
    ]
    node [
       id 234
       clustering 0.649895
+      comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
    ]
    node [
       id 235
       clustering 0.733333
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 236
       clustering 0.726316
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 237
       clustering 0.564103
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 238
       clustering 0.710526
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 239
       clustering 0.658009
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 240
       clustering 0.816176
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 241
       clustering 0.450575
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 242
       clustering 0.633987
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 243
       clustering 1
+      comm_infomap 14
       comm_mcmc 25
       date "7-8-2016"
    ]
    node [
       id 244
       clustering 0.805556
+      comm_infomap 15
       comm_mcmc 7
       date "7-8-2016"
    ]
    node [
       id 245
       clustering 1
+      comm_infomap 63
       comm_mcmc 7
       date "7-8-2016"
    ]
    node [
       id 246
       clustering 0
+      comm_infomap 18
       comm_mcmc 29
       date "7-8-2016"
    ]
    node [
       id 247
       clustering 0.512821
+      comm_infomap 9
       comm_mcmc 6
       date "7-8-2016"
    ]
    node [
       id 248
       clustering 0.321429
+      comm_infomap 56
       comm_mcmc 14
       date "7-8-2016"
    ]
    node [
       id 249
       clustering 0.555367
+      comm_infomap 1
       comm_mcmc 4
       date "7-8-2016"
    ]
    node [
       id 250
       clustering 0.483516
+      comm_infomap 20
       comm_mcmc 7
       date "7-8-2016"
    ]
    node [
       id 251
       clustering 0.35
+      comm_infomap 29
       comm_mcmc 21
       date "7-8-2016"
    ]
    node [
       id 252
       clustering 0.480952
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 253
       clustering 0.556923
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 254
       clustering 0.733333
+      comm_infomap 29
       comm_mcmc 21
       date "7-8-2016"
    ]
    node [
       id 255
       clustering 0.352381
+      comm_infomap 13
       comm_mcmc 21
       date "7-8-2016"
    ]
    node [
       id 256
       clustering 0.594737
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 257
       clustering 0.823529
+      comm_infomap 4
       comm_mcmc 30
       date "7-8-2016"
    ]
    node [
       id 258
       clustering 0.797386
+      comm_infomap 2
       comm_mcmc 16
       date "7-8-2016"
    ]
    node [
       id 259
       clustering 0.755556
+      comm_infomap 29
       comm_mcmc 21
       date "7-8-2016"
    ]
    node [
       id 260
       clustering 0.890909
+      comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
    ]
    node [
       id 261
       clustering 0.816667
+      comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
    ]
    node [
       id 262
       clustering 0.69697
+      comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
    ]
    node [
       id 263
       clustering 1
+      comm_infomap 21
       comm_mcmc 2
       date "8-8-2016"
    ]
    node [
       id 264
       clustering 0.727273
+      comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
    ]
    node [
       id 265
       clustering 0.305556
+      comm_infomap 58
       comm_mcmc 14
       date "8-8-2016"
    ]
    node [
       id 266
       clustering 0.8
+      comm_infomap 11
       comm_mcmc 31
       date "8-8-2016"
    ]
    node [
       id 267
       clustering 0.447619
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 268
       clustering 0
+      comm_infomap 177
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 269
       clustering 0.833333
+      comm_infomap 10
       comm_mcmc 10
       date "8-8-2016"
    ]
    node [
       id 270
       clustering 0.678571
+      comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
    ]
    node [
       id 271
       clustering 0.593074
+      comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
    ]
    node [
       id 272
       clustering 0.666667
+      comm_infomap 29
       comm_mcmc 21
       date "8-8-2016"
    ]
    node [
       id 273
       clustering 0.632353
+      comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
    ]
    node [
       id 274
       clustering 0.847619
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 275
       clustering 0
+      comm_infomap 176
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 276
       clustering 1
+      comm_infomap 57
       comm_mcmc 15
       date "8-8-2016"
    ]
    node [
       id 277
       clustering 0.6
+      comm_infomap 12
       comm_mcmc 32
       date "8-8-2016"
    ]
    node [
       id 278
       clustering 0.558824
+      comm_infomap 1
       comm_mcmc 9
       date "8-8-2016"
    ]
    node [
       id 279
       clustering 0.560606
+      comm_infomap 12
       comm_mcmc 9
       date "8-8-2016"
    ]
    node [
       id 280
       clustering 0.493333
+      comm_infomap 1
       comm_mcmc 9
       date "8-8-2016"
    ]
    node [
       id 281
       clustering 0.333333
+      comm_infomap 56
       comm_mcmc 14
       date "8-8-2016"
    ]
    node [
       id 282
       clustering 0.6
+      comm_infomap 58
       comm_mcmc 14
       date "8-8-2016"
    ]
    node [
       id 283
       clustering 0.5
+      comm_infomap 56
       comm_mcmc 14
       date "8-8-2016"
    ]
    node [
       id 284
       clustering 1
+      comm_infomap 9
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 285
       clustering 0.5
+      comm_infomap 55
       comm_mcmc 12
       date "8-8-2016"
    ]
    node [
       id 286
       clustering 0
+      comm_infomap 92
       comm_mcmc 2
       date "8-8-2016"
    ]
    node [
       id 287
       clustering 0.333333
+      comm_infomap 55
       comm_mcmc 12
       date "8-8-2016"
    ]
    node [
       id 288
       clustering 0.6
+      comm_infomap 9
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 289
       clustering 0
+      comm_infomap 175
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 290
       clustering 1
+      comm_infomap 19
       comm_mcmc 20
       date "8-8-2016"
    ]
    node [
       id 291
       clustering 0.7
+      comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
    ]
    node [
       id 292
       clustering 0.454545
+      comm_infomap 10
       comm_mcmc 10
       date "8-8-2016"
    ]
    node [
       id 293
       clustering 0
+      comm_infomap 174
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 294
       clustering 0.607143
+      comm_infomap 20
       comm_mcmc 7
       date "8-8-2016"
    ]
    node [
       id 295
       clustering 0
+      comm_infomap 173
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 296
       clustering 0.714286
+      comm_infomap 15
       comm_mcmc 7
       date "8-8-2016"
    ]
    node [
       id 297
       clustering 0
+      comm_infomap 95
       comm_mcmc 23
       date "8-8-2016"
    ]
    node [
       id 298
       clustering 0.461538
+      comm_infomap 12
       comm_mcmc 32
       date "8-8-2016"
    ]
    node [
       id 299
       clustering 0.555556
+      comm_infomap 12
       comm_mcmc 32
       date "8-8-2016"
    ]
    node [
       id 300
       clustering 0.491667
+      comm_infomap 12
       comm_mcmc 9
       date "8-8-2016"
    ]
    node [
       id 301
       clustering 0.716667
+      comm_infomap 2
       comm_mcmc 16
       date "8-8-2016"
    ]
    node [
       id 302
       clustering 0.809524
+      comm_infomap 19
       comm_mcmc 20
       date "8-8-2016"
    ]
    node [
       id 303
       clustering 0
+      comm_infomap 172
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 304
       clustering 0.823529
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 305
       clustering 0.5
+      comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
    ]
    node [
       id 306
       clustering 0.75
+      comm_infomap 20
       comm_mcmc 7
       date "8-8-2016"
    ]
    node [
       id 307
       clustering 0.52381
+      comm_infomap 9
       comm_mcmc 6
       date "8-8-2016"
    ]
    node [
       id 308
       clustering 0.888889
+      comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
    ]
    node [
       id 309
       clustering 0.8
+      comm_infomap 37
       comm_mcmc 8
       date "8-8-2016"
    ]
    node [
       id 310
       clustering 1
+      comm_infomap 53
       comm_mcmc 7
       date "8-8-2016"
    ]
    node [
       id 311
       clustering 0.5
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 312
       clustering 0.571429
+      comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
    ]
    node [
       id 313
       clustering 0.363636
+      comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
    ]
    node [
       id 314
       clustering 0.72549
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 315
       clustering 0.695906
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 316
       clustering 0.666667
+      comm_infomap 57
       comm_mcmc 15
       date "8-8-2016"
    ]
    node [
       id 317
       clustering 1
+      comm_infomap 67
       comm_mcmc 27
       date "8-8-2016"
    ]
    node [
       id 318
       clustering 0.392857
+      comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
    ]
    node [
       id 319
       clustering 1
+      comm_infomap 35
       comm_mcmc 20
       date "8-8-2016"
    ]
    node [
       id 320
       clustering 0.857895
+      comm_infomap 1
       comm_mcmc 4
       date "8-8-2016"
    ]
    node [
       id 321
       clustering 1
+      comm_infomap 66
       comm_mcmc 2
       date "8-8-2016"
    ]
    node [
       id 322
       clustering 0.777778
+      comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
    ]
    node [
       id 323
       clustering 0.761905
+      comm_infomap 20
       comm_mcmc 7
       date "8-8-2016"
    ]
    node [
       id 324
       clustering 0.509804
+      comm_infomap 13
       comm_mcmc 11
       date "8-8-2016"
    ]
    node [
       id 325
       clustering 0
+      comm_infomap 85
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 326
       clustering 0.5
+      comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
    ]
    node [
       id 327
       clustering 0.464286
+      comm_infomap 6
       comm_mcmc 13
       date "8-8-2016"
    ]
    node [
       id 328
       clustering 0.52381
+      comm_infomap 36
       comm_mcmc 8
       date "8-8-2016"
    ]
    node [
       id 329
       clustering 1
+      comm_infomap 37
       comm_mcmc 8
       date "8-8-2016"
    ]
    node [
       id 330
       clustering 0.285714
+      comm_infomap 1
       comm_mcmc 18
       date "8-8-2016"
    ]
    node [
       id 331
       clustering 1
+      comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
    ]
    node [
       id 332
       clustering 0.5
+      comm_infomap 19
       comm_mcmc 20
       date "8-8-2016"
    ]
    node [
       id 333
       clustering 0
+      comm_infomap 8
       comm_mcmc 10
       date "8-8-2016"
    ]
    node [
       id 334
       clustering 0.666667
+      comm_infomap 57
       comm_mcmc 15
       date "8-8-2016"
    ]
    node [
       id 335
       clustering 0.892857
+      comm_infomap 27
       comm_mcmc 12
       date "8-8-2016"
    ]
    node [
       id 336
       clustering 0.47619
+      comm_infomap 14
       comm_mcmc 25
       date "8-8-2016"
    ]
    node [
       id 337
       clustering 0.823529
+      comm_infomap 4
       comm_mcmc 30
       date "8-8-2016"
    ]
    node [
       id 338
       clustering 1
+      comm_infomap 6
       comm_mcmc 13
       date "9-8-2016"
    ]
    node [
       id 339
       clustering 0.571429
+      comm_infomap 37
       comm_mcmc 8
       date "9-8-2016"
    ]
    node [
       id 340
       clustering 0.833333
+      comm_infomap 45
       comm_mcmc 12
       date "9-8-2016"
    ]
    node [
       id 341
       clustering 0
+      comm_infomap 85
       comm_mcmc 30
       date "9-8-2016"
    ]
    node [
       id 342
       clustering 0.666667
+      comm_infomap 34
       comm_mcmc 24
       date "9-8-2016"
    ]
    node [
       id 343
       clustering 0
+      comm_infomap 28
       comm_mcmc 27
       date "9-8-2016"
    ]
    node [
       id 344
       clustering 0.805556
+      comm_infomap 4
       comm_mcmc 30
       date "9-8-2016"
    ]
    node [
       id 345
       clustering 0.6
+      comm_infomap 29
       comm_mcmc 21
       date "9-8-2016"
    ]
    node [
       id 346
       clustering 0.4
+      comm_infomap 91
       comm_mcmc 9
       date "9-8-2016"
    ]
    node [
       id 347
       clustering 0.75
+      comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
    ]
    node [
       id 348
       clustering 0
+      comm_infomap 171
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 349
       clustering 1
+      comm_infomap 58
       comm_mcmc 14
       date "9-8-2016"
    ]
    node [
       id 350
       clustering 0.740741
+      comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
    ]
    node [
       id 351
       clustering 0.94152
+      comm_infomap 1
       comm_mcmc 3
       date "9-8-2016"
    ]
    node [
       id 352
       clustering 0.666667
+      comm_infomap 14
       comm_mcmc 25
       date "9-8-2016"
    ]
    node [
       id 353
       clustering 0.5
+      comm_infomap 14
       comm_mcmc 25
       date "9-8-2016"
    ]
    node [
       id 354
       clustering 0
+      comm_infomap 84
       comm_mcmc 11
       date "9-8-2016"
    ]
    node [
       id 355
       clustering 0.321429
+      comm_infomap 52
       comm_mcmc 9
       date "9-8-2016"
    ]
    node [
       id 356
       clustering 0
+      comm_infomap 83
       comm_mcmc 14
       date "9-8-2016"
    ]
    node [
       id 357
       clustering 1
+      comm_infomap 19
       comm_mcmc 20
       date "9-8-2016"
    ]
    node [
       id 358
       clustering 0.782051
+      comm_infomap 4
       comm_mcmc 30
       date "9-8-2016"
    ]
    node [
       id 359
       clustering 0
+      comm_infomap 170
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 360
       clustering 0.809524
+      comm_infomap 19
       comm_mcmc 20
       date "9-8-2016"
    ]
    node [
       id 361
       clustering 0.800866
+      comm_infomap 1
       comm_mcmc 3
       date "9-8-2016"
    ]
    node [
       id 362
       clustering 0.714286
+      comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
    ]
    node [
       id 363
       clustering 0.581818
+      comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
    ]
    node [
       id 364
       clustering 0.607143
+      comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
    ]
    node [
       id 365
       clustering 0.58
+      comm_infomap 2
       comm_mcmc 16
       date "9-8-2016"
    ]
    node [
       id 366
       clustering 0.5
+      comm_infomap 10
       comm_mcmc 10
       date "9-8-2016"
    ]
    node [
       id 367
       clustering 0.381818
+      comm_infomap 9
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 368
       clustering 0
+      comm_infomap 169
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 369
       clustering 0.333333
+      comm_infomap 58
       comm_mcmc 14
       date "9-8-2016"
    ]
    node [
       id 370
       clustering 0.345455
+      comm_infomap 8
       comm_mcmc 10
       date "9-8-2016"
    ]
    node [
       id 371
       clustering 0.6
+      comm_infomap 8
       comm_mcmc 10
       date "9-8-2016"
    ]
    node [
       id 372
       clustering 0.1
+      comm_infomap 8
       comm_mcmc 10
       date "9-8-2016"
    ]
    node [
       id 373
       clustering 0.666667
+      comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
    ]
    node [
       id 374
       clustering 0.573016
+      comm_infomap 1
       comm_mcmc 1
       date "9-8-2016"
    ]
    node [
       id 375
       clustering 0.84585
+      comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
    ]
    node [
       id 376
       clustering 0.651515
+      comm_infomap 1
       comm_mcmc 9
       date "9-8-2016"
    ]
    node [
       id 377
       clustering 0
+      comm_infomap 168
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 378
       clustering 0.666667
+      comm_infomap 19
       comm_mcmc 20
       date "9-8-2016"
    ]
    node [
       id 379
       clustering 0.892857
+      comm_infomap 27
       comm_mcmc 12
       date "9-8-2016"
    ]
    node [
       id 380
       clustering 0.618182
+      comm_infomap 30
       comm_mcmc 34
       date "9-8-2016"
    ]
    node [
       id 381
       clustering 0.56044
+      comm_infomap 13
       comm_mcmc 11
       date "9-8-2016"
    ]
    node [
       id 382
       clustering 0.714286
+      comm_infomap 13
       comm_mcmc 11
       date "9-8-2016"
    ]
    node [
       id 383
       clustering 0.726984
+      comm_infomap 1
       comm_mcmc 3
       date "9-8-2016"
    ]
    node [
       id 384
       clustering 0.809524
+      comm_infomap 20
       comm_mcmc 7
       date "9-8-2016"
    ]
    node [
       id 385
       clustering 0.823529
+      comm_infomap 4
       comm_mcmc 30
       date "9-8-2016"
    ]
    node [
       id 386
       clustering 0.611111
+      comm_infomap 29
       comm_mcmc 21
       date "9-8-2016"
    ]
    node [
       id 387
       clustering 0.666667
+      comm_infomap 9
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 388
       clustering 0.472222
+      comm_infomap 12
       comm_mcmc 32
       date "9-8-2016"
    ]
    node [
       id 389
       clustering 0
+      comm_infomap 91
       comm_mcmc 9
       date "9-8-2016"
    ]
    node [
       id 390
       clustering 0.464286
+      comm_infomap 32
       comm_mcmc 12
       date "9-8-2016"
    ]
    node [
       id 391
       clustering 0.818841
+      comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
    ]
    node [
       id 392
       clustering 0.547653
+      comm_infomap 1
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 393
       clustering 1
+      comm_infomap 39
       comm_mcmc 35
       date "9-8-2016"
    ]
    node [
       id 394
       clustering 0.833333
+      comm_infomap 14
       comm_mcmc 25
       date "9-8-2016"
    ]
    node [
       id 395
       clustering 0
+      comm_infomap 84
       comm_mcmc 11
       date "9-8-2016"
    ]
    node [
       id 396
       clustering 0
+      comm_infomap 80
       comm_mcmc 33
       date "9-8-2016"
    ]
    node [
       id 397
       clustering 0
+      comm_infomap 83
       comm_mcmc 14
       date "9-8-2016"
    ]
    node [
       id 398
       clustering 0
+      comm_infomap 167
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 399
       clustering 0.5
+      comm_infomap 45
       comm_mcmc 12
       date "9-8-2016"
    ]
    node [
       id 400
       clustering 0
+      comm_infomap 82
       comm_mcmc 14
       date "9-8-2016"
    ]
    node [
       id 401
       clustering 0
+      comm_infomap 166
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 402
       clustering 0.333333
+      comm_infomap 3
       comm_mcmc 35
       date "9-8-2016"
    ]
    node [
       id 403
       clustering 0.494505
+      comm_infomap 6
       comm_mcmc 13
       date "9-8-2016"
    ]
    node [
       id 404
       clustering 0.8
+      comm_infomap 22
       comm_mcmc 15
       date "9-8-2016"
    ]
    node [
       id 405
       clustering 1
+      comm_infomap 69
       comm_mcmc 8
       date "9-8-2016"
    ]
    node [
       id 406
       clustering 0.333333
+      comm_infomap 46
       comm_mcmc 2
       date "9-8-2016"
    ]
    node [
       id 407
       clustering 0.581538
+      comm_infomap 1
       comm_mcmc 0
       date "9-8-2016"
    ]
    node [
       id 408
       clustering 0
+      comm_infomap 55
       comm_mcmc 12
       date "9-8-2016"
    ]
    node [
       id 409
       clustering 1
+      comm_infomap 27
       comm_mcmc 12
       date "9-8-2016"
    ]
    node [
       id 410
       clustering 0
+      comm_infomap 92
       comm_mcmc 2
       date "9-8-2016"
    ]
    node [
       id 411
       clustering 0
+      comm_infomap 165
       comm_mcmc 6
       date "9-8-2016"
    ]
    node [
       id 412
       clustering 0.533333
+      comm_infomap 30
       comm_mcmc 34
       date "9-8-2016"
    ]
    node [
       id 413
       clustering 1
+      comm_infomap 13
       comm_mcmc 11
       date "10-8-2016"
    ]
    node [
       id 414
       clustering 0
+      comm_infomap 93
       comm_mcmc 29
       date "10-8-2016"
    ]
    node [
       id 415
       clustering 0.666667
+      comm_infomap 30
       comm_mcmc 3
       date "10-8-2016"
    ]
    node [
       id 416
       clustering 0
+      comm_infomap 39
       comm_mcmc 25
       date "10-8-2016"
    ]
    node [
       id 417
       clustering 0.266667
+      comm_infomap 4
       comm_mcmc 30
       date "10-8-2016"
    ]
    node [
       id 418
       clustering 0.428571
+      comm_infomap 16
       comm_mcmc 11
       date "10-8-2016"
    ]
    node [
       id 419
       clustering 0.666667
+      comm_infomap 19
       comm_mcmc 20
       date "10-8-2016"
    ]
    node [
       id 420
       clustering 0.490909
+      comm_infomap 6
       comm_mcmc 13
       date "10-8-2016"
    ]
    node [
       id 421
       clustering 1
+      comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 422
       clustering 0.166667
+      comm_infomap 60
       comm_mcmc 9
       date "10-8-2016"
    ]
    node [
       id 423
       clustering 0.791209
+      comm_infomap 11
       comm_mcmc 31
       date "10-8-2016"
    ]
    node [
       id 424
       clustering 0.492647
+      comm_infomap 30
       comm_mcmc 34
       date "10-8-2016"
    ]
    node [
       id 425
       clustering 0.678571
+      comm_infomap 36
       comm_mcmc 8
       date "10-8-2016"
    ]
    node [
       id 426
       clustering 1
+      comm_infomap 25
       comm_mcmc 8
       date "10-8-2016"
    ]
    node [
       id 427
       clustering 0.6
+      comm_infomap 21
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 428
       clustering 0.8
+      comm_infomap 8
       comm_mcmc 10
       date "10-8-2016"
    ]
    node [
       id 429
       clustering 0.833333
+      comm_infomap 17
       comm_mcmc 28
       date "10-8-2016"
    ]
    node [
       id 430
       clustering 0.761905
+      comm_infomap 26
       comm_mcmc 22
       date "10-8-2016"
    ]
    node [
       id 431
       clustering 0.333333
+      comm_infomap 34
       comm_mcmc 24
       date "10-8-2016"
    ]
    node [
       id 432
       clustering 0
+      comm_infomap 34
       comm_mcmc 24
       date "10-8-2016"
    ]
    node [
       id 433
       clustering 1
+      comm_infomap 49
       comm_mcmc 13
       date "10-8-2016"
    ]
    node [
       id 434
       clustering 0.392857
+      comm_infomap 16
       comm_mcmc 8
       date "10-8-2016"
    ]
    node [
       id 435
       clustering 0
+      comm_infomap 164
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 436
       clustering 0.5
+      comm_infomap 16
       comm_mcmc 8
       date "10-8-2016"
    ]
    node [
       id 437
       clustering 0.166667
+      comm_infomap 52
       comm_mcmc 32
       date "10-8-2016"
    ]
    node [
       id 438
       clustering 0.666667
+      comm_infomap 87
       comm_mcmc 24
       date "10-8-2016"
    ]
    node [
       id 439
       clustering 0
+      comm_infomap 163
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 440
       clustering 1
+      comm_infomap 14
       comm_mcmc 25
       date "10-8-2016"
    ]
    node [
       id 441
       clustering 0
+      comm_infomap 81
       comm_mcmc 13
       date "10-8-2016"
    ]
    node [
       id 442
       clustering 0
+      comm_infomap 81
       comm_mcmc 13
       date "10-8-2016"
    ]
    node [
       id 443
       clustering 0.333333
+      comm_infomap 1
       comm_mcmc 4
       date "10-8-2016"
    ]
    node [
       id 444
       clustering 0.5
+      comm_infomap 21
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 445
       clustering 0.6
+      comm_infomap 16
       comm_mcmc 8
       date "10-8-2016"
    ]
    node [
       id 446
       clustering 0.8
+      comm_infomap 39
       comm_mcmc 35
       date "10-8-2016"
    ]
    node [
       id 447
       clustering 0.166667
+      comm_infomap 3
       comm_mcmc 35
       date "10-8-2016"
    ]
    node [
       id 448
       clustering 0
+      comm_infomap 56
       comm_mcmc 14
       date "10-8-2016"
    ]
    node [
       id 449
       clustering 0.809524
+      comm_infomap 36
       comm_mcmc 8
       date "10-8-2016"
    ]
    node [
       id 450
       clustering 0.833333
+      comm_infomap 11
       comm_mcmc 31
       date "10-8-2016"
    ]
    node [
       id 451
       clustering 0.838095
+      comm_infomap 2
       comm_mcmc 16
       date "10-8-2016"
    ]
    node [
       id 452
       clustering 0
+      comm_infomap 68
       comm_mcmc 7
       date "10-8-2016"
    ]
    node [
       id 453
       clustering 0.952381
+      comm_infomap 2
       comm_mcmc 16
       date "10-8-2016"
    ]
    node [
       id 454
       clustering 0.642857
+      comm_infomap 19
       comm_mcmc 20
       date "10-8-2016"
    ]
    node [
       id 455
       clustering 0.333333
+      comm_infomap 21
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 456
       clustering 0.428571
+      comm_infomap 30
       comm_mcmc 34
       date "10-8-2016"
    ]
    node [
       id 457
       clustering 0
+      comm_infomap 8
       comm_mcmc 20
       date "10-8-2016"
    ]
    node [
       id 458
       clustering 0
+      comm_infomap 80
       comm_mcmc 33
       date "10-8-2016"
    ]
    node [
       id 459
       clustering 1
+      comm_infomap 7
       comm_mcmc 23
       date "10-8-2016"
    ]
    node [
       id 460
       clustering 0.6
+      comm_infomap 22
       comm_mcmc 15
       date "10-8-2016"
    ]
    node [
       id 461
       clustering 0.285714
+      comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 462
       clustering 0.4
+      comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 463
       clustering 0.866667
+      comm_infomap 9
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 464
       clustering 1
+      comm_infomap 52
       comm_mcmc 32
       date "10-8-2016"
    ]
    node [
       id 465
       clustering 1
+      comm_infomap 64
       comm_mcmc 12
       date "10-8-2016"
    ]
    node [
       id 466
       clustering 0.333333
+      comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 467
       clustering 0
+      comm_infomap 162
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 468
       clustering 1
+      comm_infomap 14
       comm_mcmc 25
       date "10-8-2016"
    ]
    node [
       id 469
       clustering 0
+      comm_infomap 28
       comm_mcmc 27
       date "10-8-2016"
    ]
    node [
       id 470
       clustering 0.5
+      comm_infomap 87
       comm_mcmc 24
       date "10-8-2016"
    ]
    node [
       id 471
       clustering 0.5
+      comm_infomap 28
       comm_mcmc 27
       date "10-8-2016"
    ]
    node [
       id 472
       clustering 0
+      comm_infomap 161
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 473
       clustering 0.619048
+      comm_infomap 15
       comm_mcmc 7
       date "10-8-2016"
    ]
    node [
       id 474
       clustering 0.454545
+      comm_infomap 15
       comm_mcmc 7
       date "10-8-2016"
    ]
    node [
       id 475
       clustering 1
+      comm_infomap 6
       comm_mcmc 13
       date "10-8-2016"
    ]
    node [
       id 476
       clustering 0.928571
+      comm_infomap 11
       comm_mcmc 31
       date "10-8-2016"
    ]
    node [
       id 477
       clustering 0
+      comm_infomap 160
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 478
       clustering 0.7
+      comm_infomap 45
       comm_mcmc 12
       date "10-8-2016"
    ]
    node [
       id 479
       clustering 1
+      comm_infomap 35
       comm_mcmc 20
       date "10-8-2016"
    ]
    node [
       id 480
       clustering 0
+      comm_infomap 159
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 481
       clustering 0
+      comm_infomap 59
       comm_mcmc 2
       date "10-8-2016"
    ]
    node [
       id 482
       clustering 0.418182
+      comm_infomap 9
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 483
       clustering 0
+      comm_infomap 158
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 484
       clustering 0
+      comm_infomap 157
       comm_mcmc 6
       date "10-8-2016"
    ]
    node [
       id 485
       clustering 0.647059
+      comm_infomap 4
       comm_mcmc 30
       date "10-8-2016"
    ]
    node [
       id 486
       clustering 0.533333
+      comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
    ]
    node [
       id 487
       clustering 0
+      comm_infomap 26
       comm_mcmc 22
       date "11-8-2016"
    ]
    node [
       id 488
       clustering 0
+      comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 489
       clustering 0
+      comm_infomap 156
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 490
       clustering 0.666667
+      comm_infomap 5
       comm_mcmc 36
       date "11-8-2016"
    ]
    node [
       id 491
       clustering 0.791209
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 492
       clustering 0.725275
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 493
       clustering 0.781818
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 494
       clustering 0.5
+      comm_infomap 34
       comm_mcmc 24
       date "11-8-2016"
    ]
    node [
       id 495
       clustering 0.380952
+      comm_infomap 87
       comm_mcmc 24
       date "11-8-2016"
    ]
    node [
       id 496
       clustering 0.733333
+      comm_infomap 12
       comm_mcmc 32
       date "11-8-2016"
    ]
    node [
       id 497
       clustering 0.933333
+      comm_infomap 19
       comm_mcmc 20
       date "11-8-2016"
    ]
    node [
       id 498
       clustering 0
+      comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
    ]
    node [
       id 499
       clustering 0.466667
+      comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
    ]
    node [
       id 500
       clustering 0.6
+      comm_infomap 39
       comm_mcmc 35
       date "11-8-2016"
    ]
    node [
       id 501
       clustering 0
+      comm_infomap 155
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 502
       clustering 0.577778
+      comm_infomap 15
       comm_mcmc 7
       date "11-8-2016"
    ]
    node [
       id 503
       clustering 0
+      comm_infomap 79
       comm_mcmc 23
       date "11-8-2016"
    ]
    node [
       id 504
       clustering 0
+      comm_infomap 79
       comm_mcmc 23
       date "11-8-2016"
    ]
    node [
       id 505
       clustering 0.214286
+      comm_infomap 46
       comm_mcmc 2
       date "11-8-2016"
    ]
    node [
       id 506
       clustering 0
+      comm_infomap 154
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 507
       clustering 0.733333
+      comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
    ]
    node [
       id 508
       clustering 0
+      comm_infomap 23
       comm_mcmc 33
       date "11-8-2016"
    ]
    node [
       id 509
       clustering 0
+      comm_infomap 153
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 510
       clustering 0
+      comm_infomap 152
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 511
       clustering 0
+      comm_infomap 151
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 512
       clustering 0.75641
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 513
       clustering 0.423077
+      comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 514
       clustering 0.75641
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 515
       clustering 0.666667
+      comm_infomap 87
       comm_mcmc 24
       date "11-8-2016"
    ]
    node [
       id 516
       clustering 0
+      comm_infomap 93
       comm_mcmc 29
       date "11-8-2016"
    ]
    node [
       id 517
       clustering 1
+      comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 518
       clustering 0.704762
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 519
       clustering 0.755556
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 520
       clustering 0.787879
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 521
       clustering 0
+      comm_infomap 150
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 522
       clustering 0.888889
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 523
       clustering 1
+      comm_infomap 26
       comm_mcmc 22
       date "11-8-2016"
    ]
    node [
       id 524
       clustering 1
+      comm_infomap 65
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 525
       clustering 1
+      comm_infomap 65
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 526
       clustering 0
+      comm_infomap 149
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 527
       clustering 0
+      comm_infomap 148
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 528
       clustering 0
+      comm_infomap 39
       comm_mcmc 35
       date "11-8-2016"
    ]
    node [
       id 529
       clustering 0.333333
+      comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 530
       clustering 1
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 531
       clustering 0.781818
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 532
       clustering 0.5
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 533
       clustering 0.791209
+      comm_infomap 11
       comm_mcmc 31
       date "11-8-2016"
    ]
    node [
       id 534
       clustering 0.963636
+      comm_infomap 2
       comm_mcmc 16
       date "11-8-2016"
    ]
    node [
       id 535
       clustering 0.333333
+      comm_infomap 68
       comm_mcmc 7
       date "11-8-2016"
    ]
    node [
       id 536
       clustering 1
+      comm_infomap 64
       comm_mcmc 12
       date "11-8-2016"
    ]
    node [
       id 537
       clustering 0.266667
+      comm_infomap 41
       comm_mcmc 25
       date "11-8-2016"
    ]
    node [
       id 538
       clustering 0.833333
+      comm_infomap 43
       comm_mcmc 20
       date "11-8-2016"
    ]
    node [
       id 539
       clustering 0.694444
+      comm_infomap 26
       comm_mcmc 22
       date "11-8-2016"
    ]
    node [
       id 540
       clustering 0.411765
+      comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 541
       clustering 0.5
+      comm_infomap 14
       comm_mcmc 25
       date "11-8-2016"
    ]
    node [
       id 542
       clustering 0.333333
+      comm_infomap 22
       comm_mcmc 15
       date "11-8-2016"
    ]
    node [
       id 543
       clustering 0.52381
+      comm_infomap 16
       comm_mcmc 8
       date "11-8-2016"
    ]
    node [
       id 544
       clustering 0
+      comm_infomap 147
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 545
       clustering 0.581818
+      comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
    ]
    node [
       id 546
       clustering 1
+      comm_infomap 67
       comm_mcmc 27
       date "11-8-2016"
    ]
    node [
       id 547
       clustering 1
+      comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
    ]
    node [
       id 548
       clustering 1
+      comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
    ]
    node [
       id 549
       clustering 1
+      comm_infomap 67
       comm_mcmc 27
       date "11-8-2016"
    ]
    node [
       id 550
       clustering 1
+      comm_infomap 10
       comm_mcmc 10
       date "11-8-2016"
    ]
    node [
       id 551
       clustering 1
+      comm_infomap 21
       comm_mcmc 2
       date "11-8-2016"
    ]
    node [
       id 552
       clustering 0.981818
+      comm_infomap 2
       comm_mcmc 16
       date "11-8-2016"
    ]
    node [
       id 553
       clustering 0.642857
+      comm_infomap 2
       comm_mcmc 16
       date "11-8-2016"
    ]
    node [
       id 554
       clustering 1
+      comm_infomap 64
       comm_mcmc 12
       date "11-8-2016"
    ]
    node [
       id 555
       clustering 0.833333
+      comm_infomap 13
       comm_mcmc 11
       date "11-8-2016"
    ]
    node [
       id 556
       clustering 0.666667
+      comm_infomap 32
       comm_mcmc 12
       date "11-8-2016"
    ]
    node [
       id 557
       clustering 0.428571
+      comm_infomap 22
       comm_mcmc 15
       date "11-8-2016"
    ]
    node [
       id 558
       clustering 0
+      comm_infomap 146
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 559
       clustering 0.4
+      comm_infomap 32
       comm_mcmc 12
       date "11-8-2016"
    ]
    node [
       id 560
       clustering 0.833333
+      comm_infomap 16
       comm_mcmc 8
       date "11-8-2016"
    ]
    node [
       id 561
       clustering 0.833333
+      comm_infomap 12
       comm_mcmc 32
       date "11-8-2016"
    ]
    node [
       id 562
       clustering 0.361111
+      comm_infomap 9
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 563
       clustering 0.8
+      comm_infomap 39
       comm_mcmc 35
       date "11-8-2016"
    ]
    node [
       id 564
       clustering 1
+      comm_infomap 9
       comm_mcmc 6
       date "11-8-2016"
    ]
    node [
       id 565
       clustering 0.928571
+      comm_infomap 35
       comm_mcmc 20
       date "11-8-2016"
    ]
    node [
       id 566
       clustering 0
+      comm_infomap 53
       comm_mcmc 7
       date "11-8-2016"
    ]
    node [
       id 567
       clustering 0.390476
+      comm_infomap 30
       comm_mcmc 34
       date "11-8-2016"
    ]
    node [
       id 568
       clustering 0.4
+      comm_infomap 8
       comm_mcmc 10
       date "12-8-2016"
    ]
    node [
       id 569
       clustering 1
+      comm_infomap 19
       comm_mcmc 20
       date "12-8-2016"
    ]
    node [
       id 570
       clustering 0.9
+      comm_infomap 50
       comm_mcmc 20
       date "12-8-2016"
    ]
    node [
       id 571
       clustering 0
+      comm_infomap 1
       comm_mcmc 0
       date "12-8-2016"
    ]
    node [
       id 572
       clustering 0.8
+      comm_infomap 22
       comm_mcmc 15
       date "12-8-2016"
    ]
    node [
       id 573
       clustering 0.571429
+      comm_infomap 22
       comm_mcmc 15
       date "12-8-2016"
    ]
    node [
       id 574
       clustering 1
+      comm_infomap 86
       comm_mcmc 34
       date "12-8-2016"
    ]
    node [
       id 575
       clustering 0.666667
+      comm_infomap 40
       comm_mcmc 14
       date "12-8-2016"
    ]
    node [
       id 576
       clustering 0.714286
+      comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 577
       clustering 0.577778
+      comm_infomap 12
       comm_mcmc 32
       date "12-8-2016"
    ]
    node [
       id 578
       clustering 0
+      comm_infomap 145
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 579
       clustering 0.666667
+      comm_infomap 28
       comm_mcmc 27
       date "12-8-2016"
    ]
    node [
       id 580
       clustering 0
+      comm_infomap 6
       comm_mcmc 13
       date "12-8-2016"
    ]
    node [
       id 581
       clustering 0.833333
+      comm_infomap 45
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 582
       clustering 0.7
+      comm_infomap 45
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 583
       clustering 0
+      comm_infomap 61
       comm_mcmc 27
       date "12-8-2016"
    ]
    node [
       id 584
       clustering 0.56044
+      comm_infomap 13
       comm_mcmc 11
       date "12-8-2016"
    ]
    node [
       id 585
       clustering 0
+      comm_infomap 144
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 586
       clustering 0.821429
+      comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
    ]
    node [
       id 587
       clustering 1
+      comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 588
       clustering 0
+      comm_infomap 11
       comm_mcmc 31
       date "12-8-2016"
    ]
    node [
       id 589
       clustering 0.7
+      comm_infomap 43
       comm_mcmc 20
       date "12-8-2016"
    ]
    node [
       id 590
       clustering 0
+      comm_infomap 143
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 591
       clustering 0
+      comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
    ]
    node [
       id 592
       clustering 0
+      comm_infomap 61
       comm_mcmc 27
       date "12-8-2016"
    ]
    node [
       id 593
       clustering 0
+      comm_infomap 142
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 594
       clustering 0.238095
+      comm_infomap 3
       comm_mcmc 35
       date "12-8-2016"
    ]
    node [
       id 595
       clustering 1
+      comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 596
       clustering 0.472727
+      comm_infomap 12
       comm_mcmc 32
       date "12-8-2016"
    ]
    node [
       id 597
       clustering 0
+      comm_infomap 141
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 598
       clustering 0.619048
+      comm_infomap 28
       comm_mcmc 27
       date "12-8-2016"
    ]
    node [
       id 599
       clustering 0.461538
+      comm_infomap 13
       comm_mcmc 11
       date "12-8-2016"
    ]
    node [
       id 600
       clustering 0.822222
+      comm_infomap 1
       comm_mcmc 0
       date "12-8-2016"
    ]
    node [
       id 601
       clustering 0.980952
+      comm_infomap 7
       comm_mcmc 23
       date "12-8-2016"
    ]
    node [
       id 602
       clustering 0.333333
+      comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 603
       clustering 0
+      comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 604
       clustering 0.5
+      comm_infomap 40
       comm_mcmc 14
       date "12-8-2016"
    ]
    node [
       id 605
       clustering 0
+      comm_infomap 140
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 606
       clustering 0.166667
+      comm_infomap 9
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 607
       clustering 0
+      comm_infomap 139
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 608
       clustering 1
+      comm_infomap 63
       comm_mcmc 7
       date "12-8-2016"
    ]
    node [
       id 609
       clustering 1
+      comm_infomap 47
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 610
       clustering 0.666667
+      comm_infomap 21
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 611
       clustering 1
+      comm_infomap 43
       comm_mcmc 20
       date "12-8-2016"
    ]
    node [
       id 612
       clustering 0
+      comm_infomap 138
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 613
       clustering 0.911765
+      comm_infomap 7
       comm_mcmc 23
       date "12-8-2016"
    ]
    node [
       id 614
       clustering 0.428571
+      comm_infomap 8
       comm_mcmc 10
       date "12-8-2016"
    ]
    node [
       id 615
       clustering 0.895238
+      comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
    ]
    node [
       id 616
       clustering 0.858333
+      comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
    ]
    node [
       id 617
       clustering 0.901099
+      comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
    ]
    node [
       id 618
       clustering 0.466667
+      comm_infomap 47
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 619
       clustering 0.428571
+      comm_infomap 16
       comm_mcmc 8
       date "12-8-2016"
    ]
    node [
       id 620
       clustering 0
+      comm_infomap 16
       comm_mcmc 8
       date "12-8-2016"
    ]
    node [
       id 621
       clustering 0.615385
+      comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
    ]
    node [
       id 622
       clustering 0
+      comm_infomap 137
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 623
       clustering 0.333333
+      comm_infomap 34
       comm_mcmc 24
       date "12-8-2016"
    ]
    node [
       id 624
       clustering 0.666667
+      comm_infomap 28
       comm_mcmc 27
       date "12-8-2016"
    ]
    node [
       id 625
       clustering 0.615385
+      comm_infomap 30
       comm_mcmc 34
       date "12-8-2016"
    ]
    node [
       id 626
       clustering 0.809524
+      comm_infomap 36
       comm_mcmc 8
       date "12-8-2016"
    ]
    node [
       id 627
       clustering 0
+      comm_infomap 14
       comm_mcmc 25
       date "12-8-2016"
    ]
    node [
       id 628
       clustering 0.5
+      comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 629
       clustering 0.52381
+      comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 630
       clustering 1
+      comm_infomap 20
       comm_mcmc 7
       date "12-8-2016"
    ]
    node [
       id 631
       clustering 1
+      comm_infomap 48
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 632
       clustering 0
+      comm_infomap 78
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 633
       clustering 1
+      comm_infomap 98
       comm_mcmc 27
       date "12-8-2016"
    ]
    node [
       id 634
       clustering 0
+      comm_infomap 136
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 635
       clustering 0.786765
+      comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
    ]
    node [
       id 636
       clustering 0.444444
+      comm_infomap 4
       comm_mcmc 30
       date "12-8-2016"
    ]
    node [
       id 637
       clustering 0.5
+      comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 638
       clustering 0
+      comm_infomap 24
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 639
       clustering 1
+      comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 640
       clustering 0.472222
+      comm_infomap 32
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 641
       clustering 0.733333
+      comm_infomap 41
       comm_mcmc 25
       date "12-8-2016"
    ]
    node [
       id 642
       clustering 0.733333
+      comm_infomap 41
       comm_mcmc 25
       date "12-8-2016"
    ]
    node [
       id 643
       clustering 0
+      comm_infomap 78
       comm_mcmc 12
       date "12-8-2016"
    ]
    node [
       id 644
       clustering 0.6
+      comm_infomap 16
       comm_mcmc 8
       date "12-8-2016"
    ]
    node [
       id 645
       clustering 0.75
+      comm_infomap 12
       comm_mcmc 32
       date "12-8-2016"
    ]
    node [
       id 646
       clustering 0.166667
+      comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 647
       clustering 0
+      comm_infomap 60
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 648
       clustering 0.833333
+      comm_infomap 8
       comm_mcmc 10
       date "12-8-2016"
    ]
    node [
       id 649
       clustering 0.416667
+      comm_infomap 31
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 650
       clustering 0.666667
+      comm_infomap 46
       comm_mcmc 2
       date "12-8-2016"
    ]
    node [
       id 651
       clustering 0
+      comm_infomap 135
       comm_mcmc 6
       date "12-8-2016"
    ]
    node [
       id 652
       clustering 0.333333
+      comm_infomap 68
       comm_mcmc 7
       date "12-8-2016"
    ]
    node [
       id 653
       clustering 1
+      comm_infomap 47
       comm_mcmc 22
       date "12-8-2016"
    ]
    node [
       id 654
       clustering 0.575758
+      comm_infomap 3
       comm_mcmc 35
       date "12-8-2016"
    ]
    node [
       id 655
       clustering 0.6
+      comm_infomap 3
       comm_mcmc 35
       date "12-8-2016"
    ]
    node [
       id 656
       clustering 0.761905
+      comm_infomap 1
       comm_mcmc 0
       date "12-8-2016"
    ]
    node [
       id 657
       clustering 0
+      comm_infomap 134
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 658
       clustering 0.218182
+      comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 659
       clustering 1
+      comm_infomap 25
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 660
       clustering 0
+      comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 661
       clustering 0.7
+      comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
    ]
    node [
       id 662
       clustering 0.428571
+      comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
    ]
    node [
       id 663
       clustering 1
+      comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
    ]
    node [
       id 664
       clustering 0
+      comm_infomap 133
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 665
       clustering 0
+      comm_infomap 89
       comm_mcmc 34
       date "13-8-2016"
    ]
    node [
       id 666
       clustering 0.355556
+      comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 667
       clustering 0.527273
+      comm_infomap 10
       comm_mcmc 10
       date "13-8-2016"
    ]
    node [
       id 668
       clustering 0.75
+      comm_infomap 10
       comm_mcmc 10
       date "13-8-2016"
    ]
    node [
       id 669
       clustering 0
+      comm_infomap 132
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 670
       clustering 0
+      comm_infomap 53
       comm_mcmc 7
       date "13-8-2016"
    ]
    node [
       id 671
       clustering 1
+      comm_infomap 40
       comm_mcmc 14
       date "13-8-2016"
    ]
    node [
       id 672
       clustering 0.6
+      comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 673
       clustering 0.358974
+      comm_infomap 10
       comm_mcmc 10
       date "13-8-2016"
    ]
    node [
       id 674
       clustering 1
+      comm_infomap 41
       comm_mcmc 25
       date "13-8-2016"
    ]
    node [
       id 675
       clustering 0.511111
+      comm_infomap 12
       comm_mcmc 32
       date "13-8-2016"
    ]
    node [
       id 676
       clustering 0.583333
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 677
       clustering 0.333333
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 678
       clustering 0
+      comm_infomap 22
       comm_mcmc 15
       date "13-8-2016"
    ]
    node [
       id 679
       clustering 0
+      comm_infomap 131
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 680
       clustering 0.8
+      comm_infomap 25
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 681
       clustering 0.47619
+      comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
    ]
    node [
       id 682
       clustering 0.7
+      comm_infomap 47
       comm_mcmc 22
       date "13-8-2016"
    ]
    node [
       id 683
       clustering 0.616734
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 684
       clustering 0.714286
+      comm_infomap 12
       comm_mcmc 32
       date "13-8-2016"
    ]
    node [
       id 685
       clustering 0.166667
+      comm_infomap 52
       comm_mcmc 32
       date "13-8-2016"
    ]
    node [
       id 686
       clustering 1
+      comm_infomap 99
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 687
       clustering 0.9
+      comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 688
       clustering 0.9
+      comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 689
       clustering 0.911765
+      comm_infomap 7
       comm_mcmc 23
       date "13-8-2016"
    ]
    node [
       id 690
       clustering 0.533333
+      comm_infomap 39
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 691
       clustering 0.5
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 692
       clustering 0
+      comm_infomap 130
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 693
       clustering 0.7
+      comm_infomap 49
       comm_mcmc 13
       date "13-8-2016"
    ]
    node [
       id 694
       clustering 1
+      comm_infomap 41
       comm_mcmc 25
       date "13-8-2016"
    ]
    node [
       id 695
       clustering 0.416667
+      comm_infomap 26
       comm_mcmc 22
       date "13-8-2016"
    ]
    node [
       id 696
       clustering 0.928571
+      comm_infomap 35
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 697
       clustering 0
+      comm_infomap 129
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 698
       clustering 0.7
+      comm_infomap 47
       comm_mcmc 22
       date "13-8-2016"
    ]
    node [
       id 699
       clustering 0.722222
+      comm_infomap 27
       comm_mcmc 12
       date "13-8-2016"
    ]
    node [
       id 700
       clustering 0.6
+      comm_infomap 47
       comm_mcmc 22
       date "13-8-2016"
    ]
    node [
       id 701
       clustering 0.472222
+      comm_infomap 34
       comm_mcmc 24
       date "13-8-2016"
    ]
    node [
       id 702
       clustering 0.361111
+      comm_infomap 34
       comm_mcmc 24
       date "13-8-2016"
    ]
    node [
       id 703
       clustering 0
+      comm_infomap 128
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 704
       clustering 0.333333
+      comm_infomap 43
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 705
       clustering 0.333333
+      comm_infomap 52
       comm_mcmc 32
       date "13-8-2016"
    ]
    node [
       id 706
       clustering 0.666667
+      comm_infomap 69
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 707
       clustering 0.333333
+      comm_infomap 16
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 708
       clustering 1
+      comm_infomap 86
       comm_mcmc 34
       date "13-8-2016"
    ]
    node [
       id 709
       clustering 0.345588
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 710
       clustering 0.722789
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 711
       clustering 0.729469
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 712
       clustering 0.777778
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 713
       clustering 0
+      comm_infomap 127
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 714
       clustering 0.5
+      comm_infomap 9
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 715
       clustering 0
+      comm_infomap 126
       comm_mcmc 6
       date "13-8-2016"
    ]
    node [
       id 716
       clustering 0.428571
+      comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 717
       clustering 0.679719
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 718
       clustering 1
+      comm_infomap 38
       comm_mcmc 25
       date "13-8-2016"
    ]
    node [
       id 719
       clustering 0.5
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 720
       clustering 0.555556
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 721
       clustering 0.3
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 722
       clustering 0.555556
+      comm_infomap 3
       comm_mcmc 35
       date "13-8-2016"
    ]
    node [
       id 723
       clustering 1
+      comm_infomap 28
       comm_mcmc 27
       date "13-8-2016"
    ]
    node [
       id 724
       clustering 0.9
+      comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 725
       clustering 0.466667
+      comm_infomap 12
       comm_mcmc 32
       date "13-8-2016"
    ]
    node [
       id 726
       clustering 0.611111
+      comm_infomap 26
       comm_mcmc 22
       date "13-8-2016"
    ]
    node [
       id 727
       clustering 0.577778
+      comm_infomap 31
       comm_mcmc 2
       date "13-8-2016"
    ]
    node [
       id 728
       clustering 0.2
+      comm_infomap 19
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 729
       clustering 0.428571
+      comm_infomap 24
       comm_mcmc 22
       date "13-8-2016"
    ]
    node [
       id 730
       clustering 0
+      comm_infomap 38
       comm_mcmc 25
       date "13-8-2016"
    ]
    node [
       id 731
       clustering 0.815789
+      comm_infomap 7
       comm_mcmc 23
       date "13-8-2016"
    ]
    node [
       id 732
       clustering 1
+      comm_infomap 33
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 733
       clustering 0.952381
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 734
       clustering 0.809524
+      comm_infomap 0
       comm_mcmc 37
       date "13-8-2016"
    ]
    node [
       id 735
       clustering 1
+      comm_infomap 66
       comm_mcmc 2
       date "13-8-2016"
    ]
    node [
       id 736
       clustering 0.266667
+      comm_infomap 86
       comm_mcmc 34
       date "13-8-2016"
    ]
    node [
       id 737
       clustering 1
+      comm_infomap 50
       comm_mcmc 20
       date "13-8-2016"
    ]
    node [
       id 738
       clustering 1
+      comm_infomap 33
       comm_mcmc 8
       date "13-8-2016"
    ]
    node [
       id 739
       clustering 0.5
+      comm_infomap 23
       comm_mcmc 33
       date "13-8-2016"
    ]
    node [
       id 740
       clustering 0
+      comm_infomap 8
       comm_mcmc 10
       date "13-8-2016"
    ]
    node [
       id 741
       clustering 1
+      comm_infomap 48
       comm_mcmc 12
       date "13-8-2016"
    ]
    node [
       id 742
       clustering 1
+      comm_infomap 48
       comm_mcmc 12
       date "13-8-2016"
    ]
    node [
       id 743
       clustering 0.52381
+      comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 744
       clustering 0.3
+      comm_infomap 68
       comm_mcmc 7
       date "14-8-2016"
    ]
    node [
       id 745
       clustering 0.8
+      comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 746
       clustering 1
+      comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 747
       clustering 0.878049
+      comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
    ]
    node [
       id 748
       clustering 0.82561
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 749
       clustering 0.888889
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 750
       clustering 0.571429
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 751
       clustering 0.533333
+      comm_infomap 43
       comm_mcmc 20
       date "14-8-2016"
    ]
    node [
       id 752
       clustering 0
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 753
       clustering 0.47619
+      comm_infomap 89
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 754
       clustering 0.836364
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 755
       clustering 0.646617
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 756
       clustering 1
+      comm_infomap 52
       comm_mcmc 32
       date "14-8-2016"
    ]
    node [
       id 757
       clustering 0.666667
+      comm_infomap 70
       comm_mcmc 12
       date "14-8-2016"
    ]
    node [
       id 758
       clustering 0.380952
+      comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 759
       clustering 0.406593
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 760
       clustering 0.815789
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 761
       clustering 0.666667
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 762
       clustering 0.666667
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 763
       clustering 0.52381
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 764
       clustering 0.527778
+      comm_infomap 34
       comm_mcmc 24
       date "14-8-2016"
    ]
    node [
       id 765
       clustering 0.892857
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 766
       clustering 0.8
+      comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 767
       clustering 0.666667
+      comm_infomap 70
       comm_mcmc 12
       date "14-8-2016"
    ]
    node [
       id 768
       clustering 0
+      comm_infomap 77
       comm_mcmc 14
       date "14-8-2016"
    ]
    node [
       id 769
       clustering 0
+      comm_infomap 77
       comm_mcmc 14
       date "14-8-2016"
    ]
    node [
       id 770
       clustering 0.381818
+      comm_infomap 8
       comm_mcmc 10
       date "14-8-2016"
    ]
    node [
       id 771
       clustering 0
+      comm_infomap 125
       comm_mcmc 6
       date "14-8-2016"
    ]
    node [
       id 772
       clustering 0
+      comm_infomap 76
       comm_mcmc 16
       date "14-8-2016"
    ]
    node [
       id 773
       clustering 0
+      comm_infomap 124
       comm_mcmc 6
       date "14-8-2016"
    ]
    node [
       id 774
       clustering 0
+      comm_infomap 76
       comm_mcmc 16
       date "14-8-2016"
    ]
    node [
       id 775
       clustering 1
+      comm_infomap 41
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 776
       clustering 0.929032
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 777
       clustering 1
+      comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 778
       clustering 0.527778
+      comm_infomap 25
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 779
       clustering 0
+      comm_infomap 123
       comm_mcmc 6
       date "14-8-2016"
    ]
    node [
       id 780
       clustering 0.571429
+      comm_infomap 38
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 781
       clustering 0.666667
+      comm_infomap 68
       comm_mcmc 7
       date "14-8-2016"
    ]
    node [
       id 782
       clustering 0.571429
+      comm_infomap 24
       comm_mcmc 22
       date "14-8-2016"
    ]
    node [
       id 783
       clustering 0.884615
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 784
       clustering 1
+      comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 785
       clustering 0
+      comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 786
       clustering 0
+      comm_infomap 122
       comm_mcmc 6
       date "14-8-2016"
    ]
    node [
       id 787
       clustering 0.666667
+      comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 788
       clustering 0.527778
+      comm_infomap 25
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 789
       clustering 0.928571
+      comm_infomap 54
       comm_mcmc 26
       date "14-8-2016"
    ]
    node [
       id 790
       clustering 1
+      comm_infomap 41
       comm_mcmc 25
       date "14-8-2016"
    ]
    node [
       id 791
       clustering 0.3
+      comm_infomap 10
       comm_mcmc 10
       date "14-8-2016"
    ]
    node [
       id 792
       clustering 0.8
+      comm_infomap 23
       comm_mcmc 27
       date "14-8-2016"
    ]
    node [
       id 793
       clustering 0.409091
+      comm_infomap 44
       comm_mcmc 33
       date "14-8-2016"
    ]
    node [
       id 794
       clustering 0
+      comm_infomap 59
       comm_mcmc 2
       date "14-8-2016"
    ]
    node [
       id 795
       clustering 0.583333
+      comm_infomap 40
       comm_mcmc 14
       date "14-8-2016"
    ]
    node [
       id 796
       clustering 0
+      comm_infomap 121
       comm_mcmc 6
       date "14-8-2016"
    ]
    node [
       id 797
       clustering 1
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 798
       clustering 0
+      comm_infomap 120
       comm_mcmc 6
       date "14-8-2016"
    ]
    node [
       id 799
       clustering 0.75
+      comm_infomap 26
       comm_mcmc 22
       date "14-8-2016"
    ]
    node [
       id 800
       clustering 0.980952
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 801
       clustering 0.4
+      comm_infomap 17
       comm_mcmc 28
       date "14-8-2016"
    ]
    node [
       id 802
       clustering 0.895425
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 803
       clustering 0.662987
+      comm_infomap 0
       comm_mcmc 42
       date "14-8-2016"
    ]
    node [
       id 804
       clustering 0.833333
+      comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
    ]
    node [
       id 805
       clustering 0.5
+      comm_infomap 25
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 806
       clustering 0.75463
+      comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
    ]
    node [
       id 807
       clustering 0.879121
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 808
       clustering 0.857143
+      comm_infomap 26
       comm_mcmc 22
       date "14-8-2016"
    ]
    node [
       id 809
       clustering 0
+      comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
    ]
    node [
       id 810
       clustering 1
+      comm_infomap 48
       comm_mcmc 12
       date "14-8-2016"
    ]
    node [
       id 811
       clustering 1
+      comm_infomap 0
       comm_mcmc 38
       date "14-8-2016"
    ]
    node [
       id 812
       clustering 0.928571
+      comm_infomap 35
       comm_mcmc 20
       date "14-8-2016"
    ]
    node [
       id 813
       clustering 0.747656
+      comm_infomap 0
       comm_mcmc 41
       date "14-8-2016"
    ]
    node [
       id 814
       clustering 0.892857
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 815
       clustering 0.266667
+      comm_infomap 22
       comm_mcmc 15
       date "14-8-2016"
    ]
    node [
       id 816
       clustering 0.715415
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 817
       clustering 0.333333
+      comm_infomap 30
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 818
       clustering 0.75914
+      comm_infomap 0
       comm_mcmc 37
       date "14-8-2016"
    ]
    node [
       id 819
       clustering 0.842105
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 820
       clustering 0.77619
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 821
       clustering 0.8
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 822
       clustering 0
+      comm_infomap 33
       comm_mcmc 8
       date "14-8-2016"
    ]
    node [
       id 823
       clustering 0.858333
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 824
       clustering 0.794872
+      comm_infomap 7
       comm_mcmc 23
       date "14-8-2016"
    ]
    node [
       id 825
       clustering 0.75
+      comm_infomap 26
       comm_mcmc 22
       date "14-8-2016"
    ]
    node [
       id 826
       clustering 1
+      comm_infomap 48
       comm_mcmc 12
       date "14-8-2016"
    ]
    node [
       id 827
       clustering 1
+      comm_infomap 24
       comm_mcmc 22
       date "14-8-2016"
    ]
    node [
       id 828
       clustering 0.714286
+      comm_infomap 0
       comm_mcmc 44
       date "14-8-2016"
    ]
    node [
       id 829
       clustering 0.372549
+      comm_infomap 12
       comm_mcmc 32
       date "14-8-2016"
    ]
    node [
       id 830
       clustering 0.932264
+      comm_infomap 0
       comm_mcmc 44
       date "14-8-2016"
    ]
    node [
       id 831
       clustering 0.45
+      comm_infomap 3
       comm_mcmc 35
       date "14-8-2016"
    ]
    node [
       id 832
       clustering 0
+      comm_infomap 22
       comm_mcmc 15
       date "14-8-2016"
    ]
    node [
       id 833
       clustering 0.461538
+      comm_infomap 44
       comm_mcmc 33
       date "14-8-2016"
    ]
    node [
       id 834
       clustering 0.7
+      comm_infomap 15
       comm_mcmc 7
       date "14-8-2016"
    ]
    node [
       id 835
       clustering 0.678571
+      comm_infomap 17
       comm_mcmc 28
       date "14-8-2016"
    ]
    node [
       id 836
       clustering 0
+      comm_infomap 75
       comm_mcmc 14
       date "14-8-2016"
    ]
    node [
       id 837
       clustering 0
+      comm_infomap 74
       comm_mcmc 11
       date "14-8-2016"
    ]
    node [
       id 838
       clustering 0.7
+      comm_infomap 15
       comm_mcmc 7
       date "14-8-2016"
    ]
    node [
       id 839
       clustering 0.678571
+      comm_infomap 17
       comm_mcmc 28
       date "14-8-2016"
    ]
    node [
       id 840
       clustering 0
+      comm_infomap 75
       comm_mcmc 14
       date "14-8-2016"
    ]
    node [
       id 841
       clustering 0
+      comm_infomap 74
       comm_mcmc 11
       date "14-8-2016"
    ]
    node [
       id 842
       clustering 0.333333
+      comm_infomap 52
       comm_mcmc 32
       date "14-8-2016"
    ]
    node [
       id 843
       clustering 0.72381
+      comm_infomap 5
       comm_mcmc 36
       date "15-8-2016"
    ]
    node [
       id 844
       clustering 0.618884
+      comm_infomap 0
       comm_mcmc 41
       date "15-8-2016"
    ]
    node [
       id 845
       clustering 0.9
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 846
       clustering 0.380952
+      comm_infomap 39
       comm_mcmc 28
       date "15-8-2016"
    ]
    node [
       id 847
       clustering 0.532468
+      comm_infomap 16
       comm_mcmc 40
       date "15-8-2016"
    ]
    node [
       id 848
       clustering 1
+      comm_infomap 65
       comm_mcmc 34
       date "15-8-2016"
    ]
    node [
       id 849
       clustering 0.886905
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 850
       clustering 0.893939
+      comm_infomap 0
       comm_mcmc 37
       date "15-8-2016"
    ]
    node [
       id 851
       clustering 0.690175
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 852
       clustering 0.900181
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 853
       clustering 0.666667
+      comm_infomap 33
       comm_mcmc 8
       date "15-8-2016"
    ]
    node [
       id 854
       clustering 0.77619
+      comm_infomap 7
       comm_mcmc 23
       date "15-8-2016"
    ]
    node [
       id 855
       clustering 0.634126
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 856
       clustering 0.933333
+      comm_infomap 36
       comm_mcmc 8
       date "15-8-2016"
    ]
    node [
       id 857
       clustering 1
+      comm_infomap 53
       comm_mcmc 7
       date "15-8-2016"
    ]
    node [
       id 858
       clustering 0.333333
+      comm_infomap 53
       comm_mcmc 7
       date "15-8-2016"
    ]
    node [
       id 859
       clustering 1
+      comm_infomap 44
       comm_mcmc 33
       date "15-8-2016"
    ]
    node [
       id 860
       clustering 0
+      comm_infomap 119
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 861
       clustering 0.71164
+      comm_infomap 5
       comm_mcmc 36
       date "15-8-2016"
    ]
    node [
       id 862
       clustering 1
+      comm_infomap 12
       comm_mcmc 32
       date "15-8-2016"
    ]
    node [
       id 863
       clustering 0.461538
+      comm_infomap 12
       comm_mcmc 32
       date "15-8-2016"
    ]
    node [
       id 864
       clustering 0
+      comm_infomap 44
       comm_mcmc 33
       date "15-8-2016"
    ]
    node [
       id 865
       clustering 0.377778
+      comm_infomap 23
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 866
       clustering 0.724211
+      comm_infomap 0
       comm_mcmc 42
       date "15-8-2016"
    ]
    node [
       id 867
       clustering 0.818634
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 868
       clustering 0.763158
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 869
       clustering 0.333333
+      comm_infomap 8
       comm_mcmc 10
       date "15-8-2016"
    ]
    node [
       id 870
       clustering 1
+      comm_infomap 98
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 871
       clustering 1
+      comm_infomap 0
       comm_mcmc 37
       date "15-8-2016"
    ]
    node [
       id 872
       clustering 0.805051
+      comm_infomap 0
       comm_mcmc 44
       date "15-8-2016"
    ]
    node [
       id 873
       clustering 0
+      comm_infomap 118
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 874
       clustering 0
+      comm_infomap 117
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 875
       clustering 0.436364
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 876
       clustering 0
+      comm_infomap 116
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 877
       clustering 1
+      comm_infomap 70
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 878
       clustering 0.8
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 879
       clustering 0.607143
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 880
       clustering 0.892857
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 881
       clustering 0.821429
+      comm_infomap 28
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 882
       clustering 0.6
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 883
       clustering 0.644444
+      comm_infomap 28
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 884
       clustering 0.952381
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 885
       clustering 0.555556
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 886
       clustering 0.666667
+      comm_infomap 99
       comm_mcmc 8
       date "15-8-2016"
    ]
    node [
       id 887
       clustering 0.799867
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 888
       clustering 1
+      comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
    ]
    node [
       id 889
       clustering 0.566288
+      comm_infomap 0
       comm_mcmc 42
       date "15-8-2016"
    ]
    node [
       id 890
       clustering 0
+      comm_infomap 115
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 891
       clustering 0.666667
+      comm_infomap 55
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 892
       clustering 0.78125
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 893
       clustering 0.333333
+      comm_infomap 55
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 894
       clustering 0
+      comm_infomap 114
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 895
       clustering 0.833333
+      comm_infomap 0
       comm_mcmc 41
       date "15-8-2016"
    ]
    node [
       id 896
       clustering 0.666667
+      comm_infomap 32
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 897
       clustering 0.4
+      comm_infomap 42
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 898
       clustering 0
+      comm_infomap 72
       comm_mcmc 8
       date "15-8-2016"
    ]
    node [
       id 899
       clustering 0
+      comm_infomap 113
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 900
       clustering 0.3
+      comm_infomap 23
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 901
       clustering 0.5
+      comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
    ]
    node [
       id 902
       clustering 0.472727
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 903
       clustering 0.328571
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 904
       clustering 0.5
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 905
       clustering 0.527778
+      comm_infomap 34
       comm_mcmc 24
       date "15-8-2016"
    ]
    node [
       id 906
       clustering 0.5
+      comm_infomap 28
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 907
       clustering 0.472727
+      comm_infomap 42
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 908
       clustering 0.777778
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 909
       clustering 1
+      comm_infomap 8
       comm_mcmc 10
       date "15-8-2016"
    ]
    node [
       id 910
       clustering 0.680124
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 911
       clustering 0
+      comm_infomap 86
       comm_mcmc 34
       date "15-8-2016"
    ]
    node [
       id 912
       clustering 0.857143
+      comm_infomap 27
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 913
       clustering 0.4
+      comm_infomap 43
       comm_mcmc 20
       date "15-8-2016"
    ]
    node [
       id 914
       clustering 0
+      comm_infomap 112
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 915
       clustering 0.682456
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 916
       clustering 0
+      comm_infomap 111
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 917
       clustering 0.714286
+      comm_infomap 36
       comm_mcmc 8
       date "15-8-2016"
    ]
    node [
       id 918
       clustering 0.974359
+      comm_infomap 0
       comm_mcmc 37
       date "15-8-2016"
    ]
    node [
       id 919
       clustering 0.374269
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 920
       clustering 0.333333
+      comm_infomap 3
       comm_mcmc 35
       date "15-8-2016"
    ]
    node [
       id 921
       clustering 0.813793
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 922
       clustering 0
+      comm_infomap 51
       comm_mcmc 26
       date "15-8-2016"
    ]
    node [
       id 923
       clustering 0.666667
+      comm_infomap 46
       comm_mcmc 2
       date "15-8-2016"
    ]
    node [
       id 924
       clustering 0.466667
+      comm_infomap 17
       comm_mcmc 28
       date "15-8-2016"
    ]
    node [
       id 925
       clustering 0.466667
+      comm_infomap 27
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 926
       clustering 0.527273
+      comm_infomap 27
       comm_mcmc 12
       date "15-8-2016"
    ]
    node [
       id 927
       clustering 0.5
+      comm_infomap 35
       comm_mcmc 20
       date "15-8-2016"
    ]
    node [
       id 928
       clustering 0.678571
+      comm_infomap 31
       comm_mcmc 2
       date "15-8-2016"
    ]
    node [
       id 929
       clustering 0.444444
+      comm_infomap 90
       comm_mcmc 26
       date "15-8-2016"
    ]
    node [
       id 930
       clustering 0.583333
+      comm_infomap 24
       comm_mcmc 22
       date "15-8-2016"
    ]
    node [
       id 931
       clustering 0.733333
+      comm_infomap 7
       comm_mcmc 23
       date "15-8-2016"
    ]
    node [
       id 932
       clustering 0.5
+      comm_infomap 23
       comm_mcmc 27
       date "15-8-2016"
    ]
    node [
       id 933
       clustering 0.464286
+      comm_infomap 34
       comm_mcmc 24
       date "15-8-2016"
    ]
    node [
       id 934
       clustering 0.527778
+      comm_infomap 23
       comm_mcmc 33
       date "15-8-2016"
    ]
    node [
       id 935
       clustering 0.684524
+      comm_infomap 0
       comm_mcmc 42
       date "15-8-2016"
    ]
    node [
       id 936
       clustering 0
+      comm_infomap 110
       comm_mcmc 6
       date "15-8-2016"
    ]
    node [
       id 937
       clustering 0.836364
+      comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
    ]
    node [
       id 938
       clustering 0
+      comm_infomap 0
       comm_mcmc 38
       date "15-8-2016"
    ]
    node [
       id 939
       clustering 0.781818
+      comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
    ]
    node [
       id 940
       clustering 0.632353
+      comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
    ]
    node [
       id 941
       clustering 0.738095
+      comm_infomap 7
       comm_mcmc 23
       date "15-8-2016"
    ]
    node [
       id 942
       clustering 0.747253
+      comm_infomap 18
       comm_mcmc 29
       date "15-8-2016"
    ]
    node [
       id 943
       clustering 0.8
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 944
       clustering 0.626214
+      comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
    ]
    node [
       id 945
       clustering 0.577302
+      comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
    ]
    node [
       id 946
       clustering 0.62528
+      comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
    ]
    node [
       id 947
       clustering 0.645697
+      comm_infomap 0
       comm_mcmc 44
       date "16-8-2016"
    ]
    node [
       id 948
       clustering 0.578947
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 949
       clustering 0.357143
+      comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
    ]
    node [
       id 950
       clustering 0.729647
+      comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
    ]
    node [
       id 951
       clustering 0.777778
+      comm_infomap 27
       comm_mcmc 12
       date "16-8-2016"
    ]
    node [
       id 952
       clustering 0.428571
+      comm_infomap 23
       comm_mcmc 33
       date "16-8-2016"
    ]
    node [
       id 953
       clustering 0.890909
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 954
       clustering 1
+      comm_infomap 90
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 955
       clustering 0.785714
+      comm_infomap 54
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 956
       clustering 0.928571
+      comm_infomap 35
       comm_mcmc 20
       date "16-8-2016"
    ]
    node [
       id 957
       clustering 0.780627
+      comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
    ]
    node [
       id 958
       clustering 1
+      comm_infomap 90
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 959
       clustering 0.785714
+      comm_infomap 54
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 960
       clustering 0.928571
+      comm_infomap 35
       comm_mcmc 20
       date "16-8-2016"
    ]
    node [
       id 961
       clustering 0.780627
+      comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
    ]
    node [
       id 962
       clustering 0.691146
+      comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
    ]
    node [
       id 963
       clustering 0.873684
+      comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
    ]
    node [
       id 964
       clustering 0.547619
+      comm_infomap 5
       comm_mcmc 43
       date "16-8-2016"
    ]
    node [
       id 965
       clustering 0.735484
+      comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
    ]
    node [
       id 966
       clustering 0.894737
+      comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
    ]
    node [
       id 967
       clustering 0.619048
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 968
       clustering 0.5
+      comm_infomap 3
       comm_mcmc 35
       date "16-8-2016"
    ]
    node [
       id 969
       clustering 0.3
+      comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
    ]
    node [
       id 970
       clustering 0.797193
+      comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
    ]
    node [
       id 971
       clustering 0.533333
+      comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
    ]
    node [
       id 972
       clustering 0.538462
+      comm_infomap 15
       comm_mcmc 37
       date "16-8-2016"
    ]
    node [
       id 973
       clustering 0.666667
+      comm_infomap 25
       comm_mcmc 8
       date "16-8-2016"
    ]
    node [
       id 974
       clustering 0.562469
+      comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
    ]
    node [
       id 975
       clustering 0.433824
+      comm_infomap 23
       comm_mcmc 33
       date "16-8-2016"
    ]
    node [
       id 976
       clustering 0.928571
+      comm_infomap 35
       comm_mcmc 20
       date "16-8-2016"
    ]
    node [
       id 977
       clustering 0.666667
+      comm_infomap 0
       comm_mcmc 40
       date "16-8-2016"
    ]
    node [
       id 978
       clustering 0.712462
+      comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
    ]
    node [
       id 979
       clustering 0.815126
+      comm_infomap 0
       comm_mcmc 37
       date "16-8-2016"
    ]
    node [
       id 980
       clustering 0.266667
+      comm_infomap 23
       comm_mcmc 27
       date "16-8-2016"
    ]
    node [
       id 981
       clustering 1
+      comm_infomap 40
       comm_mcmc 14
       date "16-8-2016"
    ]
    node [
       id 982
       clustering 0.527778
+      comm_infomap 23
       comm_mcmc 27
       date "16-8-2016"
    ]
    node [
       id 983
       clustering 0.699511
+      comm_infomap 0
       comm_mcmc 40
       date "16-8-2016"
    ]
    node [
       id 984
       clustering 0.589286
+      comm_infomap 5
       comm_mcmc 43
       date "16-8-2016"
    ]
    node [
       id 985
       clustering 0.741935
+      comm_infomap 5
       comm_mcmc 36
       date "16-8-2016"
    ]
    node [
       id 986
       clustering 0
+      comm_infomap 109
       comm_mcmc 6
       date "16-8-2016"
    ]
    node [
       id 987
       clustering 0.333333
+      comm_infomap 69
       comm_mcmc 8
       date "16-8-2016"
    ]
    node [
       id 988
       clustering 0.714286
+      comm_infomap 40
       comm_mcmc 14
       date "16-8-2016"
    ]
    node [
       id 989
       clustering 1
+      comm_infomap 45
       comm_mcmc 12
       date "16-8-2016"
    ]
    node [
       id 990
       clustering 0
+      comm_infomap 73
       comm_mcmc 14
       date "16-8-2016"
    ]
    node [
       id 991
       clustering 0.928571
+      comm_infomap 54
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 992
       clustering 0.5
+      comm_infomap 3
       comm_mcmc 35
       date "16-8-2016"
    ]
    node [
       id 993
       clustering 0.7513
+      comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
    ]
    node [
       id 994
       clustering 0.642857
+      comm_infomap 24
       comm_mcmc 22
       date "16-8-2016"
    ]
    node [
       id 995
       clustering 0.620147
+      comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
    ]
    node [
       id 996
       clustering 0.578151
+      comm_infomap 28
       comm_mcmc 40
       date "16-8-2016"
    ]
    node [
       id 997
       clustering 0.679487
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 998
       clustering 0.580882
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 999
       clustering 0.711728
+      comm_infomap 0
       comm_mcmc 44
       date "16-8-2016"
    ]
    node [
       id 1000
       clustering 0.402116
+      comm_infomap 18
       comm_mcmc 43
       date "16-8-2016"
    ]
    node [
       id 1001
       clustering 0.466667
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 1002
       clustering 0.469697
+      comm_infomap 12
       comm_mcmc 32
       date "16-8-2016"
    ]
    node [
       id 1003
       clustering 0.537184
+      comm_infomap 0
       comm_mcmc 45
       date "16-8-2016"
    ]
    node [
       id 1004
       clustering 0.574247
+      comm_infomap 0
       comm_mcmc 45
       date "16-8-2016"
    ]
    node [
       id 1005
       clustering 0
+      comm_infomap 0
       comm_mcmc 38
       date "16-8-2016"
    ]
    node [
       id 1006
       clustering 0.511082
+      comm_infomap 0
       comm_mcmc 41
       date "16-8-2016"
    ]
    node [
       id 1007
       clustering 0.5
+      comm_infomap 24
       comm_mcmc 22
       date "16-8-2016"
    ]
    node [
       id 1008
       clustering 0.3
+      comm_infomap 17
       comm_mcmc 28
       date "16-8-2016"
    ]
    node [
       id 1009
       clustering 0.5
+      comm_infomap 15
       comm_mcmc 7
       date "16-8-2016"
    ]
    node [
       id 1010
       clustering 0
+      comm_infomap 72
       comm_mcmc 8
       date "16-8-2016"
    ]
    node [
       id 1011
       clustering 0.7
+      comm_infomap 44
       comm_mcmc 33
       date "16-8-2016"
    ]
    node [
       id 1012
       clustering 0.666667
+      comm_infomap 51
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 1013
       clustering 0.4
+      comm_infomap 51
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 1014
       clustering 0.833333
+      comm_infomap 51
       comm_mcmc 26
       date "16-8-2016"
    ]
    node [
       id 1015
       clustering 1
+      comm_infomap 18
       comm_mcmc 29
       date "16-8-2016"
    ]
    node [
       id 1016
       clustering 1
+      comm_infomap 22
       comm_mcmc 15
       date "16-8-2016"
    ]
    node [
       id 1017
       clustering 0.675549
+      comm_infomap 0
       comm_mcmc 39
       date "16-8-2016"
    ]
    node [
       id 1018
       clustering 0
+      comm_infomap 108
       comm_mcmc 6
       date "17-8-2016"
    ]
    node [
       id 1019
       clustering 0.687938
+      comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
    ]
    node [
       id 1020
       clustering 0.666667
+      comm_infomap 37
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1021
       clustering 0.807966
+      comm_infomap 0
       comm_mcmc 42
       date "17-8-2016"
    ]
    node [
       id 1022
       clustering 0.333333
+      comm_infomap 69
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1023
       clustering 0.563803
+      comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
    ]
    node [
       id 1024
       clustering 0.666667
+      comm_infomap 37
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1025
       clustering 0.333333
+      comm_infomap 37
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1026
       clustering 0.768789
+      comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
    ]
    node [
       id 1027
       clustering 0.590909
+      comm_infomap 44
       comm_mcmc 33
       date "17-8-2016"
    ]
    node [
       id 1028
       clustering 0.761905
+      comm_infomap 26
       comm_mcmc 22
       date "17-8-2016"
    ]
    node [
       id 1029
       clustering 0.899371
+      comm_infomap 0
       comm_mcmc 40
       date "17-8-2016"
    ]
    node [
       id 1030
       clustering 1
+      comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
    ]
    node [
       id 1031
       clustering 0
+      comm_infomap 107
       comm_mcmc 6
       date "17-8-2016"
    ]
    node [
       id 1032
       clustering 0.569841
+      comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
    ]
    node [
       id 1033
       clustering 0.533333
+      comm_infomap 8
       comm_mcmc 10
       date "17-8-2016"
    ]
    node [
       id 1034
       clustering 0.833333
+      comm_infomap 54
       comm_mcmc 26
       date "17-8-2016"
    ]
    node [
       id 1035
       clustering 0.835294
+      comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
    ]
    node [
       id 1036
       clustering 0
+      comm_infomap 106
       comm_mcmc 6
       date "17-8-2016"
    ]
    node [
       id 1037
       clustering 0
+      comm_infomap 51
       comm_mcmc 26
       date "17-8-2016"
    ]
    node [
       id 1038
       clustering 0.530021
+      comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
    ]
    node [
       id 1039
       clustering 0.361111
+      comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1040
       clustering 0.636364
+      comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
    ]
    node [
       id 1041
       clustering 0.761905
+      comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1042
       clustering 0.642857
+      comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1043
       clustering 0.327273
+      comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
    ]
    node [
       id 1044
       clustering 0.828571
+      comm_infomap 4
       comm_mcmc 30
       date "17-8-2016"
    ]
    node [
       id 1045
       clustering 0.563636
+      comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
    ]
    node [
       id 1046
       clustering 0.575758
+      comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
    ]
    node [
       id 1047
       clustering 0.509091
+      comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
    ]
    node [
       id 1048
       clustering 0
+      comm_infomap 94
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1049
       clustering 0.718615
+      comm_infomap 7
       comm_mcmc 23
       date "17-8-2016"
    ]
    node [
       id 1050
       clustering 0.333333
+      comm_infomap 3
       comm_mcmc 35
       date "17-8-2016"
    ]
    node [
       id 1051
       clustering 0.363636
+      comm_infomap 24
       comm_mcmc 22
       date "17-8-2016"
    ]
    node [
       id 1052
       clustering 0.620407
+      comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
    ]
    node [
       id 1053
       clustering 1
+      comm_infomap 89
       comm_mcmc 37
       date "17-8-2016"
    ]
    node [
       id 1054
       clustering 0.800493
+      comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
    ]
    node [
       id 1055
       clustering 0.624242
+      comm_infomap 0
       comm_mcmc 40
       date "17-8-2016"
    ]
    node [
       id 1056
       clustering 0.738721
+      comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
    ]
    node [
       id 1057
       clustering 0.638796
+      comm_infomap 0
       comm_mcmc 45
       date "17-8-2016"
    ]
    node [
       id 1058
       clustering 0.428571
+      comm_infomap 36
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1059
       clustering 0.586957
+      comm_infomap 7
       comm_mcmc 23
       date "17-8-2016"
    ]
    node [
       id 1060
       clustering 0.727273
+      comm_infomap 0
       comm_mcmc 37
       date "17-8-2016"
    ]
    node [
       id 1061
       clustering 0.912088
+      comm_infomap 4
       comm_mcmc 30
       date "17-8-2016"
    ]
    node [
       id 1062
       clustering 0.75
+      comm_infomap 4
       comm_mcmc 30
       date "17-8-2016"
    ]
    node [
       id 1063
       clustering 1
+      comm_infomap 66
       comm_mcmc 2
       date "17-8-2016"
    ]
    node [
       id 1064
       clustering 0.833333
+      comm_infomap 54
       comm_mcmc 26
       date "17-8-2016"
    ]
    node [
       id 1065
       clustering 0
+      comm_infomap 105
       comm_mcmc 6
       date "17-8-2016"
    ]
    node [
       id 1066
       clustering 0.636842
+      comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
    ]
    node [
       id 1067
       clustering 1
+      comm_infomap 42
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1068
       clustering 0.509091
+      comm_infomap 28
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1069
       clustering 0.828054
+      comm_infomap 0
       comm_mcmc 44
       date "17-8-2016"
    ]
    node [
       id 1070
       clustering 0.363636
+      comm_infomap 23
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1071
       clustering 0
+      comm_infomap 94
       comm_mcmc 8
       date "17-8-2016"
    ]
    node [
       id 1072
       clustering 0.711111
+      comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
    ]
    node [
       id 1073
       clustering 0.781818
+      comm_infomap 89
       comm_mcmc 37
       date "17-8-2016"
    ]
    node [
       id 1074
       clustering 0.654747
+      comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
    ]
    node [
       id 1075
       clustering 0.698544
+      comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
    ]
    node [
       id 1076
       clustering 0.78109
+      comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
    ]
    node [
       id 1077
       clustering 0.78109
+      comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
    ]
    node [
       id 1078
       clustering 0.571429
+      comm_infomap 31
       comm_mcmc 2
       date "17-8-2016"
    ]
    node [
       id 1079
       clustering 0
+      comm_infomap 71
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1080
       clustering 0.507653
+      comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
    ]
    node [
       id 1081
       clustering 0.695076
+      comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
    ]
    node [
       id 1082
       clustering 0.577778
+      comm_infomap 5
       comm_mcmc 43
       date "17-8-2016"
    ]
    node [
       id 1083
       clustering 0.466667
+      comm_infomap 23
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1084
       clustering 0.666667
+      comm_infomap 0
       comm_mcmc 40
       date "17-8-2016"
    ]
    node [
       id 1085
       clustering 1
+      comm_infomap 0
       comm_mcmc 38
       date "17-8-2016"
    ]
    node [
       id 1086
       clustering 0.701873
+      comm_infomap 0
       comm_mcmc 39
       date "17-8-2016"
    ]
    node [
       id 1087
       clustering 0.514457
+      comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
    ]
    node [
       id 1088
       clustering 0.614316
+      comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
    ]
    node [
       id 1089
       clustering 0.933333
+      comm_infomap 24
       comm_mcmc 22
       date "17-8-2016"
    ]
    node [
       id 1090
       clustering 1
+      comm_infomap 63
       comm_mcmc 7
       date "17-8-2016"
    ]
    node [
       id 1091
       clustering 0.6
+      comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
    ]
    node [
       id 1092
       clustering 0.444444
+      comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
    ]
    node [
       id 1093
       clustering 1
+      comm_infomap 17
       comm_mcmc 28
       date "17-8-2016"
    ]
    node [
       id 1094
       clustering 1
+      comm_infomap 51
       comm_mcmc 26
       date "17-8-2016"
    ]
    node [
       id 1095
       clustering 0.423077
+      comm_infomap 40
       comm_mcmc 27
       date "17-8-2016"
    ]
    node [
       id 1096
       clustering 0.466667
+      comm_infomap 51
       comm_mcmc 26
       date "17-8-2016"
    ]
    node [
       id 1097
       clustering 0.746237
+      comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
    ]
    node [
       id 1098
       clustering 0.642857
+      comm_infomap 5
       comm_mcmc 36
       date "17-8-2016"
    ]
    node [
       id 1099
       clustering 0.73913
+      comm_infomap 0
       comm_mcmc 43
       date "17-8-2016"
    ]
    node [
       id 1100
       clustering 0.776119
+      comm_infomap 0
       comm_mcmc 44
       date "17-8-2016"
    ]
    node [
       id 1101
       clustering 0
+      comm_infomap 22
       comm_mcmc 15
       date "17-8-2016"
    ]
    node [
       id 1102
       clustering 0.738175
+      comm_infomap 0
       comm_mcmc 41
       date "17-8-2016"
    ]
    node [
       id 1103
       clustering 0
+      comm_infomap 71
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1104
       clustering 0.612871
+      comm_infomap 0
       comm_mcmc 38
       date "18-8-2016"
    ]
    node [
       id 1105
       clustering 0
+      comm_infomap 104
       comm_mcmc 6
       date "18-8-2016"
    ]
    node [
       id 1106
       clustering 0.752793
+      comm_infomap 0
       comm_mcmc 42
       date "18-8-2016"
    ]
    node [
       id 1107
       clustering 0.723878
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1108
       clustering 0.693263
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1109
       clustering 0.555556
+      comm_infomap 40
       comm_mcmc 14
       date "18-8-2016"
    ]
    node [
       id 1110
       clustering 0.532125
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1111
       clustering 0.422222
+      comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1112
       clustering 1
+      comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1113
       clustering 1
+      comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1114
       clustering 0.571429
+      comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
    ]
    node [
       id 1115
       clustering 0.378788
+      comm_infomap 3
       comm_mcmc 35
       date "18-8-2016"
    ]
    node [
       id 1116
       clustering 0.589632
+      comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
    ]
    node [
       id 1117
       clustering 0.555556
+      comm_infomap 42
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1118
       clustering 0.830488
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1119
       clustering 0.6
+      comm_infomap 42
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1120
       clustering 0.405797
+      comm_infomap 28
       comm_mcmc 43
       date "18-8-2016"
    ]
    node [
       id 1121
       clustering 0.333333
+      comm_infomap 16
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1122
       clustering 0
+      comm_infomap 103
       comm_mcmc 6
       date "18-8-2016"
    ]
    node [
       id 1123
       clustering 0.678571
+      comm_infomap 40
       comm_mcmc 14
       date "18-8-2016"
    ]
    node [
       id 1124
       clustering 0.166667
+      comm_infomap 23
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1125
       clustering 0.827604
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1126
       clustering 0.8
+      comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
    ]
    node [
       id 1127
       clustering 0.571429
+      comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
    ]
    node [
       id 1128
       clustering 0.333333
+      comm_infomap 22
       comm_mcmc 15
       date "18-8-2016"
    ]
    node [
       id 1129
       clustering 0.535631
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1130
       clustering 1
+      comm_infomap 96
       comm_mcmc 8
       date "18-8-2016"
    ]
    node [
       id 1131
       clustering 0.333333
+      comm_infomap 44
       comm_mcmc 33
       date "18-8-2016"
    ]
    node [
       id 1132
       clustering 0.776667
+      comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
    ]
    node [
       id 1133
       clustering 0.56973
+      comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
    ]
    node [
       id 1134
       clustering 0.634177
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1135
       clustering 0.659341
+      comm_infomap 18
       comm_mcmc 29
       date "18-8-2016"
    ]
    node [
       id 1136
       clustering 0
+      comm_infomap 95
       comm_mcmc 23
       date "18-8-2016"
    ]
    node [
       id 1137
       clustering 0.764815
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1138
       clustering 0.589744
+      comm_infomap 44
       comm_mcmc 33
       date "18-8-2016"
    ]
    node [
       id 1139
       clustering 0.759259
+      comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
    ]
    node [
       id 1140
       clustering 0.575758
+      comm_infomap 17
       comm_mcmc 28
       date "18-8-2016"
    ]
    node [
       id 1141
       clustering 1
+      comm_infomap 96
       comm_mcmc 8
       date "18-8-2016"
    ]
    node [
       id 1142
       clustering 0
+      comm_infomap 73
       comm_mcmc 14
       date "18-8-2016"
    ]
    node [
       id 1143
       clustering 0.670996
+      comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
    ]
    node [
       id 1144
       clustering 0.664407
+      comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
    ]
    node [
       id 1145
       clustering 0.722222
+      comm_infomap 17
       comm_mcmc 28
       date "18-8-2016"
    ]
    node [
       id 1146
       clustering 0.333333
+      comm_infomap 15
       comm_mcmc 7
       date "18-8-2016"
    ]
    node [
       id 1147
       clustering 0
+      comm_infomap 102
       comm_mcmc 6
       date "18-8-2016"
    ]
    node [
       id 1148
       clustering 0.562162
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1149
       clustering 0.355556
+      comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
    ]
    node [
       id 1150
       clustering 0.610526
+      comm_infomap 42
       comm_mcmc 40
       date "18-8-2016"
    ]
    node [
       id 1151
       clustering 1
+      comm_infomap 62
       comm_mcmc 13
       date "18-8-2016"
    ]
    node [
       id 1152
       clustering 1
+      comm_infomap 62
       comm_mcmc 13
       date "18-8-2016"
    ]
    node [
       id 1153
       clustering 1
+      comm_infomap 62
       comm_mcmc 13
       date "18-8-2016"
    ]
    node [
       id 1154
       clustering 0.695565
+      comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
    ]
    node [
       id 1155
       clustering 0.721675
+      comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
    ]
    node [
       id 1156
       clustering 0.610084
+      comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
    ]
    node [
       id 1157
       clustering 0.840986
+      comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
    ]
    node [
       id 1158
       clustering 0.52381
+      comm_infomap 8
       comm_mcmc 10
       date "18-8-2016"
    ]
    node [
       id 1159
       clustering 0.333333
+      comm_infomap 43
       comm_mcmc 20
       date "18-8-2016"
    ]
    node [
       id 1160
       clustering 0.964286
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1161
       clustering 0
+      comm_infomap 0
       comm_mcmc 38
       date "18-8-2016"
    ]
    node [
       id 1162
       clustering 0.363636
+      comm_infomap 3
       comm_mcmc 35
       date "18-8-2016"
    ]
    node [
       id 1163
       clustering 0.744144
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1164
       clustering 0.800185
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1165
       clustering 0.810443
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1166
       clustering 0.626506
+      comm_infomap 0
       comm_mcmc 40
       date "18-8-2016"
    ]
    node [
       id 1167
       clustering 0.694505
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1168
       clustering 0.729838
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1169
       clustering 0.799283
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1170
       clustering 0.545455
+      comm_infomap 12
       comm_mcmc 32
       date "18-8-2016"
    ]
    node [
       id 1171
       clustering 0.831909
+      comm_infomap 5
       comm_mcmc 36
       date "18-8-2016"
    ]
    node [
       id 1172
       clustering 0.717853
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1173
       clustering 0
+      comm_infomap 61
       comm_mcmc 27
       date "18-8-2016"
    ]
    node [
       id 1174
       clustering 0.779661
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1175
       clustering 0.596583
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1176
       clustering 0.630769
+      comm_infomap 0
       comm_mcmc 45
       date "18-8-2016"
    ]
    node [
       id 1177
       clustering 0.361905
+      comm_infomap 3
       comm_mcmc 35
       date "18-8-2016"
    ]
    node [
       id 1178
       clustering 0.321429
+      comm_infomap 10
       comm_mcmc 10
       date "18-8-2016"
    ]
    node [
       id 1179
       clustering 0.739808
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1180
       clustering 0.769363
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1181
       clustering 0.64495
+      comm_infomap 0
       comm_mcmc 41
       date "18-8-2016"
    ]
    node [
       id 1182
       clustering 0.895238
+      comm_infomap 4
       comm_mcmc 30
       date "18-8-2016"
    ]
    node [
       id 1183
       clustering 0.609195
+      comm_infomap 0
       comm_mcmc 42
       date "18-8-2016"
    ]
    node [
       id 1184
       clustering 0.651515
+      comm_infomap 44
       comm_mcmc 33
       date "18-8-2016"
    ]
    node [
       id 1185
       clustering 0.821429
+      comm_infomap 27
       comm_mcmc 12
       date "18-8-2016"
    ]
    node [
       id 1186
       clustering 0.696338
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
    node [
       id 1187
       clustering 0.964286
+      comm_infomap 0
       comm_mcmc 44
       date "18-8-2016"
    ]
    node [
       id 1188
       clustering 0.761905
+      comm_infomap 0
       comm_mcmc 43
       date "18-8-2016"
    ]
    node [
       id 1189
       clustering 0.710084
+      comm_infomap 0
       comm_mcmc 39
       date "18-8-2016"
    ]
