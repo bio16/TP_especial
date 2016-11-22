@@ -16,7 +16,7 @@ print('Numero de enlaces: ', len(graph.es))
 print('Grafo dirigido? ', graph.is_directed())
 print('Grafo Pesado? ', graph.is_weighted())
 
-
+"""
 size_max_component = []
 for threshold in np.linspace(0.50, 1.00, 41):
 
@@ -31,7 +31,7 @@ for threshold in np.linspace(0.50, 1.00, 41):
 
     # Cargo el grafo, pesado y no dirigido
     graph = igraph.Graph.Adjacency(list(adjacency_matrix), mode = igraph.ADJ_MAX)
-
+    # encontrar las componentes conexas
     graph_aux = graph.clusters()
     size_max_component.append(max(graph_aux.sizes()))
     
@@ -41,7 +41,9 @@ plt.plot(np.linspace(0.50, 1.00, 41), size_max_component, '.-')
 plt.xlabel('Umbral')
 plt.ylabel('Componente mas grande')
 plt.grid('on')
-plt.savefig('Componente_mas_grande.png')
+#plt.savefig('Componente_mas_grande.png')
+plt.show()
+"""
 
 
 
@@ -61,13 +63,15 @@ weights = [es['weight'] for es in graph.es]
 random.seed(123457)
 com = graph.community_fastgreedy(weights)
 clust = com.as_clustering()
+import pdb; pdb.set_trace()
+
 
 modularity = []
 nrange = []
 
 for n in range(1, 1191):
-
     try:
+        # cortar el dendograma en el nivel 'n'
         clustering = com.as_clustering(n = n)
         membership = clustering.membership
         modularity.append(graph.modularity(membership))
@@ -90,9 +94,9 @@ plt.savefig('Modularidad_umbral08.png')
 clustering = com.as_clustering()
 membership = clustering.membership
 
-print graph.modularity(membership)
+print(graph.modularity(membership))
 
 for i in range(len(membership)):
     if membership[i] == 1:
-        print i,
+        print(i,)
 
