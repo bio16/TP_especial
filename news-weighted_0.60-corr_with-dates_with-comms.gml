@@ -1,5 +1,6 @@
 graph [
    directed 0
+   initial_date "5-8-2016"
    node [
       id 0
       clustering 0.943723
