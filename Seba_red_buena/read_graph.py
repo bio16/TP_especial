@@ -1,10 +1,12 @@
 import igraph
 import random
 import numpy as np
+from scipy import linalg
 
 # Cargo en el objeto graph la red de dolphins.gml.
-graph = igraph.read('news-weighted_0.60-corr_with-dates_with-comms.gml')
+graph = igraph.read('news-weighted_0.60-corr_with-dates_with-comms_filtered.gml')
 
+"""
 random.seed(123457)
 
 com = graph.community_infomap()
@@ -20,6 +22,10 @@ W = W + np.transpose(W)
 
 # Matriz diagonal con los grados de los nodos
 D = np.diag([graph.degree(i) for i in range(len(graph.vs))])
+for i in range(len(graph.vs)):
+    if graph.degree(i) == 0:
+        print i,
+
 D_1 = linalg.inv(D)
 
 # Etiquetas de cada nodo, inicialmente todos con el mismo peso
@@ -54,4 +60,4 @@ for i in range(iterations):
 # si supera cierto umbral
 
 print Y
- 
+"""
