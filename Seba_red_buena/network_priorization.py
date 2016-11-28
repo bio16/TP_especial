@@ -9,6 +9,14 @@ subgraphs = pk.load(file('Subgraphs.pk','r'))
 
 graph = deepcopy(subgraphs[1])
 
+degrees = []
+for i in range(len(graph.vs)):
+    degrees.append([graph.vs[i]['id'], graph.degree(i)])
+
+degrees_sort = sorted(degrees, key = lambda x: x[1], reverse = True)
+for j in degrees_sort:
+    print j[0], j[1]
+    
 # Matriz pesada
 W = np.zeros([len(graph.vs), len(graph.vs)], dtype = np.float)
 for es in graph.es:
@@ -33,13 +41,13 @@ print D_1.shape
 Etiquetas puestas: 0: Bonafini, 1: Cristina, 2: Macri, 3: Stolbizer
 4: Maximo, 5: de Vido, 6: Massa, 7: Carrio.
 """
-etiquetas = range(8)
+etiquetas = range(5)
 
 # Y.shape = [n documentos, n etiquetas]
 Y = np.ones([len(graph.vs),len(etiquetas)]) * (1.00 / len(etiquetas))
 
-id_notas = [[110, 2, 43],[656],[138],[93],\
-           [72,23,24,26],[41,58],[172,10],[60]]
+id_notas = [[110,2],[72, 23],[41, 60], [104], [176]]\
+#           [72,23,24,26],[41,58],[172,10],[60]]
 
 id_nodos = []
 for i in id_notas:
@@ -77,11 +85,27 @@ for i in range(iterations):
 # Puedo decir que la pertenencia es la clase mas probable
 # o si supera cierto umbral
 
+layout = graph.layout('fruchterman_reingold')
+
+for i in range(len(graph.vs)):
+    graph.vs[i]['etiqueta'] = int(np.argmax(Y[i]))
+    graph.vs[i]['label'] = str(int(graph.vs[i]['id']))
+
+igraph.plot(graph, layout = layout, \
+            vertex_label = [vs['label'] for vs in graph.vs], \
+            target = 'Subgraph1.png')
+
 colors = ['blue', 'red', 'yellow', 'green', 'gray', 'white', 'orange', 'violet']
 for i in range(len(graph.vs)):
+    graph.vs[i]['etiqueta'] = int(np.argmax(Y[i]))
     graph.vs[i]['color'] = colors[int(np.argmax(Y[i]))]
     graph.vs[i]['label'] = str(int(graph.vs[i]['id']))
 
-layout = graph.layout('fruchterman_reingold')
 igraph.plot(graph, layout = layout, \
-            vertex_label = [vs['label'] for vs in graph.vs])
+            vertex_label = [vs['label'] for vs in graph.vs],\
+            target = 'Subgraph1_etiquetado.png')
+
+fp = open('Etiquetado.txt','w')
+for i in range(len(graph.vs)):
+    fp.write(str(graph.vs[i]['etiqueta']) + ', ' + str(graph.vs[i]['id']) + '\n')
+fp.close()
