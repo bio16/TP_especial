@@ -15,7 +15,7 @@ for comm in range(100):
     for i in range(len(graph.vs)):
         if int(graph.vs[i]['comm_infomap']) == comm:
             note = news.getNotebyId(int(idNotes[int(graph.vs[i]['id'])]))
-            fp.write(str(i) + '\t' + note.title + '\n')
+            fp.write(str(i) + '\t' + note.title + '\t' + str(note.date) + '\n')
 fp.close()            
     
 
