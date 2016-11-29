@@ -62,8 +62,9 @@ clus = np.array(g.vs['clustering'])
 ndates = dates[nd2:-nd2].size 
 t_days = np.arange(nd2+1, ndates+nd2+1, 1) #----------------
 _grad = np.zeros(ndates, dtype=np.float32)
-_grad_err = np.zeros(ndates, dtype=np.float32)
-
+_grad_err   = np.zeros(ndates, dtype=np.float32)
+_grad_m     = np.zeros(ndates, dtype=np.float32)
+_grad_m_err = np.zeros(ndates, dtype=np.float32)
 for date, i in zip(dates[nd2:-nd2], range(ndates)):
     cc  = _dates>=(date-timedelta(days=nd2))
     cc &= _dates<=(date+timedelta(days=nd2))
@@ -80,9 +81,13 @@ for date, i in zip(dates[nd2:-nd2], range(ndates)):
         fig = figure(1, figsize=(6,4))
         ax  = fig.add_subplot(111)
         ax.plot(hx, hc, 'ok', label='N:%d'%nodes.size)
-        # linear fit
+        # linear fit (`cov` is the covariance matrix)
+        # See:
+        # stackoverflow.com/questions/27283393/linear-regression-slope-error-in-numpy
         _cc = hc>0.
-        m, b = np.polyfit(np.log10(hx[_cc]), np.log10(hc[_cc]), deg=1)
+        pfit, cov = np.polyfit(np.log10(hx[_cc]), np.log10(hc[_cc]), deg=1, cov=True)
+        m, b  = pfit
+        err_m = np.sqrt(cov[0][0]) # std of slope
         plot(hx, pow(10.,m*log10(hx)+b), '--r', alpha=0.6, lw=3, label='$\\alpha:$ %.1f'%m)
 
         ax.grid(True)
@@ -97,6 +102,8 @@ for date, i in zip(dates[nd2:-nd2], range(ndates)):
         fig.savefig('./degree_distrib/hist_%02d.png'%i, dpi=135, bbox_inches='tight')
         close(fig)
         #-------------
+        _grad_m[i]     = m
+        _grad_m_err[i] = err_m
     print(i,ndates)
 
 #--- normalized betweeness
@@ -109,12 +116,29 @@ inf     = _grad + _grad_err/np.sqrt(nd)
 sup     = _grad - _grad_err/np.sqrt(nd)
 ax.fill_between(t_days, inf, sup, facecolor='gray', alpha=0.5)
 
-ax.set_xlabel('nro de dias desde %s'%dates[0].strftime('%d/%B/%Y'))
+ax.set_xlabel('nro de dias desde %s'%dates[0].strftime('%d/%b/%y'))
 ax.set_ylabel('<grado>')
 ax.set_ylim(0.,)
 ax.grid(True)
 fig.savefig('./grado_vs_time_ndays.%02d.png'%pa.ndays, dpi=135, bbox_inches='tight')
 close(fig)
 
+if pa.dist:
+    #--- alpha vs time
+    fig = figure(1, figsize=(6,4))
+    ax  = fig.add_subplot(111)
+    ax.plot(t_days, _grad_m, '-ok', label='alpha')
+
+    # banda de error
+    inf     = _grad_m - _grad_m_err/np.sqrt(nd)
+    sup     = _grad_m + _grad_m_err/np.sqrt(nd)
+    ax.fill_between(t_days, inf, sup, facecolor='gray', alpha=0.5)
+
+    ax.legend(loc='best')
+    ax.set_xlabel('nro de dias desde %s'%dates[0].strftime('%d/%b/%y'))
+    ax.set_ylabel('alpha')
+    ax.grid(True)
+    fig.savefig('./alpha_vs_time_ndays.%02d.png'%pa.ndays, dpi=135, bbox_inches='tight')
+    close(fig)
 
 #EOF
