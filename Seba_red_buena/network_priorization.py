@@ -5,7 +5,7 @@ from scipy import linalg
 import cPickle as pk
 from copy import deepcopy
 
-subgraphs = pk.load(file('Subgraphs.pk','r'))
+subgraphs = pk.load(file('Subgraphs_new.pk','r'))
 
 graph = deepcopy(subgraphs[1])
 
@@ -89,21 +89,23 @@ layout = graph.layout('fruchterman_reingold')
 
 for i in range(len(graph.vs)):
     graph.vs[i]['etiqueta'] = int(np.argmax(Y[i]))
-    graph.vs[i]['label'] = str(int(graph.vs[i]['id']))
+#    graph.vs[i]['label'] = str(int(graph.vs[i]['id']))
 
 igraph.plot(graph, layout = layout, \
-            vertex_label = [vs['label'] for vs in graph.vs], \
-            target = 'Subgraph1.png')
+#            vertex_label = [vs['label'] for vs in graph.vs], \
+            target = 'Subgraph1.png', vertex_label_size = 12,\
+            vertex_size = 25)
 
 colors = ['blue', 'red', 'yellow', 'green', 'gray', 'white', 'orange', 'violet']
 for i in range(len(graph.vs)):
     graph.vs[i]['etiqueta'] = int(np.argmax(Y[i]))
     graph.vs[i]['color'] = colors[int(np.argmax(Y[i]))]
-    graph.vs[i]['label'] = str(int(graph.vs[i]['id']))
+#    graph.vs[i]['label'] = str(int(graph.vs[i]['id']))
 
 igraph.plot(graph, layout = layout, \
-            vertex_label = [vs['label'] for vs in graph.vs],\
-            target = 'Subgraph1_etiquetado.png')
+#            vertex_label = [vs['label'] for vs in graph.vs],\
+            target = 'Subgraph1_etiquetado.png', vertex_label_size = 12,\
+            vertex_size = 25)
 
 fp = open('Etiquetado.txt','w')
 for i in range(len(graph.vs)):

@@ -2,12 +2,12 @@ import igraph
 import cPickle as pk
 from copy import deepcopy
 
-subgraphs = pk.load(file('Subgraphs.pk','r'))
+subgraphs = pk.load(file('Subgraphs_new.pk','r'))
 
 i = 2
 for subgraph in subgraphs[2:]:
     layout = subgraph.layout('auto')
-    igraph.plot(subgraph, layout = layout, target = 'Community' + str(i) + '.png')
+    igraph.plot(subgraph, layout = layout, vertex_size = 25, vertex_label_size = 12, target = 'Community' + str(i) + '.png')
     i += 1
 """
 graph = deepcopy(subgraphs[1])
