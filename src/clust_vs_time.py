@@ -40,16 +40,21 @@ for date, i in zip(dates[nd2:-nd2], range(ndates)):
     cc  = _dates>=(date-timedelta(days=nd2))
     cc &= _dates<=(date+timedelta(days=nd2))
     _clus[i] = np.array(g.vs['clustering'])[cc].mean()
-    _clus_std[i] = np.array(g.vs['clustering'])[cc].std()/(1.*nd)
+    _clus_std[i] = np.array(g.vs['clustering'])[cc].std()
 
 t_days = np.arange(nd2+1, ndates+nd2+1, 1)
 
 #---
 fig = figure(1, figsize=(6,4))
 ax  = fig.add_subplot(111)
-ax.plot(t_days, _clus, '-o')
+ax.plot(t_days, _clus, '-ok')
 
-ax.set_xlabel('nro de dias desde %s'%dates[0].strftime('%d/%B/Y'))
+# banda de error
+inf     = _clus + _clus_std/np.sqrt(nd)
+sup     = _clus - _clus_std/np.sqrt(nd)
+ax.fill_between(t_days, inf, sup, facecolor='gray', alpha=0.5)
+
+ax.set_xlabel('nro de dias desde %s'%dates[0].strftime('%d/%B/%Y'))
 ax.set_ylabel('<clustering>')
 ax.grid()
 fig.savefig('./clus_vs_time.png', dpi=135, bbox_inches='tight')
